@@ -2332,3 +2332,613 @@ XBC.1	Mostly Philippines, South Korea, US, Singapore, defined by S:L452M, from i
 *H.1	Withdrawn: Alias of B.1.1.67.1, South African lineage, split from B.1.1.10
 *I.1	Withdrawn: Alias of B.1.1.217.1, Latvian lineage, split from B.1.1.25
 *J.1	Withdrawn: Alias of B.1.1.250.1, Australian lineage
+Alias of B.1.1.529.2.0, defined by ORF1ab:T842I, S:N417T, S:I68T, found in Turkey, Germany, and England. Automatically inferred by https://github.com/jmcbroome/automate-lineages-prototype.
+Alias of B.1.1.529.1.17.2.0, defined by S:F643L, ORF1ab:D1127E, ORF1ab:I2538V, ORF1ab:A354V, ORF10:R24C, found in Kiribati. Automatically inferred by https://github.com/jmcbroome/automate-lineages-prototype.
+Alias of B.1.1.529.2.10.0, defined by ORF8:Q27*, ORF1ab:T2007I, N:G18C, N:T135I, found in Japan. Automatically inferred by https://github.com/jmcbroome/automate-lineages-prototype.
+Alias of B.1.1.529.2.9.0, defined by ORF6:L61P, ORF1ab:H1113Y, ORF1ab:Q5794R, S:S730F, ORF1ab:A2909V, ORF1ab:R4387C, found in Venezuela, USA, and Spain. Automatically inferred by https://github.com/jmcbroome/automate-lineages-prototype.
+Alias of 22C (Omicron).0, defined by ORF8:Q18*, ORF1ab:F3753V, found in USA. Automatically inferred by https://github.com/jmcbroome/automate-lineages-prototype.
+Alias of B.1.1.529.2.12.1.0, defined by ORF8:Q18*, ORF1ab:F3753V, ORF7b:A15S, found in USA. Automatically inferred by https://github.com/jmcbroome/automate-lineages-prototype.
+Alias of B.1.1.529.2.74.0, defined by ORF1ab:T2859I, ORF3a:P240S, found in India, USA, and Denmark. Automatically inferred by https://github.com/jmcbroome/automate-lineages-prototype.
+Alias of XAS.0, defined by ORF1ab:T4174I, ORF1ab:K3353R, found in USA. Automatically inferred by https://github.com/jmcbroome/automate-lineages-prototype.
+Alias of 22A (Omicron).0, defined by S:N658S, ORF1ab:A967V, found in England, Scotland, and USA. Automatically inferred by https://github.com/jmcbroome/automate-lineages-prototype.
+Alias of B.1.1.529.4.0, defined by S:N658S, ORF1ab:H81N, ORF7a:R80I, S:R346S, found in USA, France, and Germany. Automatically inferred by https://github.com/jmcbroome/automate-lineages-prototype.
+Alias of B.1.1.529.4.1.0, defined by S:G3V, S:N658S, S:R346T, found in USA, England, and France. Automatically inferred by https://github.com/jmcbroome/automate-lineages-prototype.
+Alias of B.1.1.529.2.10.4.0, defined by S:G446S, ORF3a:G100C, ORF1ab:Q362L, found in England, United Kingdom, and France. Automatically inferred by https://github.com/jmcbroome/automate-lineages-prototype.
+Alias of B.1.1.529.2.3.20.0, defined by ORF1ab:S2103F, ORF1ab:T2087I, found in Denmark. Automatically inferred by https://github.com/jmcbroome/automate-lineages-prototype.
+Alias of B.1.1.529.4.1.1.0, defined by ORF3a:I37T, ORF1ab:T2247I, found in USA, Germany, and England. Automatically inferred by https://github.com/jmcbroome/automate-lineages-prototype.
+Alias of B.1.1.529.4.1.9.0, defined by ORF3a:V259L, S:K444R, found in USA. Automatically inferred by https://github.com/jmcbroome/automate-lineages-prototype.
+Alias of B.1.1.529.4.4.0, defined by ORF1ab:P2046S, S:A701V, found in USA. Automatically inferred by https://github.com/jmcbroome/automate-lineages-prototype.
+Alias of B.1.1.529.4.2.0, defined by ORF1ab:S4286G, ORF1ab:F2787S, found in USA and Germany. Automatically inferred by https://github.com/jmcbroome/automate-lineages-prototype.
+Alias of B.1.1.529.2.75_dropout.0, defined by S:I210V, S:G257S, S:W152R, found in India. Automatically inferred by https://github.com/jmcbroome/automate-lineages-prototype.
+Alias of B.1.1.529.4.7.0, defined by ORF1ab:Q5947H, ORF3a:A51V, found in England, Denmark, and Wales. Automatically inferred by https://github.com/jmcbroome/automate-lineages-prototype.
+Alias of B.1.1.529.4.5.0, defined by ORF1ab:L552F, ORF1ab:A3143V, found in Australia and NewZealand. Automatically inferred by https://github.com/jmcbroome/automate-lineages-prototype.
+Alias of B.1.1.529.4.6.0, defined by ORF1ab:T6175I, ORF1ab:T5912I, found in USA, Canada, and France. Automatically inferred by https://github.com/jmcbroome/automate-lineages-prototype.
+Alias of 22B (Omicron).0, defined by ORF1ab:A6044V, N:T49I, S:S255F, ORF1ab:M4993I, found in England, Japan, and Wales. Automatically inferred by https://github.com/jmcbroome/automate-lineages-prototype.
+Alias of B.1.1.529.5.0, defined by ORF1ab:A6044V, N:T49I, S:S255F, ORF1ab:M4993I, ORF1ab:V1915I, found in England, Scotland, and USA. Automatically inferred by https://github.com/jmcbroome/automate-lineages-prototype.
+Alias of B.1.1.529.4.1.8.0, defined by ORF1ab:I5817V, ORF1ab:R207C, found in USA. Automatically inferred by https://github.com/jmcbroome/automate-lineages-prototype.
+Alias of B.1.1.529.4.6.1.0, defined by ORF1ab:L4391F, ORF1ab:A1420V, found in England and Israel. Automatically inferred by https://github.com/jmcbroome/automate-lineages-prototype.
+Alias of XAZ.0, defined by ORF1ab:P1989S, ORF8:I74S, N:D377Y, found in Slovakia and Germany. Automatically inferred by https://github.com/jmcbroome/automate-lineages-prototype.
+Alias of B.1.1.529.5.5.0, defined by ORF1ab:A903V, ORF1ab:A1049V, found in USA, Denmark, and England. Automatically inferred by https://github.com/jmcbroome/automate-lineages-prototype.
+Alias of B.1.1.529.5.3.0, defined by ORF1ab:I5869V, S:S1170F, ORF3a:S253P, found in USA and Belgium. Automatically inferred by https://github.com/jmcbroome/automate-lineages-prototype.
+Alias of B.1.1.529.5.2_no28330.0, defined by ORF1ab:A2637T, ORF1ab:G519S, found in England, Germany, and Denmark. Automatically inferred by https://github.com/jmcbroome/automate-lineages-prototype.
+Alias of B.1.1.529.5.1_no27438.0, defined by N:G34V, ORF1ab:T4129I, found in Wales, Denmark, and England. Automatically inferred by https://github.com/jmcbroome/automate-lineages-prototype.
+Alias of B.1.1.529.5.3.2.0, defined by ORF1ab:P4853S, ORF1ab:L6981I, found in Germany and Denmark. Automatically inferred by https://github.com/jmcbroome/automate-lineages-prototype.
+Alias of B.1.1.529.5.3.3.0, defined by ORF1ab:K6958R, ORF1ab:F2193S, S:A829T, S:A67V, found in Israel and Germany. Automatically inferred by https://github.com/jmcbroome/automate-lineages-prototype.
+Alias of B.1.1.529.5.3.1.0, defined by ORF7a:T39P, ORF7a:K119R, found in Germany, Israel, and USA. Automatically inferred by https://github.com/jmcbroome/automate-lineages-prototype.
+Alias of B.1.1.529.5.1.0, defined by ORF3a:D155Y, ORF1ab:A6990T, found in Germany, USA, and England. Automatically inferred by https://github.com/jmcbroome/automate-lineages-prototype.
+Alias of B.1.1.529.5.2.0, defined by ORF1ab:T5451N, E:I9T, found in Japan, SouthKorea, and Thailand. Automatically inferred by https://github.com/jmcbroome/automate-lineages-prototype.
+Alias of 22D (Omicron).0, defined by ORF1ab:P5402S, S:K356T, ORF1ab:T4302N, found in Wales, USA, and India. Automatically inferred by https://github.com/jmcbroome/automate-lineages-prototype.
+Alias of B.1.1.529.2.75.0, defined by ORF1ab:P5402S, S:K356T, ORF1ab:T4302N, N:T24I, found in Wales. Automatically inferred by https://github.com/jmcbroome/automate-lineages-prototype.
+Alias of B.1.1.529.5.6.0, defined by ORF1ab:T6938I, ORF1ab:M6240I, ORF1ab:K734N, found in USA and Denmark. Automatically inferred by https://github.com/jmcbroome/automate-lineages-prototype.
+Alias of B.1.1.529.5.3.1.1.0, defined by ORF1ab:A1204T, ORF3a:V48F, ORF3a:G49C, found in England, USA, and Australia. Automatically inferred by https://github.com/jmcbroome/automate-lineages-prototype.
+Alias of B.1.1.529.5.1.17.0, defined by ORF1ab:I114T, ORF1ab:T4617I, ORF1ab:A5660T, found in France, Germany, and USA. Automatically inferred by https://github.com/jmcbroome/automate-lineages-prototype.
+Alias of B.1.1.529.5.1.24.0, defined by ORF6:E13G, ORF1ab:Y1039H, ORF7a:P84L, ORF1ab:I3576V, found in Denmark. Automatically inferred by https://github.com/jmcbroome/automate-lineages-prototype.
+Alias of B.1.1.529.5.1.22.0, defined by ORF1ab:T2106I, ORF1ab:D2136N, found in France, Germany, and USA. Automatically inferred by https://github.com/jmcbroome/automate-lineages-prototype.
+Alias of B.1.1.529.5.1.3.0, defined by ORF1ab:L1853F, ORF1ab:K3351N, ORF1ab:M6661T, found in Germany. Automatically inferred by https://github.com/jmcbroome/automate-lineages-prototype.
+Alias of B.1.1.529.5.1.11.0, defined by ORF1ab:I2368T, N:A211S, found in Denmark. Automatically inferred by https://github.com/jmcbroome/automate-lineages-prototype.
+Alias of B.1.1.529.5.1.2.0, defined by ORF1ab:T1682I, ORF7a:T14N, found in Germany. Automatically inferred by https://github.com/jmcbroome/automate-lineages-prototype.
+Alias of B.1.1.529.5.1.23.0, defined by ORF1ab:K1895N, ORF1ab:A4016S, found in USA, Germany, and Spain. Automatically inferred by https://github.com/jmcbroome/automate-lineages-prototype.
+Alias of B.1.1.529.5.2.1.0, defined by ORF6:P57L, ORF1ab:I616T, found in Japan, USA, and Germany. Automatically inferred by https://github.com/jmcbroome/automate-lineages-prototype.
+Alias of B.1.1.529.2.75.5.0, defined by ORF1ab:V2955M, ORF7a:T39I, ORF1ab:A3357T, found in Singapore. Automatically inferred by https://github.com/jmcbroome/automate-lineages-prototype.
+Alias of B.1.1.529.2.75.1.0, defined by ORF1ab:S376L, ORF1ab:V6772L, S:K356R, ORF7a:P99L, ORF1ab:R5479H, found in Germany, Croatia, and Luxembourg. Automatically inferred by https://github.com/jmcbroome/automate-lineages-prototype.
+Alias of B.1.1.529.5.5.2.0, defined by ORF1ab:M1014K, S:Q677H, found in USA and Canada. Automatically inferred by https://github.com/jmcbroome/automate-lineages-prototype.
+Alias of B.1.1.529.5.5.1.0, defined by ORF1ab:P7034S, ORF1ab:P2685T, found in USA. Automatically inferred by https://github.com/jmcbroome/automate-lineages-prototype.
+Alias of B.1.1.529.5.9.0, defined by ORF1ab:T3750I, ORF1ab:Y4913C, found in Germany, USA, and Denmark. Automatically inferred by https://github.com/jmcbroome/automate-lineages-prototype.
+Alias of B.1.1.529.5.1.5.0, defined by ORF10:F37L, N:P67S, N:S412I, found in Scotland, USA, and England. Automatically inferred by https://github.com/jmcbroome/automate-lineages-prototype.
+Alias of B.1.1.529.5.1.25.0, defined by ORF6:D6G, ORF8:V49L, N:P80S, found in USA. Automatically inferred by https://github.com/jmcbroome/automate-lineages-prototype.
+Alias of B.1.1.529.5.1.6.0, defined by S:R346T, ORF1ab:R43H, found in USA. Automatically inferred by https://github.com/jmcbroome/automate-lineages-prototype.
+Alias of B.1.1.529.5.1.10.0, defined by ORF1ab:G5942W, ORF1ab:P5371L, found in USA, England, and Ireland. Automatically inferred by https://github.com/jmcbroome/automate-lineages-prototype.
+Alias of B.1.1.529.5.1.1.0, defined by ORF3a:K21N, ORF1ab:G5063C, ORF1ab:I4127V, ORF1ab:P5828L, found in USA. Automatically inferred by https://github.com/jmcbroome/automate-lineages-prototype.
+Alias of B.1.1.529.5.2.1.8.0, defined by ORF3a:Y145F, ORF1ab:T4685I, found in USA. Automatically inferred by https://github.com/jmcbroome/automate-lineages-prototype.
+Alias of B.1.1.529.5.2.1.18.0, defined by ORF1ab:L3919F, ORF3a:V29L, found in Australia. Automatically inferred by https://github.com/jmcbroome/automate-lineages-prototype.
+Alias of B.1.1.529.5.2.1.6.0, defined by N:A152S, ORF1ab:P2055S, S:T732I, found in Germany. Automatically inferred by https://github.com/jmcbroome/automate-lineages-prototype.
+Alias of B.1.1.529.5.2.1.4.0, defined by ORF1ab:A2080V, N:D103N, found in England, USA, and Scotland. Automatically inferred by https://github.com/jmcbroome/automate-lineages-prototype.
+Alias of B.1.1.529.5.2.9.0, defined by ORF1ab:A2249V, ORF8:W45L, found in USA. Automatically inferred by https://github.com/jmcbroome/automate-lineages-prototype.
+Alias of B.1.1.529.5.2.4.0, defined by ORF1ab:V6474L, ORF1ab:L123I, found in Australia, France, and USA. Automatically inferred by https://github.com/jmcbroome/automate-lineages-prototype.
+Alias of XBB.1.0, defined by ORF8:G8*, ORF1ab:P309L, found in Singapore. Automatically inferred by https://github.com/jmcbroome/automate-lineages-prototype.
+Alias of B.1.1.529.5.8.0, defined by N:P46S, ORF1ab:F31Y, found in Sweden. Automatically inferred by https://github.com/jmcbroome/automate-lineages-prototype.
+Alias of B.1.1.529.5.3.1.3.0, defined by S:I231T, ORF3a:D238V, found in USA. Automatically inferred by https://github.com/jmcbroome/automate-lineages-prototype.
+Alias of B.1.1.529.5.3.1.2.0, defined by ORF3a:L52F, ORF1ab:P371S, ORF1ab:P5371L, found in USA. Automatically inferred by https://github.com/jmcbroome/automate-lineages-prototype.
+Alias of B.1.1.529.5.3.1.1.1.0, defined by ORF1ab:L3644F, ORF1ab:H110Y, ORF1ab:A6623V, ORF1ab:P3371S, found in Germany, Denmark, and Sweden. Automatically inferred by https://github.com/jmcbroome/automate-lineages-prototype.
+Alias of B.1.1.529.5.1.7.0, defined by N:P20L, ORF1ab:T2898A, found in Canada. Automatically inferred by https://github.com/jmcbroome/automate-lineages-prototype.
+Alias of B.1.1.529.5.1.10.1.0, defined by ORF1ab:V2998I, ORF1ab:G209D, found in USA. Automatically inferred by https://github.com/jmcbroome/automate-lineages-prototype.
+Alias of B.1.1.529.5.2.1.17.0, defined by ORF1ab:T4617A, ORF10:R24C, found in Australia. Automatically inferred by https://github.com/jmcbroome/automate-lineages-prototype.
+Alias of B.1.1.529.5.2.1.14.0, defined by ORF1ab:A1156T, M:A104V, found in Austria. Automatically inferred by https://github.com/jmcbroome/automate-lineages-prototype.
+Alias of B.1.1.529.5.2.1.28.0, defined by ORF1ab:V6772L, ORF1ab:V988F, ORF1ab:G137S, found in England, USA, and Denmark. Automatically inferred by https://github.com/jmcbroome/automate-lineages-prototype.
+Alias of B.1.1.529.5.2.1.26.0, defined by ORF1ab:A878V, ORF1ab:A6296V, ORF1ab:R119H, found in Sweden and Denmark. Automatically inferred by https://github.com/jmcbroome/automate-lineages-prototype.
+Alias of B.1.1.529.5.2.1.7.0, defined by ORF3a:E239D, ORF1ab:V1287L, ORF1ab:L1287V, found in Germany, Denmark, and Belgium. Automatically inferred by https://github.com/jmcbroome/automate-lineages-prototype.
+Alias of B.1.1.529.5.2.26.0, defined by ORF1ab:T2846I, ORF1ab:T2021I, found in Japan. Automatically inferred by https://github.com/jmcbroome/automate-lineages-prototype.
+Alias of B.1.1.529.5.2.2.0, defined by ORF1ab:S6713L, ORF1ab:T2153I, found in USA. Automatically inferred by https://github.com/jmcbroome/automate-lineages-prototype.
+Alias of B.1.1.529.2.75.1.3.0, defined by N:A211S, ORF1ab:P2568S, S:R346T, found in Singapore. Automatically inferred by https://github.com/jmcbroome/automate-lineages-prototype.
+Alias of B.1.1.529.5.6.1.0, defined by ORF1ab:M4116V, ORF3a:S166L, found in Peru, Canada, and USA. Automatically inferred by https://github.com/jmcbroome/automate-lineages-prototype.
+Alias of B.1.1.529.5.1.4.0, defined by ORF1ab:T2859I, ORF1ab:P5828S, ORF6:D61L, ORF6:D61L, ORF6:D61L, found in England. Automatically inferred by https://github.com/jmcbroome/automate-lineages-prototype.
+Alias of B.1.1.529.5.1.21.0, defined by ORF8:H17Y, ORF8:L95F, found in Denmark. Automatically inferred by https://github.com/jmcbroome/automate-lineages-prototype.
+Alias of B.1.1.529.5.2.1.11.0, defined by S:S1252F, ORF1ab:L624I, ORF1ab:A3615V, ORF1ab:V5493F, found in England and Scotland. Automatically inferred by https://github.com/jmcbroome/automate-lineages-prototype.
+Alias of B.1.1.529.5.2.1.10.0, defined by ORF1ab:G2207C, ORF1ab:C2207S, found in USA and Canada. Automatically inferred by https://github.com/jmcbroome/automate-lineages-prototype.
+Alias of B.1.1.529.5.2.1_no28330.0, defined by ORF1ab:T5805M, ORF3a:A33S, found in France, Australia, and Denmark. Automatically inferred by https://github.com/jmcbroome/automate-lineages-prototype.
+Alias of B.1.1.529.5.2.1.23.0, defined by ORF1ab:T3940I, ORF1ab:S4621N, found in CzechRepublic. Automatically inferred by https://github.com/jmcbroome/automate-lineages-prototype.
+Alias of B.1.1.529.5.2.1.3.0, defined by ORF1ab:H417Y, ORF8:H28Q, found in USA, Singapore, and India. Automatically inferred by https://github.com/jmcbroome/automate-lineages-prototype.
+Alias of B.1.1.529.5.2.1.27.0, defined by ORF1ab:E352K, ORF7a:I3V, found in USA. Automatically inferred by https://github.com/jmcbroome/automate-lineages-prototype.
+Alias of B.1.1.529.5.10.0, defined by ORF1ab:T6833I, ORF1ab:G993C, found in Canada and USA. Automatically inferred by https://github.com/jmcbroome/automate-lineages-prototype.
+Alias of B.1.1.529.2.75.5.1.0, defined by ORF3a:T229I, ORF1ab:M3627I, found in Singapore, England, and Denmark. Automatically inferred by https://github.com/jmcbroome/automate-lineages-prototype.
+Alias of B.1.1.529.5.6.3.0, defined by ORF1ab:S34T, S:H146Y, found in England. Automatically inferred by https://github.com/jmcbroome/automate-lineages-prototype.
+Alias of B.1.1.529.5.3.1.1.1.2.0, defined by ORF1ab:T2408I, ORF3a:V88L, found in Germany, England, and Denmark. Automatically inferred by https://github.com/jmcbroome/automate-lineages-prototype.
+Alias of B.1.1.529.5.3.1.1.1.1.0, defined by ORF1ab:A565V, N:L161F, found in England. Automatically inferred by https://github.com/jmcbroome/automate-lineages-prototype.
+Alias of B.1.1.529.5.3.1.1.3.0, defined by S:K147N, ORF1ab:V86D, found in Sweden and Denmark. Automatically inferred by https://github.com/jmcbroome/automate-lineages-prototype.
+Alias of B.1.1.529.5.2.21.0, defined by ORF1ab:P5624L, ORF1ab:L3644F, found in USA. Automatically inferred by https://github.com/jmcbroome/automate-lineages-prototype.
+Alias of B.1.1.529.5.2.16.0, defined by ORF3a:T89I, S:V445A, found in USA. Automatically inferred by https://github.com/jmcbroome/automate-lineages-prototype.
+Alias of B.1.1.529.5.2.12.0, defined by ORF7a:G42D, ORF1ab:G519S, found in Japan. Automatically inferred by https://github.com/jmcbroome/automate-lineages-prototype.
+Alias of B.1.1.529.5.2.18.0, defined by ORF1ab:N6101S, ORF3a:T269M, found in Sweden. Automatically inferred by https://github.com/jmcbroome/automate-lineages-prototype.
+Alias of B.1.1.529.5.2.31.0, defined by ORF1ab:S376L, ORF8:P36S, found in USA. Automatically inferred by https://github.com/jmcbroome/automate-lineages-prototype.
+Alias of B.1.1.529.5.2.19.0, defined by ORF1ab:D2026A, S:H1083Y, found in Japan. Automatically inferred by https://github.com/jmcbroome/automate-lineages-prototype.
+Alias of B.1.1.529.5.2.6.0, defined by ORF1ab:A4257V, ORF1ab:L6961F, found in USA. Automatically inferred by https://github.com/jmcbroome/automate-lineages-prototype.
+Alias of B.1.1.529.5.2.28.0, defined by ORF3a:F43L, ORF8:A51V, found in USA and Denmark. Automatically inferred by https://github.com/jmcbroome/automate-lineages-prototype.
+Alias of B.1.1.529.5.2.20.0, defined by ORF1ab:G1068E, ORF7a:L17F, found in Germany, France, and Italy. Automatically inferred by https://github.com/jmcbroome/automate-lineages-prototype.
+Alias of B.1.1.529.5.2.22.0, defined by ORF1ab:E441V, ORF3a:D22Y, found in Sweden, Denmark, and England. Automatically inferred by https://github.com/jmcbroome/automate-lineages-prototype.
+Alias of B.1.1.529.5.2.33.0, defined by ORF3a:A143S, ORF8:P85S, ORF1ab:A385V, found in United Kingdom. Automatically inferred by https://github.com/jmcbroome/automate-lineages-prototype.
+Alias of B.1.1.529.5.2.27.0, defined by ORF3a:Y264H, ORF1ab:A2891V, found in Canada and USA. Automatically inferred by https://github.com/jmcbroome/automate-lineages-prototype.
+Alias of B.1.1.529.5.2.1.1.0, defined by ORF3a:V244I, ORF1ab:R4017K, ORF1ab:G1663D, found in Japan, USA, and Canada. Automatically inferred by https://github.com/jmcbroome/automate-lineages-prototype.
+Alias of B.1.1.529.2.75.3.1.1.0, defined by ORF1ab:T5451I, ORF1ab:S167G, found in Austria, India, and USA. Automatically inferred by https://github.com/jmcbroome/automate-lineages-prototype.
+Alias of B.1.1.529.5.2.30.0, defined by ORF1ab:E6129D, ORF7b:E39*, found in Denmark. Automatically inferred by https://github.com/jmcbroome/automate-lineages-prototype.
+Alias of B.1.1.529.5.2.29.0, defined by S:K1191N, ORF1ab:D5128N, found in Denmark. Automatically inferred by https://github.com/jmcbroome/automate-lineages-prototype.
+Alias of B.1.1.529.5.2.3.0, defined by ORF1ab:V28I, ORF1ab:T3750I, found in Sweden, Denmark, and USA. Automatically inferred by https://github.com/jmcbroome/automate-lineages-prototype.
+Alias of B.1.1.529.5.2.27.1.0, defined by S:H66R, ORF1ab:I2230T, found in USA. Automatically inferred by https://github.com/jmcbroome/automate-lineages-prototype.
+Alias of B.1.1.529.5.2.1.5.0, defined by ORF1ab:I2873V, ORF1ab:K3839R, found in Japan. Automatically inferred by https://github.com/jmcbroome/automate-lineages-prototype.
+Alias of XAW.0, defined by ORF1ab:V1143F, ORF1ab:S6713L, found in Russia. Automatically inferred by https://github.com/jmcbroome/automate-lineages-prototype.
+Alias of B.1.1.529.5.3.1.1.1.1.1.0, defined by ORF1ab:N5592S, ORF1ab:A540V, found in Ireland, France, and England. Automatically inferred by https://github.com/jmcbroome/automate-lineages-prototype.
+Alias of B.1.1.529.5.2.7.0, defined by ORF1ab:H3395Y, N:Q386H, found in USA, Germany, and Croatia. Automatically inferred by https://github.com/jmcbroome/automate-lineages-prototype.
+Alias of B.1.1.529.5.2.13.0, defined by ORF1ab:P971S, S:T791I, ORF1ab:D1532G, found in England and United Kingdom. Automatically inferred by https://github.com/jmcbroome/automate-lineages-prototype.
+Alias of B.1.1.529.5.2.1.21.0, defined by ORF1ab:T4161I, ORF1ab:H4831Y, found in USA. Automatically inferred by https://github.com/jmcbroome/automate-lineages-prototype.
+Alias of B.1.1.529.5.2.1.13.0, defined by ORF1ab:K6958R, ORF1ab:T5451I, found in Sweden, Belgium, and USA. Automatically inferred by https://github.com/jmcbroome/automate-lineages-prototype.
+Alias of B.1.1.529.5.2.25.0, defined by ORF3a:D27E, N:T332I, found in Guinea, USA, and Denmark. Automatically inferred by https://github.com/jmcbroome/automate-lineages-prototype.
+Alias of B.1.1.529.5.2.3.1.0, defined by ORF1ab:E5689D, ORF1ab:S17N, found in Denmark. Automatically inferred by https://github.com/jmcbroome/automate-lineages-prototype.
+Alias of B.1.1.529.5.3.1.1.1.1.1.1.0, defined by ORF1ab:P6714L, ORF1ab:V3855I, found in England, USA, and France. Automatically inferred by https://github.com/jmcbroome/automate-lineages-prototype.
+Alias of B.1.1.529.2.75.2.1.0, defined by ORF3a:G44R, M:L17F, found in USA. Automatically inferred by https://github.com/jmcbroome/automate-lineages-prototype.
+Alias of B.1.1.529.2.0, defined by ORF1ab:T842I, S:N417T, S:I68T, found in Turkey, Germany, and England. Automatically inferred by https://github.com/jmcbroome/automate-lineages-prototype.
+Alias of B.1.1.529.1.17.2.0, defined by S:F643L, ORF1ab:D1127E, ORF1ab:I2538V, ORF1ab:A354V, ORF10:R24C, found in Kiribati. Automatically inferred by https://github.com/jmcbroome/automate-lineages-prototype.
+Alias of B.1.1.529.2.10.0, defined by ORF8:Q27*, ORF1ab:T2007I, N:G18C, N:T135I, found in Japan. Automatically inferred by https://github.com/jmcbroome/automate-lineages-prototype.
+Alias of B.1.1.529.2.9.0, defined by ORF6:L61P, ORF1ab:H1113Y, ORF1ab:Q5794R, S:S730F, ORF1ab:A2909V, ORF1ab:R4387C, found in Venezuela, USA, and Spain. Automatically inferred by https://github.com/jmcbroome/automate-lineages-prototype.
+Alias of 22C (Omicron).0, defined by ORF8:Q18*, ORF1ab:F3753V, found in USA. Automatically inferred by https://github.com/jmcbroome/automate-lineages-prototype.
+Alias of B.1.1.529.2.12.1.0, defined by ORF8:Q18*, ORF1ab:F3753V, ORF7b:A15S, found in USA. Automatically inferred by https://github.com/jmcbroome/automate-lineages-prototype.
+Alias of B.1.1.529.2.74.0, defined by ORF1ab:T2859I, ORF3a:P240S, found in India, USA, and Denmark. Automatically inferred by https://github.com/jmcbroome/automate-lineages-prototype.
+Alias of XAS.0, defined by ORF1ab:T4174I, ORF1ab:K3353R, found in USA. Automatically inferred by https://github.com/jmcbroome/automate-lineages-prototype.
+Alias of 22A (Omicron).0, defined by S:N658S, ORF1ab:A967V, found in England, Scotland, and USA. Automatically inferred by https://github.com/jmcbroome/automate-lineages-prototype.
+Alias of B.1.1.529.4.0, defined by S:N658S, ORF1ab:H81N, ORF7a:R80I, S:R346S, found in USA, France, and Germany. Automatically inferred by https://github.com/jmcbroome/automate-lineages-prototype.
+Alias of B.1.1.529.4.1.0, defined by S:G3V, S:N658S, S:R346T, found in USA, England, and France. Automatically inferred by https://github.com/jmcbroome/automate-lineages-prototype.
+Alias of B.1.1.529.2.10.4.0, defined by S:G446S, ORF3a:G100C, ORF1ab:Q362L, found in England, United Kingdom, and France. Automatically inferred by https://github.com/jmcbroome/automate-lineages-prototype.
+Alias of B.1.1.529.2.3.20.0, defined by ORF1ab:S2103F, ORF1ab:T2087I, found in Denmark. Automatically inferred by https://github.com/jmcbroome/automate-lineages-prototype.
+Alias of B.1.1.529.4.1.1.0, defined by ORF3a:I37T, ORF1ab:T2247I, found in USA, Germany, and England. Automatically inferred by https://github.com/jmcbroome/automate-lineages-prototype.
+Alias of B.1.1.529.4.1.9.0, defined by ORF3a:V259L, S:K444R, found in USA. Automatically inferred by https://github.com/jmcbroome/automate-lineages-prototype.
+Alias of B.1.1.529.4.4.0, defined by ORF1ab:P2046S, S:A701V, found in USA. Automatically inferred by https://github.com/jmcbroome/automate-lineages-prototype.
+Alias of B.1.1.529.4.2.0, defined by ORF1ab:S4286G, ORF1ab:F2787S, found in USA and Germany. Automatically inferred by https://github.com/jmcbroome/automate-lineages-prototype.
+Alias of B.1.1.529.2.75_dropout.0, defined by S:I210V, S:G257S, S:W152R, found in India. Automatically inferred by https://github.com/jmcbroome/automate-lineages-prototype.
+Alias of B.1.1.529.4.7.0, defined by ORF1ab:Q5947H, ORF3a:A51V, found in England, Denmark, and Wales. Automatically inferred by https://github.com/jmcbroome/automate-lineages-prototype.
+Alias of B.1.1.529.4.5.0, defined by ORF1ab:L552F, ORF1ab:A3143V, found in Australia and NewZealand. Automatically inferred by https://github.com/jmcbroome/automate-lineages-prototype.
+Alias of B.1.1.529.4.6.0, defined by ORF1ab:T6175I, ORF1ab:T5912I, found in USA, Canada, and France. Automatically inferred by https://github.com/jmcbroome/automate-lineages-prototype.
+Alias of 22B (Omicron).0, defined by ORF1ab:A6044V, N:T49I, S:S255F, ORF1ab:M4993I, found in England, Japan, and Wales. Automatically inferred by https://github.com/jmcbroome/automate-lineages-prototype.
+Alias of B.1.1.529.5.0, defined by ORF1ab:A6044V, N:T49I, S:S255F, ORF1ab:M4993I, ORF1ab:V1915I, found in England, Scotland, and USA. Automatically inferred by https://github.com/jmcbroome/automate-lineages-prototype.
+Alias of B.1.1.529.4.1.8.0, defined by ORF1ab:I5817V, ORF1ab:R207C, found in USA. Automatically inferred by https://github.com/jmcbroome/automate-lineages-prototype.
+Alias of B.1.1.529.4.6.1.0, defined by ORF1ab:L4391F, ORF1ab:A1420V, found in England and Israel. Automatically inferred by https://github.com/jmcbroome/automate-lineages-prototype.
+Alias of XAZ.0, defined by ORF1ab:P1989S, ORF8:I74S, N:D377Y, found in Slovakia and Germany. Automatically inferred by https://github.com/jmcbroome/automate-lineages-prototype.
+Alias of B.1.1.529.5.5.0, defined by ORF1ab:A903V, ORF1ab:A1049V, found in USA, Denmark, and England. Automatically inferred by https://github.com/jmcbroome/automate-lineages-prototype.
+Alias of B.1.1.529.5.3.0, defined by ORF1ab:I5869V, S:S1170F, ORF3a:S253P, found in USA and Belgium. Automatically inferred by https://github.com/jmcbroome/automate-lineages-prototype.
+Alias of B.1.1.529.5.2_no28330.0, defined by ORF1ab:A2637T, ORF1ab:G519S, found in England, Germany, and Denmark. Automatically inferred by https://github.com/jmcbroome/automate-lineages-prototype.
+Alias of B.1.1.529.5.1_no27438.0, defined by N:G34V, ORF1ab:T4129I, found in Wales, Denmark, and England. Automatically inferred by https://github.com/jmcbroome/automate-lineages-prototype.
+Alias of B.1.1.529.5.3.2.0, defined by ORF1ab:P4853S, ORF1ab:L6981I, found in Germany and Denmark. Automatically inferred by https://github.com/jmcbroome/automate-lineages-prototype.
+Alias of B.1.1.529.5.3.3.0, defined by ORF1ab:K6958R, ORF1ab:F2193S, S:A829T, S:A67V, found in Israel and Germany. Automatically inferred by https://github.com/jmcbroome/automate-lineages-prototype.
+Alias of B.1.1.529.5.3.1.0, defined by ORF7a:T39P, ORF7a:K119R, found in Germany, Israel, and USA. Automatically inferred by https://github.com/jmcbroome/automate-lineages-prototype.
+Alias of B.1.1.529.5.1.0, defined by ORF3a:D155Y, ORF1ab:A6990T, found in Germany, USA, and England. Automatically inferred by https://github.com/jmcbroome/automate-lineages-prototype.
+Alias of B.1.1.529.5.2.0, defined by ORF1ab:T5451N, E:I9T, found in Japan, SouthKorea, and Thailand. Automatically inferred by https://github.com/jmcbroome/automate-lineages-prototype.
+Alias of 22D (Omicron).0, defined by ORF1ab:P5402S, S:K356T, ORF1ab:T4302N, found in Wales, USA, and India. Automatically inferred by https://github.com/jmcbroome/automate-lineages-prototype.
+Alias of B.1.1.529.2.75.0, defined by ORF1ab:P5402S, S:K356T, ORF1ab:T4302N, N:T24I, found in Wales. Automatically inferred by https://github.com/jmcbroome/automate-lineages-prototype.
+Alias of B.1.1.529.5.6.0, defined by ORF1ab:T6938I, ORF1ab:M6240I, ORF1ab:K734N, found in USA and Denmark. Automatically inferred by https://github.com/jmcbroome/automate-lineages-prototype.
+Alias of B.1.1.529.5.3.1.1.0, defined by ORF1ab:A1204T, ORF3a:V48F, ORF3a:G49C, found in England, USA, and Australia. Automatically inferred by https://github.com/jmcbroome/automate-lineages-prototype.
+Alias of B.1.1.529.5.1.17.0, defined by ORF1ab:I114T, ORF1ab:T4617I, ORF1ab:A5660T, found in France, Germany, and USA. Automatically inferred by https://github.com/jmcbroome/automate-lineages-prototype.
+Alias of B.1.1.529.5.1.24.0, defined by ORF6:E13G, ORF1ab:Y1039H, ORF7a:P84L, ORF1ab:I3576V, found in Denmark. Automatically inferred by https://github.com/jmcbroome/automate-lineages-prototype.
+Alias of B.1.1.529.5.1.22.0, defined by ORF1ab:T2106I, ORF1ab:D2136N, found in France, Germany, and USA. Automatically inferred by https://github.com/jmcbroome/automate-lineages-prototype.
+Alias of B.1.1.529.5.1.3.0, defined by ORF1ab:L1853F, ORF1ab:K3351N, ORF1ab:M6661T, found in Germany. Automatically inferred by https://github.com/jmcbroome/automate-lineages-prototype.
+Alias of B.1.1.529.5.1.11.0, defined by ORF1ab:I2368T, N:A211S, found in Denmark. Automatically inferred by https://github.com/jmcbroome/automate-lineages-prototype.
+Alias of B.1.1.529.5.1.2.0, defined by ORF1ab:T1682I, ORF7a:T14N, found in Germany. Automatically inferred by https://github.com/jmcbroome/automate-lineages-prototype.
+Alias of B.1.1.529.5.1.23.0, defined by ORF1ab:K1895N, ORF1ab:A4016S, found in USA, Germany, and Spain. Automatically inferred by https://github.com/jmcbroome/automate-lineages-prototype.
+Alias of B.1.1.529.5.2.1.0, defined by ORF6:P57L, ORF1ab:I616T, found in Japan, USA, and Germany. Automatically inferred by https://github.com/jmcbroome/automate-lineages-prototype.
+Alias of B.1.1.529.2.75.5.0, defined by ORF1ab:V2955M, ORF7a:T39I, ORF1ab:A3357T, found in Singapore. Automatically inferred by https://github.com/jmcbroome/automate-lineages-prototype.
+Alias of B.1.1.529.2.75.1.0, defined by ORF1ab:S376L, ORF1ab:V6772L, S:K356R, ORF7a:P99L, ORF1ab:R5479H, found in Germany, Croatia, and Luxembourg. Automatically inferred by https://github.com/jmcbroome/automate-lineages-prototype.
+Alias of B.1.1.529.5.5.2.0, defined by ORF1ab:M1014K, S:Q677H, found in USA and Canada. Automatically inferred by https://github.com/jmcbroome/automate-lineages-prototype.
+Alias of B.1.1.529.5.5.1.0, defined by ORF1ab:P7034S, ORF1ab:P2685T, found in USA. Automatically inferred by https://github.com/jmcbroome/automate-lineages-prototype.
+Alias of B.1.1.529.5.9.0, defined by ORF1ab:T3750I, ORF1ab:Y4913C, found in Germany, USA, and Denmark. Automatically inferred by https://github.com/jmcbroome/automate-lineages-prototype.
+Alias of B.1.1.529.5.1.5.0, defined by ORF10:F37L, N:P67S, N:S412I, found in Scotland, USA, and England. Automatically inferred by https://github.com/jmcbroome/automate-lineages-prototype.
+Alias of B.1.1.529.5.1.25.0, defined by ORF6:D6G, ORF8:V49L, N:P80S, found in USA. Automatically inferred by https://github.com/jmcbroome/automate-lineages-prototype.
+Alias of B.1.1.529.5.1.6.0, defined by S:R346T, ORF1ab:R43H, found in USA. Automatically inferred by https://github.com/jmcbroome/automate-lineages-prototype.
+Alias of B.1.1.529.5.1.10.0, defined by ORF1ab:G5942W, ORF1ab:P5371L, found in USA, England, and Ireland. Automatically inferred by https://github.com/jmcbroome/automate-lineages-prototype.
+Alias of B.1.1.529.5.1.1.0, defined by ORF3a:K21N, ORF1ab:G5063C, ORF1ab:I4127V, ORF1ab:P5828L, found in USA. Automatically inferred by https://github.com/jmcbroome/automate-lineages-prototype.
+Alias of B.1.1.529.5.2.1.8.0, defined by ORF3a:Y145F, ORF1ab:T4685I, found in USA. Automatically inferred by https://github.com/jmcbroome/automate-lineages-prototype.
+Alias of B.1.1.529.5.2.1.18.0, defined by ORF1ab:L3919F, ORF3a:V29L, found in Australia. Automatically inferred by https://github.com/jmcbroome/automate-lineages-prototype.
+Alias of B.1.1.529.5.2.1.6.0, defined by N:A152S, ORF1ab:P2055S, S:T732I, found in Germany. Automatically inferred by https://github.com/jmcbroome/automate-lineages-prototype.
+Alias of B.1.1.529.5.2.1.4.0, defined by ORF1ab:A2080V, N:D103N, found in England, USA, and Scotland. Automatically inferred by https://github.com/jmcbroome/automate-lineages-prototype.
+Alias of B.1.1.529.5.2.9.0, defined by ORF1ab:A2249V, ORF8:W45L, found in USA. Automatically inferred by https://github.com/jmcbroome/automate-lineages-prototype.
+Alias of B.1.1.529.5.2.4.0, defined by ORF1ab:V6474L, ORF1ab:L123I, found in Australia, France, and USA. Automatically inferred by https://github.com/jmcbroome/automate-lineages-prototype.
+Alias of XBB.1.0, defined by ORF8:G8*, ORF1ab:P309L, found in Singapore. Automatically inferred by https://github.com/jmcbroome/automate-lineages-prototype.
+Alias of B.1.1.529.5.8.0, defined by N:P46S, ORF1ab:F31Y, found in Sweden. Automatically inferred by https://github.com/jmcbroome/automate-lineages-prototype.
+Alias of B.1.1.529.5.3.1.3.0, defined by S:I231T, ORF3a:D238V, found in USA. Automatically inferred by https://github.com/jmcbroome/automate-lineages-prototype.
+Alias of B.1.1.529.5.3.1.2.0, defined by ORF3a:L52F, ORF1ab:P371S, ORF1ab:P5371L, found in USA. Automatically inferred by https://github.com/jmcbroome/automate-lineages-prototype.
+Alias of B.1.1.529.5.3.1.1.1.0, defined by ORF1ab:L3644F, ORF1ab:H110Y, ORF1ab:A6623V, ORF1ab:P3371S, found in Germany, Denmark, and Sweden. Automatically inferred by https://github.com/jmcbroome/automate-lineages-prototype.
+Alias of B.1.1.529.5.1.7.0, defined by N:P20L, ORF1ab:T2898A, found in Canada. Automatically inferred by https://github.com/jmcbroome/automate-lineages-prototype.
+Alias of B.1.1.529.5.1.10.1.0, defined by ORF1ab:V2998I, ORF1ab:G209D, found in USA. Automatically inferred by https://github.com/jmcbroome/automate-lineages-prototype.
+Alias of B.1.1.529.5.2.1.17.0, defined by ORF1ab:T4617A, ORF10:R24C, found in Australia. Automatically inferred by https://github.com/jmcbroome/automate-lineages-prototype.
+Alias of B.1.1.529.5.2.1.14.0, defined by ORF1ab:A1156T, M:A104V, found in Austria. Automatically inferred by https://github.com/jmcbroome/automate-lineages-prototype.
+Alias of B.1.1.529.5.2.1.28.0, defined by ORF1ab:V6772L, ORF1ab:V988F, ORF1ab:G137S, found in England, USA, and Denmark. Automatically inferred by https://github.com/jmcbroome/automate-lineages-prototype.
+Alias of B.1.1.529.5.2.1.26.0, defined by ORF1ab:A878V, ORF1ab:A6296V, ORF1ab:R119H, found in Sweden and Denmark. Automatically inferred by https://github.com/jmcbroome/automate-lineages-prototype.
+Alias of B.1.1.529.5.2.1.7.0, defined by ORF3a:E239D, ORF1ab:V1287L, ORF1ab:L1287V, found in Germany, Denmark, and Belgium. Automatically inferred by https://github.com/jmcbroome/automate-lineages-prototype.
+Alias of B.1.1.529.5.2.26.0, defined by ORF1ab:T2846I, ORF1ab:T2021I, found in Japan. Automatically inferred by https://github.com/jmcbroome/automate-lineages-prototype.
+Alias of B.1.1.529.5.2.2.0, defined by ORF1ab:S6713L, ORF1ab:T2153I, found in USA. Automatically inferred by https://github.com/jmcbroome/automate-lineages-prototype.
+Alias of B.1.1.529.2.75.1.3.0, defined by N:A211S, ORF1ab:P2568S, S:R346T, found in Singapore. Automatically inferred by https://github.com/jmcbroome/automate-lineages-prototype.
+Alias of B.1.1.529.5.6.1.0, defined by ORF1ab:M4116V, ORF3a:S166L, found in Peru, Canada, and USA. Automatically inferred by https://github.com/jmcbroome/automate-lineages-prototype.
+Alias of B.1.1.529.5.1.4.0, defined by ORF1ab:T2859I, ORF1ab:P5828S, ORF6:D61L, ORF6:D61L, ORF6:D61L, found in England. Automatically inferred by https://github.com/jmcbroome/automate-lineages-prototype.
+Alias of B.1.1.529.5.1.21.0, defined by ORF8:H17Y, ORF8:L95F, found in Denmark. Automatically inferred by https://github.com/jmcbroome/automate-lineages-prototype.
+Alias of B.1.1.529.5.2.1.11.0, defined by S:S1252F, ORF1ab:L624I, ORF1ab:A3615V, ORF1ab:V5493F, found in England and Scotland. Automatically inferred by https://github.com/jmcbroome/automate-lineages-prototype.
+Alias of B.1.1.529.5.2.1.10.0, defined by ORF1ab:G2207C, ORF1ab:C2207S, found in USA and Canada. Automatically inferred by https://github.com/jmcbroome/automate-lineages-prototype.
+Alias of B.1.1.529.5.2.1_no28330.0, defined by ORF1ab:T5805M, ORF3a:A33S, found in France, Australia, and Denmark. Automatically inferred by https://github.com/jmcbroome/automate-lineages-prototype.
+Alias of B.1.1.529.5.2.1.23.0, defined by ORF1ab:T3940I, ORF1ab:S4621N, found in CzechRepublic. Automatically inferred by https://github.com/jmcbroome/automate-lineages-prototype.
+Alias of B.1.1.529.5.2.1.3.0, defined by ORF1ab:H417Y, ORF8:H28Q, found in USA, Singapore, and India. Automatically inferred by https://github.com/jmcbroome/automate-lineages-prototype.
+Alias of B.1.1.529.5.2.1.27.0, defined by ORF1ab:E352K, ORF7a:I3V, found in USA. Automatically inferred by https://github.com/jmcbroome/automate-lineages-prototype.
+Alias of B.1.1.529.5.10.0, defined by ORF1ab:T6833I, ORF1ab:G993C, found in Canada and USA. Automatically inferred by https://github.com/jmcbroome/automate-lineages-prototype.
+Alias of B.1.1.529.2.75.5.1.0, defined by ORF3a:T229I, ORF1ab:M3627I, found in Singapore, England, and Denmark. Automatically inferred by https://github.com/jmcbroome/automate-lineages-prototype.
+Alias of B.1.1.529.5.6.3.0, defined by ORF1ab:S34T, S:H146Y, found in England. Automatically inferred by https://github.com/jmcbroome/automate-lineages-prototype.
+Alias of B.1.1.529.5.3.1.1.1.2.0, defined by ORF1ab:T2408I, ORF3a:V88L, found in Germany, England, and Denmark. Automatically inferred by https://github.com/jmcbroome/automate-lineages-prototype.
+Alias of B.1.1.529.5.3.1.1.1.1.0, defined by ORF1ab:A565V, N:L161F, found in England. Automatically inferred by https://github.com/jmcbroome/automate-lineages-prototype.
+Alias of B.1.1.529.5.3.1.1.3.0, defined by S:K147N, ORF1ab:V86D, found in Sweden and Denmark. Automatically inferred by https://github.com/jmcbroome/automate-lineages-prototype.
+Alias of B.1.1.529.5.2.21.0, defined by ORF1ab:P5624L, ORF1ab:L3644F, found in USA. Automatically inferred by https://github.com/jmcbroome/automate-lineages-prototype.
+Alias of B.1.1.529.5.2.16.0, defined by ORF3a:T89I, S:V445A, found in USA. Automatically inferred by https://github.com/jmcbroome/automate-lineages-prototype.
+Alias of B.1.1.529.5.2.12.0, defined by ORF7a:G42D, ORF1ab:G519S, found in Japan. Automatically inferred by https://github.com/jmcbroome/automate-lineages-prototype.
+Alias of B.1.1.529.5.2.18.0, defined by ORF1ab:N6101S, ORF3a:T269M, found in Sweden. Automatically inferred by https://github.com/jmcbroome/automate-lineages-prototype.
+Alias of B.1.1.529.5.2.31.0, defined by ORF1ab:S376L, ORF8:P36S, found in USA. Automatically inferred by https://github.com/jmcbroome/automate-lineages-prototype.
+Alias of B.1.1.529.5.2.19.0, defined by ORF1ab:D2026A, S:H1083Y, found in Japan. Automatically inferred by https://github.com/jmcbroome/automate-lineages-prototype.
+Alias of B.1.1.529.5.2.6.0, defined by ORF1ab:A4257V, ORF1ab:L6961F, found in USA. Automatically inferred by https://github.com/jmcbroome/automate-lineages-prototype.
+Alias of B.1.1.529.5.2.28.0, defined by ORF3a:F43L, ORF8:A51V, found in USA and Denmark. Automatically inferred by https://github.com/jmcbroome/automate-lineages-prototype.
+Alias of B.1.1.529.5.2.20.0, defined by ORF1ab:G1068E, ORF7a:L17F, found in Germany, France, and Italy. Automatically inferred by https://github.com/jmcbroome/automate-lineages-prototype.
+Alias of B.1.1.529.5.2.22.0, defined by ORF1ab:E441V, ORF3a:D22Y, found in Sweden, Denmark, and England. Automatically inferred by https://github.com/jmcbroome/automate-lineages-prototype.
+Alias of B.1.1.529.5.2.33.0, defined by ORF3a:A143S, ORF8:P85S, ORF1ab:A385V, found in United Kingdom. Automatically inferred by https://github.com/jmcbroome/automate-lineages-prototype.
+Alias of B.1.1.529.5.2.27.0, defined by ORF3a:Y264H, ORF1ab:A2891V, found in Canada and USA. Automatically inferred by https://github.com/jmcbroome/automate-lineages-prototype.
+Alias of B.1.1.529.5.2.1.1.0, defined by ORF3a:V244I, ORF1ab:R4017K, ORF1ab:G1663D, found in Japan, USA, and Canada. Automatically inferred by https://github.com/jmcbroome/automate-lineages-prototype.
+Alias of B.1.1.529.2.75.3.1.1.0, defined by ORF1ab:T5451I, ORF1ab:S167G, found in Austria, India, and USA. Automatically inferred by https://github.com/jmcbroome/automate-lineages-prototype.
+Alias of B.1.1.529.5.2.30.0, defined by ORF1ab:E6129D, ORF7b:E39*, found in Denmark. Automatically inferred by https://github.com/jmcbroome/automate-lineages-prototype.
+Alias of B.1.1.529.5.2.29.0, defined by S:K1191N, ORF1ab:D5128N, found in Denmark. Automatically inferred by https://github.com/jmcbroome/automate-lineages-prototype.
+Alias of B.1.1.529.5.2.3.0, defined by ORF1ab:V28I, ORF1ab:T3750I, found in Sweden, Denmark, and USA. Automatically inferred by https://github.com/jmcbroome/automate-lineages-prototype.
+Alias of B.1.1.529.5.2.27.1.0, defined by S:H66R, ORF1ab:I2230T, found in USA. Automatically inferred by https://github.com/jmcbroome/automate-lineages-prototype.
+Alias of B.1.1.529.5.2.1.5.0, defined by ORF1ab:I2873V, ORF1ab:K3839R, found in Japan. Automatically inferred by https://github.com/jmcbroome/automate-lineages-prototype.
+Alias of XAW.0, defined by ORF1ab:V1143F, ORF1ab:S6713L, found in Russia. Automatically inferred by https://github.com/jmcbroome/automate-lineages-prototype.
+Alias of B.1.1.529.5.3.1.1.1.1.1.0, defined by ORF1ab:N5592S, ORF1ab:A540V, found in Ireland, France, and England. Automatically inferred by https://github.com/jmcbroome/automate-lineages-prototype.
+Alias of B.1.1.529.5.2.7.0, defined by ORF1ab:H3395Y, N:Q386H, found in USA, Germany, and Croatia. Automatically inferred by https://github.com/jmcbroome/automate-lineages-prototype.
+Alias of B.1.1.529.5.2.13.0, defined by ORF1ab:P971S, S:T791I, ORF1ab:D1532G, found in England and United Kingdom. Automatically inferred by https://github.com/jmcbroome/automate-lineages-prototype.
+Alias of B.1.1.529.5.2.1.21.0, defined by ORF1ab:T4161I, ORF1ab:H4831Y, found in USA. Automatically inferred by https://github.com/jmcbroome/automate-lineages-prototype.
+Alias of B.1.1.529.5.2.1.13.0, defined by ORF1ab:K6958R, ORF1ab:T5451I, found in Sweden, Belgium, and USA. Automatically inferred by https://github.com/jmcbroome/automate-lineages-prototype.
+Alias of B.1.1.529.5.2.25.0, defined by ORF3a:D27E, N:T332I, found in Guinea, USA, and Denmark. Automatically inferred by https://github.com/jmcbroome/automate-lineages-prototype.
+Alias of B.1.1.529.5.2.3.1.0, defined by ORF1ab:E5689D, ORF1ab:S17N, found in Denmark. Automatically inferred by https://github.com/jmcbroome/automate-lineages-prototype.
+Alias of B.1.1.529.5.3.1.1.1.1.1.1.0, defined by ORF1ab:P6714L, ORF1ab:V3855I, found in England, USA, and France. Automatically inferred by https://github.com/jmcbroome/automate-lineages-prototype.
+Alias of B.1.1.529.2.75.2.1.0, defined by ORF3a:G44R, M:L17F, found in USA. Automatically inferred by https://github.com/jmcbroome/automate-lineages-prototype.
+Alias of B.1.1.529.2.0, defined by ORF1ab:T842I, S:N417T, S:I68T, found in Turkey, Germany, and England. Automatically inferred by https://github.com/jmcbroome/automate-lineages-prototype.
+Alias of B.1.1.529.1.17.2.0, defined by S:F643L, ORF1ab:D1127E, ORF1ab:I2538V, ORF1ab:A354V, ORF10:R24C, found in Kiribati. Automatically inferred by https://github.com/jmcbroome/automate-lineages-prototype.
+Alias of B.1.1.529.2.10.0, defined by ORF8:Q27*, ORF1ab:T2007I, N:G18C, N:T135I, found in Japan. Automatically inferred by https://github.com/jmcbroome/automate-lineages-prototype.
+Alias of B.1.1.529.2.9.0, defined by ORF6:L61P, ORF1ab:H1113Y, ORF1ab:Q5794R, S:S730F, ORF1ab:A2909V, ORF1ab:R4387C, found in Venezuela, USA, and Spain. Automatically inferred by https://github.com/jmcbroome/automate-lineages-prototype.
+Alias of 22C (Omicron).0, defined by ORF8:Q18*, ORF1ab:F3753V, found in USA. Automatically inferred by https://github.com/jmcbroome/automate-lineages-prototype.
+Alias of B.1.1.529.2.12.1.0, defined by ORF8:Q18*, ORF1ab:F3753V, ORF7b:A15S, found in USA. Automatically inferred by https://github.com/jmcbroome/automate-lineages-prototype.
+Alias of B.1.1.529.2.74.0, defined by ORF1ab:T2859I, ORF3a:P240S, found in India, USA, and Denmark. Automatically inferred by https://github.com/jmcbroome/automate-lineages-prototype.
+Alias of XAS.0, defined by ORF1ab:T4174I, ORF1ab:K3353R, found in USA. Automatically inferred by https://github.com/jmcbroome/automate-lineages-prototype.
+Alias of 22A (Omicron).0, defined by S:N658S, ORF1ab:A967V, found in England, Scotland, and USA. Automatically inferred by https://github.com/jmcbroome/automate-lineages-prototype.
+Alias of B.1.1.529.4.0, defined by S:N658S, ORF1ab:H81N, ORF7a:R80I, S:R346S, found in USA, France, and Germany. Automatically inferred by https://github.com/jmcbroome/automate-lineages-prototype.
+Alias of B.1.1.529.4.1.0, defined by S:G3V, S:N658S, S:R346T, found in USA, England, and France. Automatically inferred by https://github.com/jmcbroome/automate-lineages-prototype.
+Alias of B.1.1.529.2.10.4.0, defined by S:G446S, ORF3a:G100C, ORF1ab:Q362L, found in England, United Kingdom, and France. Automatically inferred by https://github.com/jmcbroome/automate-lineages-prototype.
+Alias of B.1.1.529.2.3.20.0, defined by ORF1ab:S2103F, ORF1ab:T2087I, found in Denmark. Automatically inferred by https://github.com/jmcbroome/automate-lineages-prototype.
+Alias of B.1.1.529.4.1.1.0, defined by ORF3a:I37T, ORF1ab:T2247I, found in USA, Germany, and England. Automatically inferred by https://github.com/jmcbroome/automate-lineages-prototype.
+Alias of B.1.1.529.4.1.9.0, defined by ORF3a:V259L, S:K444R, found in USA. Automatically inferred by https://github.com/jmcbroome/automate-lineages-prototype.
+Alias of B.1.1.529.4.4.0, defined by ORF1ab:P2046S, S:A701V, found in USA. Automatically inferred by https://github.com/jmcbroome/automate-lineages-prototype.
+Alias of B.1.1.529.4.2.0, defined by ORF1ab:S4286G, ORF1ab:F2787S, found in USA and Germany. Automatically inferred by https://github.com/jmcbroome/automate-lineages-prototype.
+Alias of B.1.1.529.2.75_dropout.0, defined by S:I210V, S:G257S, S:W152R, found in India. Automatically inferred by https://github.com/jmcbroome/automate-lineages-prototype.
+Alias of B.1.1.529.4.7.0, defined by ORF1ab:Q5947H, ORF3a:A51V, found in England, Denmark, and Wales. Automatically inferred by https://github.com/jmcbroome/automate-lineages-prototype.
+Alias of B.1.1.529.4.5.0, defined by ORF1ab:L552F, ORF1ab:A3143V, found in Australia and NewZealand. Automatically inferred by https://github.com/jmcbroome/automate-lineages-prototype.
+Alias of B.1.1.529.4.6.0, defined by ORF1ab:T6175I, ORF1ab:T5912I, found in USA, Canada, and France. Automatically inferred by https://github.com/jmcbroome/automate-lineages-prototype.
+Alias of 22B (Omicron).0, defined by ORF1ab:A6044V, N:T49I, S:S255F, ORF1ab:M4993I, found in England, Japan, and Wales. Automatically inferred by https://github.com/jmcbroome/automate-lineages-prototype.
+Alias of B.1.1.529.5.0, defined by ORF1ab:A6044V, N:T49I, S:S255F, ORF1ab:M4993I, ORF1ab:V1915I, found in England, Scotland, and USA. Automatically inferred by https://github.com/jmcbroome/automate-lineages-prototype.
+Alias of B.1.1.529.4.1.8.0, defined by ORF1ab:I5817V, ORF1ab:R207C, found in USA. Automatically inferred by https://github.com/jmcbroome/automate-lineages-prototype.
+Alias of B.1.1.529.4.6.1.0, defined by ORF1ab:L4391F, ORF1ab:A1420V, found in England and Israel. Automatically inferred by https://github.com/jmcbroome/automate-lineages-prototype.
+Alias of XAZ.0, defined by ORF1ab:P1989S, ORF8:I74S, N:D377Y, found in Slovakia and Germany. Automatically inferred by https://github.com/jmcbroome/automate-lineages-prototype.
+Alias of B.1.1.529.5.5.0, defined by ORF1ab:A903V, ORF1ab:A1049V, found in USA, Denmark, and England. Automatically inferred by https://github.com/jmcbroome/automate-lineages-prototype.
+Alias of B.1.1.529.5.3.0, defined by ORF1ab:I5869V, S:S1170F, ORF3a:S253P, found in USA and Belgium. Automatically inferred by https://github.com/jmcbroome/automate-lineages-prototype.
+Alias of B.1.1.529.5.2_no28330.0, defined by ORF1ab:A2637T, ORF1ab:G519S, found in England, Germany, and Denmark. Automatically inferred by https://github.com/jmcbroome/automate-lineages-prototype.
+Alias of B.1.1.529.5.1_no27438.0, defined by N:G34V, ORF1ab:T4129I, found in Wales, Denmark, and England. Automatically inferred by https://github.com/jmcbroome/automate-lineages-prototype.
+Alias of B.1.1.529.5.3.2.0, defined by ORF1ab:P4853S, ORF1ab:L6981I, found in Germany and Denmark. Automatically inferred by https://github.com/jmcbroome/automate-lineages-prototype.
+Alias of B.1.1.529.5.3.3.0, defined by ORF1ab:K6958R, ORF1ab:F2193S, S:A829T, S:A67V, found in Israel and Germany. Automatically inferred by https://github.com/jmcbroome/automate-lineages-prototype.
+Alias of B.1.1.529.5.3.1.0, defined by ORF7a:T39P, ORF7a:K119R, found in Germany, Israel, and USA. Automatically inferred by https://github.com/jmcbroome/automate-lineages-prototype.
+Alias of B.1.1.529.5.1.0, defined by ORF3a:D155Y, ORF1ab:A6990T, found in Germany, USA, and England. Automatically inferred by https://github.com/jmcbroome/automate-lineages-prototype.
+Alias of B.1.1.529.5.2.0, defined by ORF1ab:T5451N, E:I9T, found in Japan, SouthKorea, and Thailand. Automatically inferred by https://github.com/jmcbroome/automate-lineages-prototype.
+Alias of 22D (Omicron).0, defined by ORF1ab:P5402S, S:K356T, ORF1ab:T4302N, found in Wales, USA, and India. Automatically inferred by https://github.com/jmcbroome/automate-lineages-prototype.
+Alias of B.1.1.529.2.75.0, defined by ORF1ab:P5402S, S:K356T, ORF1ab:T4302N, N:T24I, found in Wales. Automatically inferred by https://github.com/jmcbroome/automate-lineages-prototype.
+Alias of B.1.1.529.5.6.0, defined by ORF1ab:T6938I, ORF1ab:M6240I, ORF1ab:K734N, found in USA and Denmark. Automatically inferred by https://github.com/jmcbroome/automate-lineages-prototype.
+Alias of B.1.1.529.5.3.1.1.0, defined by ORF1ab:A1204T, ORF3a:V48F, ORF3a:G49C, found in England, USA, and Australia. Automatically inferred by https://github.com/jmcbroome/automate-lineages-prototype.
+Alias of B.1.1.529.5.1.17.0, defined by ORF1ab:I114T, ORF1ab:T4617I, ORF1ab:A5660T, found in France, Germany, and USA. Automatically inferred by https://github.com/jmcbroome/automate-lineages-prototype.
+Alias of B.1.1.529.5.1.24.0, defined by ORF6:E13G, ORF1ab:Y1039H, ORF7a:P84L, ORF1ab:I3576V, found in Denmark. Automatically inferred by https://github.com/jmcbroome/automate-lineages-prototype.
+Alias of B.1.1.529.5.1.22.0, defined by ORF1ab:T2106I, ORF1ab:D2136N, found in France, Germany, and USA. Automatically inferred by https://github.com/jmcbroome/automate-lineages-prototype.
+Alias of B.1.1.529.5.1.3.0, defined by ORF1ab:L1853F, ORF1ab:K3351N, ORF1ab:M6661T, found in Germany. Automatically inferred by https://github.com/jmcbroome/automate-lineages-prototype.
+Alias of B.1.1.529.5.1.11.0, defined by ORF1ab:I2368T, N:A211S, found in Denmark. Automatically inferred by https://github.com/jmcbroome/automate-lineages-prototype.
+Alias of B.1.1.529.5.1.2.0, defined by ORF1ab:T1682I, ORF7a:T14N, found in Germany. Automatically inferred by https://github.com/jmcbroome/automate-lineages-prototype.
+Alias of B.1.1.529.5.1.23.0, defined by ORF1ab:K1895N, ORF1ab:A4016S, found in USA, Germany, and Spain. Automatically inferred by https://github.com/jmcbroome/automate-lineages-prototype.
+Alias of B.1.1.529.5.2.1.0, defined by ORF6:P57L, ORF1ab:I616T, found in Japan, USA, and Germany. Automatically inferred by https://github.com/jmcbroome/automate-lineages-prototype.
+Alias of B.1.1.529.2.75.5.0, defined by ORF1ab:V2955M, ORF7a:T39I, ORF1ab:A3357T, found in Singapore. Automatically inferred by https://github.com/jmcbroome/automate-lineages-prototype.
+Alias of B.1.1.529.2.75.1.0, defined by ORF1ab:S376L, ORF1ab:V6772L, S:K356R, ORF7a:P99L, ORF1ab:R5479H, found in Germany, Croatia, and Luxembourg. Automatically inferred by https://github.com/jmcbroome/automate-lineages-prototype.
+Alias of B.1.1.529.5.5.2.0, defined by ORF1ab:M1014K, S:Q677H, found in USA and Canada. Automatically inferred by https://github.com/jmcbroome/automate-lineages-prototype.
+Alias of B.1.1.529.5.5.1.0, defined by ORF1ab:P7034S, ORF1ab:P2685T, found in USA. Automatically inferred by https://github.com/jmcbroome/automate-lineages-prototype.
+Alias of B.1.1.529.5.9.0, defined by ORF1ab:T3750I, ORF1ab:Y4913C, found in Germany, USA, and Denmark. Automatically inferred by https://github.com/jmcbroome/automate-lineages-prototype.
+Alias of B.1.1.529.5.1.5.0, defined by ORF10:F37L, N:P67S, N:S412I, found in Scotland, USA, and England. Automatically inferred by https://github.com/jmcbroome/automate-lineages-prototype.
+Alias of B.1.1.529.5.1.25.0, defined by ORF6:D6G, ORF8:V49L, N:P80S, found in USA. Automatically inferred by https://github.com/jmcbroome/automate-lineages-prototype.
+Alias of B.1.1.529.5.1.6.0, defined by S:R346T, ORF1ab:R43H, found in USA. Automatically inferred by https://github.com/jmcbroome/automate-lineages-prototype.
+Alias of B.1.1.529.5.1.10.0, defined by ORF1ab:G5942W, ORF1ab:P5371L, found in USA, England, and Ireland. Automatically inferred by https://github.com/jmcbroome/automate-lineages-prototype.
+Alias of B.1.1.529.5.1.1.0, defined by ORF3a:K21N, ORF1ab:G5063C, ORF1ab:I4127V, ORF1ab:P5828L, found in USA. Automatically inferred by https://github.com/jmcbroome/automate-lineages-prototype.
+Alias of B.1.1.529.5.2.1.8.0, defined by ORF3a:Y145F, ORF1ab:T4685I, found in USA. Automatically inferred by https://github.com/jmcbroome/automate-lineages-prototype.
+Alias of B.1.1.529.5.2.1.18.0, defined by ORF1ab:L3919F, ORF3a:V29L, found in Australia. Automatically inferred by https://github.com/jmcbroome/automate-lineages-prototype.
+Alias of B.1.1.529.5.2.1.6.0, defined by N:A152S, ORF1ab:P2055S, S:T732I, found in Germany. Automatically inferred by https://github.com/jmcbroome/automate-lineages-prototype.
+Alias of B.1.1.529.5.2.1.4.0, defined by ORF1ab:A2080V, N:D103N, found in England, USA, and Scotland. Automatically inferred by https://github.com/jmcbroome/automate-lineages-prototype.
+Alias of B.1.1.529.5.2.9.0, defined by ORF1ab:A2249V, ORF8:W45L, found in USA. Automatically inferred by https://github.com/jmcbroome/automate-lineages-prototype.
+Alias of B.1.1.529.5.2.4.0, defined by ORF1ab:V6474L, ORF1ab:L123I, found in Australia, France, and USA. Automatically inferred by https://github.com/jmcbroome/automate-lineages-prototype.
+Alias of XBB.1.0, defined by ORF8:G8*, ORF1ab:P309L, found in Singapore. Automatically inferred by https://github.com/jmcbroome/automate-lineages-prototype.
+Alias of B.1.1.529.5.8.0, defined by N:P46S, ORF1ab:F31Y, found in Sweden. Automatically inferred by https://github.com/jmcbroome/automate-lineages-prototype.
+Alias of B.1.1.529.5.3.1.3.0, defined by S:I231T, ORF3a:D238V, found in USA. Automatically inferred by https://github.com/jmcbroome/automate-lineages-prototype.
+Alias of B.1.1.529.5.3.1.2.0, defined by ORF3a:L52F, ORF1ab:P371S, ORF1ab:P5371L, found in USA. Automatically inferred by https://github.com/jmcbroome/automate-lineages-prototype.
+Alias of B.1.1.529.5.3.1.1.1.0, defined by ORF1ab:L3644F, ORF1ab:H110Y, ORF1ab:A6623V, ORF1ab:P3371S, found in Germany, Denmark, and Sweden. Automatically inferred by https://github.com/jmcbroome/automate-lineages-prototype.
+Alias of B.1.1.529.5.1.7.0, defined by N:P20L, ORF1ab:T2898A, found in Canada. Automatically inferred by https://github.com/jmcbroome/automate-lineages-prototype.
+Alias of B.1.1.529.5.1.10.1.0, defined by ORF1ab:V2998I, ORF1ab:G209D, found in USA. Automatically inferred by https://github.com/jmcbroome/automate-lineages-prototype.
+Alias of B.1.1.529.5.2.1.17.0, defined by ORF1ab:T4617A, ORF10:R24C, found in Australia. Automatically inferred by https://github.com/jmcbroome/automate-lineages-prototype.
+Alias of B.1.1.529.5.2.1.14.0, defined by ORF1ab:A1156T, M:A104V, found in Austria. Automatically inferred by https://github.com/jmcbroome/automate-lineages-prototype.
+Alias of B.1.1.529.5.2.1.28.0, defined by ORF1ab:V6772L, ORF1ab:V988F, ORF1ab:G137S, found in England, USA, and Denmark. Automatically inferred by https://github.com/jmcbroome/automate-lineages-prototype.
+Alias of B.1.1.529.5.2.1.26.0, defined by ORF1ab:A878V, ORF1ab:A6296V, ORF1ab:R119H, found in Sweden and Denmark. Automatically inferred by https://github.com/jmcbroome/automate-lineages-prototype.
+Alias of B.1.1.529.5.2.1.7.0, defined by ORF3a:E239D, ORF1ab:V1287L, ORF1ab:L1287V, found in Germany, Denmark, and Belgium. Automatically inferred by https://github.com/jmcbroome/automate-lineages-prototype.
+Alias of B.1.1.529.5.2.26.0, defined by ORF1ab:T2846I, ORF1ab:T2021I, found in Japan. Automatically inferred by https://github.com/jmcbroome/automate-lineages-prototype.
+Alias of B.1.1.529.5.2.2.0, defined by ORF1ab:S6713L, ORF1ab:T2153I, found in USA. Automatically inferred by https://github.com/jmcbroome/automate-lineages-prototype.
+Alias of B.1.1.529.2.75.1.3.0, defined by N:A211S, ORF1ab:P2568S, S:R346T, found in Singapore. Automatically inferred by https://github.com/jmcbroome/automate-lineages-prototype.
+Alias of B.1.1.529.5.6.1.0, defined by ORF1ab:M4116V, ORF3a:S166L, found in Peru, Canada, and USA. Automatically inferred by https://github.com/jmcbroome/automate-lineages-prototype.
+Alias of B.1.1.529.5.1.4.0, defined by ORF1ab:T2859I, ORF1ab:P5828S, ORF6:D61L, ORF6:D61L, ORF6:D61L, found in England. Automatically inferred by https://github.com/jmcbroome/automate-lineages-prototype.
+Alias of B.1.1.529.5.1.21.0, defined by ORF8:H17Y, ORF8:L95F, found in Denmark. Automatically inferred by https://github.com/jmcbroome/automate-lineages-prototype.
+Alias of B.1.1.529.5.2.1.11.0, defined by S:S1252F, ORF1ab:L624I, ORF1ab:A3615V, ORF1ab:V5493F, found in England and Scotland. Automatically inferred by https://github.com/jmcbroome/automate-lineages-prototype.
+Alias of B.1.1.529.5.2.1.10.0, defined by ORF1ab:G2207C, ORF1ab:C2207S, found in USA and Canada. Automatically inferred by https://github.com/jmcbroome/automate-lineages-prototype.
+Alias of B.1.1.529.5.2.1_no28330.0, defined by ORF1ab:T5805M, ORF3a:A33S, found in France, Australia, and Denmark. Automatically inferred by https://github.com/jmcbroome/automate-lineages-prototype.
+Alias of B.1.1.529.5.2.1.23.0, defined by ORF1ab:T3940I, ORF1ab:S4621N, found in CzechRepublic. Automatically inferred by https://github.com/jmcbroome/automate-lineages-prototype.
+Alias of B.1.1.529.5.2.1.3.0, defined by ORF1ab:H417Y, ORF8:H28Q, found in USA, Singapore, and India. Automatically inferred by https://github.com/jmcbroome/automate-lineages-prototype.
+Alias of B.1.1.529.5.2.1.27.0, defined by ORF1ab:E352K, ORF7a:I3V, found in USA. Automatically inferred by https://github.com/jmcbroome/automate-lineages-prototype.
+Alias of B.1.1.529.5.10.0, defined by ORF1ab:T6833I, ORF1ab:G993C, found in Canada and USA. Automatically inferred by https://github.com/jmcbroome/automate-lineages-prototype.
+Alias of B.1.1.529.2.75.5.1.0, defined by ORF3a:T229I, ORF1ab:M3627I, found in Singapore, England, and Denmark. Automatically inferred by https://github.com/jmcbroome/automate-lineages-prototype.
+Alias of B.1.1.529.5.6.3.0, defined by ORF1ab:S34T, S:H146Y, found in England. Automatically inferred by https://github.com/jmcbroome/automate-lineages-prototype.
+Alias of B.1.1.529.5.3.1.1.1.2.0, defined by ORF1ab:T2408I, ORF3a:V88L, found in Germany, England, and Denmark. Automatically inferred by https://github.com/jmcbroome/automate-lineages-prototype.
+Alias of B.1.1.529.5.3.1.1.1.1.0, defined by ORF1ab:A565V, N:L161F, found in England. Automatically inferred by https://github.com/jmcbroome/automate-lineages-prototype.
+Alias of B.1.1.529.5.3.1.1.3.0, defined by S:K147N, ORF1ab:V86D, found in Sweden and Denmark. Automatically inferred by https://github.com/jmcbroome/automate-lineages-prototype.
+Alias of B.1.1.529.5.2.21.0, defined by ORF1ab:P5624L, ORF1ab:L3644F, found in USA. Automatically inferred by https://github.com/jmcbroome/automate-lineages-prototype.
+Alias of B.1.1.529.5.2.16.0, defined by ORF3a:T89I, S:V445A, found in USA. Automatically inferred by https://github.com/jmcbroome/automate-lineages-prototype.
+Alias of B.1.1.529.5.2.12.0, defined by ORF7a:G42D, ORF1ab:G519S, found in Japan. Automatically inferred by https://github.com/jmcbroome/automate-lineages-prototype.
+Alias of B.1.1.529.5.2.18.0, defined by ORF1ab:N6101S, ORF3a:T269M, found in Sweden. Automatically inferred by https://github.com/jmcbroome/automate-lineages-prototype.
+Alias of B.1.1.529.5.2.31.0, defined by ORF1ab:S376L, ORF8:P36S, found in USA. Automatically inferred by https://github.com/jmcbroome/automate-lineages-prototype.
+Alias of B.1.1.529.5.2.19.0, defined by ORF1ab:D2026A, S:H1083Y, found in Japan. Automatically inferred by https://github.com/jmcbroome/automate-lineages-prototype.
+Alias of B.1.1.529.5.2.6.0, defined by ORF1ab:A4257V, ORF1ab:L6961F, found in USA. Automatically inferred by https://github.com/jmcbroome/automate-lineages-prototype.
+Alias of B.1.1.529.5.2.28.0, defined by ORF3a:F43L, ORF8:A51V, found in USA and Denmark. Automatically inferred by https://github.com/jmcbroome/automate-lineages-prototype.
+Alias of B.1.1.529.5.2.20.0, defined by ORF1ab:G1068E, ORF7a:L17F, found in Germany, France, and Italy. Automatically inferred by https://github.com/jmcbroome/automate-lineages-prototype.
+Alias of B.1.1.529.5.2.22.0, defined by ORF1ab:E441V, ORF3a:D22Y, found in Sweden, Denmark, and England. Automatically inferred by https://github.com/jmcbroome/automate-lineages-prototype.
+Alias of B.1.1.529.5.2.33.0, defined by ORF3a:A143S, ORF8:P85S, ORF1ab:A385V, found in United Kingdom. Automatically inferred by https://github.com/jmcbroome/automate-lineages-prototype.
+Alias of B.1.1.529.5.2.27.0, defined by ORF3a:Y264H, ORF1ab:A2891V, found in Canada and USA. Automatically inferred by https://github.com/jmcbroome/automate-lineages-prototype.
+Alias of B.1.1.529.5.2.1.1.0, defined by ORF3a:V244I, ORF1ab:R4017K, ORF1ab:G1663D, found in Japan, USA, and Canada. Automatically inferred by https://github.com/jmcbroome/automate-lineages-prototype.
+Alias of B.1.1.529.2.75.3.1.1.0, defined by ORF1ab:T5451I, ORF1ab:S167G, found in Austria, India, and USA. Automatically inferred by https://github.com/jmcbroome/automate-lineages-prototype.
+Alias of B.1.1.529.5.2.30.0, defined by ORF1ab:E6129D, ORF7b:E39*, found in Denmark. Automatically inferred by https://github.com/jmcbroome/automate-lineages-prototype.
+Alias of B.1.1.529.5.2.29.0, defined by S:K1191N, ORF1ab:D5128N, found in Denmark. Automatically inferred by https://github.com/jmcbroome/automate-lineages-prototype.
+Alias of B.1.1.529.5.2.3.0, defined by ORF1ab:V28I, ORF1ab:T3750I, found in Sweden, Denmark, and USA. Automatically inferred by https://github.com/jmcbroome/automate-lineages-prototype.
+Alias of B.1.1.529.5.2.27.1.0, defined by S:H66R, ORF1ab:I2230T, found in USA. Automatically inferred by https://github.com/jmcbroome/automate-lineages-prototype.
+Alias of B.1.1.529.5.2.1.5.0, defined by ORF1ab:I2873V, ORF1ab:K3839R, found in Japan. Automatically inferred by https://github.com/jmcbroome/automate-lineages-prototype.
+Alias of XAW.0, defined by ORF1ab:V1143F, ORF1ab:S6713L, found in Russia. Automatically inferred by https://github.com/jmcbroome/automate-lineages-prototype.
+Alias of B.1.1.529.5.3.1.1.1.1.1.0, defined by ORF1ab:N5592S, ORF1ab:A540V, found in Ireland, France, and England. Automatically inferred by https://github.com/jmcbroome/automate-lineages-prototype.
+Alias of B.1.1.529.5.2.7.0, defined by ORF1ab:H3395Y, N:Q386H, found in USA, Germany, and Croatia. Automatically inferred by https://github.com/jmcbroome/automate-lineages-prototype.
+Alias of B.1.1.529.5.2.13.0, defined by ORF1ab:P971S, S:T791I, ORF1ab:D1532G, found in England and United Kingdom. Automatically inferred by https://github.com/jmcbroome/automate-lineages-prototype.
+Alias of B.1.1.529.5.2.1.21.0, defined by ORF1ab:T4161I, ORF1ab:H4831Y, found in USA. Automatically inferred by https://github.com/jmcbroome/automate-lineages-prototype.
+Alias of B.1.1.529.5.2.1.13.0, defined by ORF1ab:K6958R, ORF1ab:T5451I, found in Sweden, Belgium, and USA. Automatically inferred by https://github.com/jmcbroome/automate-lineages-prototype.
+Alias of B.1.1.529.5.2.25.0, defined by ORF3a:D27E, N:T332I, found in Guinea, USA, and Denmark. Automatically inferred by https://github.com/jmcbroome/automate-lineages-prototype.
+Alias of B.1.1.529.5.2.3.1.0, defined by ORF1ab:E5689D, ORF1ab:S17N, found in Denmark. Automatically inferred by https://github.com/jmcbroome/automate-lineages-prototype.
+Alias of B.1.1.529.5.3.1.1.1.1.1.1.0, defined by ORF1ab:P6714L, ORF1ab:V3855I, found in England, USA, and France. Automatically inferred by https://github.com/jmcbroome/automate-lineages-prototype.
+Alias of B.1.1.529.2.75.2.1.0, defined by ORF3a:G44R, M:L17F, found in USA. Automatically inferred by https://github.com/jmcbroome/automate-lineages-prototype.
+Alias of B.1.1.529.2.0, defined by ORF1ab:T842I, S:N417T, S:I68T, found in Turkey, Germany, and England. Automatically inferred by https://github.com/jmcbroome/automate-lineages-prototype.
+Alias of B.1.1.529.1.17.2.0, defined by S:F643L, ORF1ab:D1127E, ORF1ab:I2538V, ORF1ab:A354V, ORF10:R24C, found in Kiribati. Automatically inferred by https://github.com/jmcbroome/automate-lineages-prototype.
+Alias of B.1.1.529.2.10.0, defined by ORF8:Q27*, ORF1ab:T2007I, N:G18C, N:T135I, found in Japan. Automatically inferred by https://github.com/jmcbroome/automate-lineages-prototype.
+Alias of B.1.1.529.2.9.0, defined by ORF6:L61P, ORF1ab:H1113Y, ORF1ab:Q5794R, S:S730F, ORF1ab:A2909V, ORF1ab:R4387C, found in Venezuela, USA, and Spain. Automatically inferred by https://github.com/jmcbroome/automate-lineages-prototype.
+Alias of 22C (Omicron).0, defined by ORF8:Q18*, ORF1ab:F3753V, found in USA. Automatically inferred by https://github.com/jmcbroome/automate-lineages-prototype.
+Alias of B.1.1.529.2.12.1.0, defined by ORF8:Q18*, ORF1ab:F3753V, ORF7b:A15S, found in USA. Automatically inferred by https://github.com/jmcbroome/automate-lineages-prototype.
+Alias of B.1.1.529.2.74.0, defined by ORF1ab:T2859I, ORF3a:P240S, found in India, USA, and Denmark. Automatically inferred by https://github.com/jmcbroome/automate-lineages-prototype.
+Alias of XAS.0, defined by ORF1ab:T4174I, ORF1ab:K3353R, found in USA. Automatically inferred by https://github.com/jmcbroome/automate-lineages-prototype.
+Alias of 22A (Omicron).0, defined by S:N658S, ORF1ab:A967V, found in England, Scotland, and USA. Automatically inferred by https://github.com/jmcbroome/automate-lineages-prototype.
+Alias of B.1.1.529.4.0, defined by S:N658S, ORF1ab:H81N, ORF7a:R80I, S:R346S, found in USA, France, and Germany. Automatically inferred by https://github.com/jmcbroome/automate-lineages-prototype.
+Alias of B.1.1.529.4.1.0, defined by S:G3V, S:N658S, S:R346T, found in USA, England, and France. Automatically inferred by https://github.com/jmcbroome/automate-lineages-prototype.
+Alias of B.1.1.529.2.10.4.0, defined by S:G446S, ORF3a:G100C, ORF1ab:Q362L, found in England, United Kingdom, and France. Automatically inferred by https://github.com/jmcbroome/automate-lineages-prototype.
+Alias of B.1.1.529.2.3.20.0, defined by ORF1ab:S2103F, ORF1ab:T2087I, found in Denmark. Automatically inferred by https://github.com/jmcbroome/automate-lineages-prototype.
+Alias of B.1.1.529.4.1.1.0, defined by ORF3a:I37T, ORF1ab:T2247I, found in USA, Germany, and England. Automatically inferred by https://github.com/jmcbroome/automate-lineages-prototype.
+Alias of B.1.1.529.4.1.9.0, defined by ORF3a:V259L, S:K444R, found in USA. Automatically inferred by https://github.com/jmcbroome/automate-lineages-prototype.
+Alias of B.1.1.529.4.4.0, defined by ORF1ab:P2046S, S:A701V, found in USA. Automatically inferred by https://github.com/jmcbroome/automate-lineages-prototype.
+Alias of B.1.1.529.4.2.0, defined by ORF1ab:S4286G, ORF1ab:F2787S, found in USA and Germany. Automatically inferred by https://github.com/jmcbroome/automate-lineages-prototype.
+Alias of B.1.1.529.2.75_dropout.0, defined by S:I210V, S:G257S, S:W152R, found in India. Automatically inferred by https://github.com/jmcbroome/automate-lineages-prototype.
+Alias of B.1.1.529.4.7.0, defined by ORF1ab:Q5947H, ORF3a:A51V, found in England, Denmark, and Wales. Automatically inferred by https://github.com/jmcbroome/automate-lineages-prototype.
+Alias of B.1.1.529.4.5.0, defined by ORF1ab:L552F, ORF1ab:A3143V, found in Australia and NewZealand. Automatically inferred by https://github.com/jmcbroome/automate-lineages-prototype.
+Alias of B.1.1.529.4.6.0, defined by ORF1ab:T6175I, ORF1ab:T5912I, found in USA, Canada, and France. Automatically inferred by https://github.com/jmcbroome/automate-lineages-prototype.
+Alias of 22B (Omicron).0, defined by ORF1ab:A6044V, N:T49I, S:S255F, ORF1ab:M4993I, found in England, Japan, and Wales. Automatically inferred by https://github.com/jmcbroome/automate-lineages-prototype.
+Alias of B.1.1.529.5.0, defined by ORF1ab:A6044V, N:T49I, S:S255F, ORF1ab:M4993I, ORF1ab:V1915I, found in England, Scotland, and USA. Automatically inferred by https://github.com/jmcbroome/automate-lineages-prototype.
+Alias of B.1.1.529.4.1.8.0, defined by ORF1ab:I5817V, ORF1ab:R207C, found in USA. Automatically inferred by https://github.com/jmcbroome/automate-lineages-prototype.
+Alias of B.1.1.529.4.6.1.0, defined by ORF1ab:L4391F, ORF1ab:A1420V, found in England and Israel. Automatically inferred by https://github.com/jmcbroome/automate-lineages-prototype.
+Alias of XAZ.0, defined by ORF1ab:P1989S, ORF8:I74S, N:D377Y, found in Slovakia and Germany. Automatically inferred by https://github.com/jmcbroome/automate-lineages-prototype.
+Alias of B.1.1.529.5.5.0, defined by ORF1ab:A903V, ORF1ab:A1049V, found in USA, Denmark, and England. Automatically inferred by https://github.com/jmcbroome/automate-lineages-prototype.
+Alias of B.1.1.529.5.3.0, defined by ORF1ab:I5869V, S:S1170F, ORF3a:S253P, found in USA and Belgium. Automatically inferred by https://github.com/jmcbroome/automate-lineages-prototype.
+Alias of B.1.1.529.5.2_no28330.0, defined by ORF1ab:A2637T, ORF1ab:G519S, found in England, Germany, and Denmark. Automatically inferred by https://github.com/jmcbroome/automate-lineages-prototype.
+Alias of B.1.1.529.5.1_no27438.0, defined by N:G34V, ORF1ab:T4129I, found in Wales, Denmark, and England. Automatically inferred by https://github.com/jmcbroome/automate-lineages-prototype.
+Alias of B.1.1.529.5.3.2.0, defined by ORF1ab:P4853S, ORF1ab:L6981I, found in Germany and Denmark. Automatically inferred by https://github.com/jmcbroome/automate-lineages-prototype.
+Alias of B.1.1.529.5.3.3.0, defined by ORF1ab:K6958R, ORF1ab:F2193S, S:A829T, S:A67V, found in Israel and Germany. Automatically inferred by https://github.com/jmcbroome/automate-lineages-prototype.
+Alias of B.1.1.529.5.3.1.0, defined by ORF7a:T39P, ORF7a:K119R, found in Germany, Israel, and USA. Automatically inferred by https://github.com/jmcbroome/automate-lineages-prototype.
+Alias of B.1.1.529.5.1.0, defined by ORF3a:D155Y, ORF1ab:A6990T, found in Germany, USA, and England. Automatically inferred by https://github.com/jmcbroome/automate-lineages-prototype.
+Alias of B.1.1.529.5.2.0, defined by ORF1ab:T5451N, E:I9T, found in Japan, SouthKorea, and Thailand. Automatically inferred by https://github.com/jmcbroome/automate-lineages-prototype.
+Alias of 22D (Omicron).0, defined by ORF1ab:P5402S, S:K356T, ORF1ab:T4302N, found in Wales, USA, and India. Automatically inferred by https://github.com/jmcbroome/automate-lineages-prototype.
+Alias of B.1.1.529.2.75.0, defined by ORF1ab:P5402S, S:K356T, ORF1ab:T4302N, N:T24I, found in Wales. Automatically inferred by https://github.com/jmcbroome/automate-lineages-prototype.
+Alias of B.1.1.529.5.6.0, defined by ORF1ab:T6938I, ORF1ab:M6240I, ORF1ab:K734N, found in USA and Denmark. Automatically inferred by https://github.com/jmcbroome/automate-lineages-prototype.
+Alias of B.1.1.529.5.3.1.1.0, defined by ORF1ab:A1204T, ORF3a:V48F, ORF3a:G49C, found in England, USA, and Australia. Automatically inferred by https://github.com/jmcbroome/automate-lineages-prototype.
+Alias of B.1.1.529.5.1.17.0, defined by ORF1ab:I114T, ORF1ab:T4617I, ORF1ab:A5660T, found in France, Germany, and USA. Automatically inferred by https://github.com/jmcbroome/automate-lineages-prototype.
+Alias of B.1.1.529.5.1.24.0, defined by ORF6:E13G, ORF1ab:Y1039H, ORF7a:P84L, ORF1ab:I3576V, found in Denmark. Automatically inferred by https://github.com/jmcbroome/automate-lineages-prototype.
+Alias of B.1.1.529.5.1.22.0, defined by ORF1ab:T2106I, ORF1ab:D2136N, found in France, Germany, and USA. Automatically inferred by https://github.com/jmcbroome/automate-lineages-prototype.
+Alias of B.1.1.529.5.1.3.0, defined by ORF1ab:L1853F, ORF1ab:K3351N, ORF1ab:M6661T, found in Germany. Automatically inferred by https://github.com/jmcbroome/automate-lineages-prototype.
+Alias of B.1.1.529.5.1.11.0, defined by ORF1ab:I2368T, N:A211S, found in Denmark. Automatically inferred by https://github.com/jmcbroome/automate-lineages-prototype.
+Alias of B.1.1.529.5.1.2.0, defined by ORF1ab:T1682I, ORF7a:T14N, found in Germany. Automatically inferred by https://github.com/jmcbroome/automate-lineages-prototype.
+Alias of B.1.1.529.5.1.23.0, defined by ORF1ab:K1895N, ORF1ab:A4016S, found in USA, Germany, and Spain. Automatically inferred by https://github.com/jmcbroome/automate-lineages-prototype.
+Alias of B.1.1.529.5.2.1.0, defined by ORF6:P57L, ORF1ab:I616T, found in Japan, USA, and Germany. Automatically inferred by https://github.com/jmcbroome/automate-lineages-prototype.
+Alias of B.1.1.529.2.75.5.0, defined by ORF1ab:V2955M, ORF7a:T39I, ORF1ab:A3357T, found in Singapore. Automatically inferred by https://github.com/jmcbroome/automate-lineages-prototype.
+Alias of B.1.1.529.2.75.1.0, defined by ORF1ab:S376L, ORF1ab:V6772L, S:K356R, ORF7a:P99L, ORF1ab:R5479H, found in Germany, Croatia, and Luxembourg. Automatically inferred by https://github.com/jmcbroome/automate-lineages-prototype.
+Alias of B.1.1.529.5.5.2.0, defined by ORF1ab:M1014K, S:Q677H, found in USA and Canada. Automatically inferred by https://github.com/jmcbroome/automate-lineages-prototype.
+Alias of B.1.1.529.5.5.1.0, defined by ORF1ab:P7034S, ORF1ab:P2685T, found in USA. Automatically inferred by https://github.com/jmcbroome/automate-lineages-prototype.
+Alias of B.1.1.529.5.9.0, defined by ORF1ab:T3750I, ORF1ab:Y4913C, found in Germany, USA, and Denmark. Automatically inferred by https://github.com/jmcbroome/automate-lineages-prototype.
+Alias of B.1.1.529.5.1.5.0, defined by ORF10:F37L, N:P67S, N:S412I, found in Scotland, USA, and England. Automatically inferred by https://github.com/jmcbroome/automate-lineages-prototype.
+Alias of B.1.1.529.5.1.25.0, defined by ORF6:D6G, ORF8:V49L, N:P80S, found in USA. Automatically inferred by https://github.com/jmcbroome/automate-lineages-prototype.
+Alias of B.1.1.529.5.1.6.0, defined by S:R346T, ORF1ab:R43H, found in USA. Automatically inferred by https://github.com/jmcbroome/automate-lineages-prototype.
+Alias of B.1.1.529.5.1.10.0, defined by ORF1ab:G5942W, ORF1ab:P5371L, found in USA, England, and Ireland. Automatically inferred by https://github.com/jmcbroome/automate-lineages-prototype.
+Alias of B.1.1.529.5.1.1.0, defined by ORF3a:K21N, ORF1ab:G5063C, ORF1ab:I4127V, ORF1ab:P5828L, found in USA. Automatically inferred by https://github.com/jmcbroome/automate-lineages-prototype.
+Alias of B.1.1.529.5.2.1.8.0, defined by ORF3a:Y145F, ORF1ab:T4685I, found in USA. Automatically inferred by https://github.com/jmcbroome/automate-lineages-prototype.
+Alias of B.1.1.529.5.2.1.18.0, defined by ORF1ab:L3919F, ORF3a:V29L, found in Australia. Automatically inferred by https://github.com/jmcbroome/automate-lineages-prototype.
+Alias of B.1.1.529.5.2.1.6.0, defined by N:A152S, ORF1ab:P2055S, S:T732I, found in Germany. Automatically inferred by https://github.com/jmcbroome/automate-lineages-prototype.
+Alias of B.1.1.529.5.2.1.4.0, defined by ORF1ab:A2080V, N:D103N, found in England, USA, and Scotland. Automatically inferred by https://github.com/jmcbroome/automate-lineages-prototype.
+Alias of B.1.1.529.5.2.9.0, defined by ORF1ab:A2249V, ORF8:W45L, found in USA. Automatically inferred by https://github.com/jmcbroome/automate-lineages-prototype.
+Alias of B.1.1.529.5.2.4.0, defined by ORF1ab:V6474L, ORF1ab:L123I, found in Australia, France, and USA. Automatically inferred by https://github.com/jmcbroome/automate-lineages-prototype.
+Alias of XBB.1.0, defined by ORF8:G8*, ORF1ab:P309L, found in Singapore. Automatically inferred by https://github.com/jmcbroome/automate-lineages-prototype.
+Alias of B.1.1.529.5.8.0, defined by N:P46S, ORF1ab:F31Y, found in Sweden. Automatically inferred by https://github.com/jmcbroome/automate-lineages-prototype.
+Alias of B.1.1.529.5.3.1.3.0, defined by S:I231T, ORF3a:D238V, found in USA. Automatically inferred by https://github.com/jmcbroome/automate-lineages-prototype.
+Alias of B.1.1.529.5.3.1.2.0, defined by ORF3a:L52F, ORF1ab:P371S, ORF1ab:P5371L, found in USA. Automatically inferred by https://github.com/jmcbroome/automate-lineages-prototype.
+Alias of B.1.1.529.5.3.1.1.1.0, defined by ORF1ab:L3644F, ORF1ab:H110Y, ORF1ab:A6623V, ORF1ab:P3371S, found in Germany, Denmark, and Sweden. Automatically inferred by https://github.com/jmcbroome/automate-lineages-prototype.
+Alias of B.1.1.529.5.1.7.0, defined by N:P20L, ORF1ab:T2898A, found in Canada. Automatically inferred by https://github.com/jmcbroome/automate-lineages-prototype.
+Alias of B.1.1.529.5.1.10.1.0, defined by ORF1ab:V2998I, ORF1ab:G209D, found in USA. Automatically inferred by https://github.com/jmcbroome/automate-lineages-prototype.
+Alias of B.1.1.529.5.2.1.17.0, defined by ORF1ab:T4617A, ORF10:R24C, found in Australia. Automatically inferred by https://github.com/jmcbroome/automate-lineages-prototype.
+Alias of B.1.1.529.5.2.1.14.0, defined by ORF1ab:A1156T, M:A104V, found in Austria. Automatically inferred by https://github.com/jmcbroome/automate-lineages-prototype.
+Alias of B.1.1.529.5.2.1.28.0, defined by ORF1ab:V6772L, ORF1ab:V988F, ORF1ab:G137S, found in England, USA, and Denmark. Automatically inferred by https://github.com/jmcbroome/automate-lineages-prototype.
+Alias of B.1.1.529.5.2.1.26.0, defined by ORF1ab:A878V, ORF1ab:A6296V, ORF1ab:R119H, found in Sweden and Denmark. Automatically inferred by https://github.com/jmcbroome/automate-lineages-prototype.
+Alias of B.1.1.529.5.2.1.7.0, defined by ORF3a:E239D, ORF1ab:V1287L, ORF1ab:L1287V, found in Germany, Denmark, and Belgium. Automatically inferred by https://github.com/jmcbroome/automate-lineages-prototype.
+Alias of B.1.1.529.5.2.26.0, defined by ORF1ab:T2846I, ORF1ab:T2021I, found in Japan. Automatically inferred by https://github.com/jmcbroome/automate-lineages-prototype.
+Alias of B.1.1.529.5.2.2.0, defined by ORF1ab:S6713L, ORF1ab:T2153I, found in USA. Automatically inferred by https://github.com/jmcbroome/automate-lineages-prototype.
+Alias of B.1.1.529.2.75.1.3.0, defined by N:A211S, ORF1ab:P2568S, S:R346T, found in Singapore. Automatically inferred by https://github.com/jmcbroome/automate-lineages-prototype.
+Alias of B.1.1.529.5.6.1.0, defined by ORF1ab:M4116V, ORF3a:S166L, found in Peru, Canada, and USA. Automatically inferred by https://github.com/jmcbroome/automate-lineages-prototype.
+Alias of B.1.1.529.5.1.4.0, defined by ORF1ab:T2859I, ORF1ab:P5828S, ORF6:D61L, ORF6:D61L, ORF6:D61L, found in England. Automatically inferred by https://github.com/jmcbroome/automate-lineages-prototype.
+Alias of B.1.1.529.5.1.21.0, defined by ORF8:H17Y, ORF8:L95F, found in Denmark. Automatically inferred by https://github.com/jmcbroome/automate-lineages-prototype.
+Alias of B.1.1.529.5.2.1.11.0, defined by S:S1252F, ORF1ab:L624I, ORF1ab:A3615V, ORF1ab:V5493F, found in England and Scotland. Automatically inferred by https://github.com/jmcbroome/automate-lineages-prototype.
+Alias of B.1.1.529.5.2.1.10.0, defined by ORF1ab:G2207C, ORF1ab:C2207S, found in USA and Canada. Automatically inferred by https://github.com/jmcbroome/automate-lineages-prototype.
+Alias of B.1.1.529.5.2.1_no28330.0, defined by ORF1ab:T5805M, ORF3a:A33S, found in France, Australia, and Denmark. Automatically inferred by https://github.com/jmcbroome/automate-lineages-prototype.
+Alias of B.1.1.529.5.2.1.23.0, defined by ORF1ab:T3940I, ORF1ab:S4621N, found in CzechRepublic. Automatically inferred by https://github.com/jmcbroome/automate-lineages-prototype.
+Alias of B.1.1.529.5.2.1.3.0, defined by ORF1ab:H417Y, ORF8:H28Q, found in USA, Singapore, and India. Automatically inferred by https://github.com/jmcbroome/automate-lineages-prototype.
+Alias of B.1.1.529.5.2.1.27.0, defined by ORF1ab:E352K, ORF7a:I3V, found in USA. Automatically inferred by https://github.com/jmcbroome/automate-lineages-prototype.
+Alias of B.1.1.529.5.10.0, defined by ORF1ab:T6833I, ORF1ab:G993C, found in Canada and USA. Automatically inferred by https://github.com/jmcbroome/automate-lineages-prototype.
+Alias of B.1.1.529.2.75.5.1.0, defined by ORF3a:T229I, ORF1ab:M3627I, found in Singapore, England, and Denmark. Automatically inferred by https://github.com/jmcbroome/automate-lineages-prototype.
+Alias of B.1.1.529.5.6.3.0, defined by ORF1ab:S34T, S:H146Y, found in England. Automatically inferred by https://github.com/jmcbroome/automate-lineages-prototype.
+Alias of B.1.1.529.5.3.1.1.1.2.0, defined by ORF1ab:T2408I, ORF3a:V88L, found in Germany, England, and Denmark. Automatically inferred by https://github.com/jmcbroome/automate-lineages-prototype.
+Alias of B.1.1.529.5.3.1.1.1.1.0, defined by ORF1ab:A565V, N:L161F, found in England. Automatically inferred by https://github.com/jmcbroome/automate-lineages-prototype.
+Alias of B.1.1.529.5.3.1.1.3.0, defined by S:K147N, ORF1ab:V86D, found in Sweden and Denmark. Automatically inferred by https://github.com/jmcbroome/automate-lineages-prototype.
+Alias of B.1.1.529.5.2.21.0, defined by ORF1ab:P5624L, ORF1ab:L3644F, found in USA. Automatically inferred by https://github.com/jmcbroome/automate-lineages-prototype.
+Alias of B.1.1.529.5.2.16.0, defined by ORF3a:T89I, S:V445A, found in USA. Automatically inferred by https://github.com/jmcbroome/automate-lineages-prototype.
+Alias of B.1.1.529.5.2.12.0, defined by ORF7a:G42D, ORF1ab:G519S, found in Japan. Automatically inferred by https://github.com/jmcbroome/automate-lineages-prototype.
+Alias of B.1.1.529.5.2.18.0, defined by ORF1ab:N6101S, ORF3a:T269M, found in Sweden. Automatically inferred by https://github.com/jmcbroome/automate-lineages-prototype.
+Alias of B.1.1.529.5.2.31.0, defined by ORF1ab:S376L, ORF8:P36S, found in USA. Automatically inferred by https://github.com/jmcbroome/automate-lineages-prototype.
+Alias of B.1.1.529.5.2.19.0, defined by ORF1ab:D2026A, S:H1083Y, found in Japan. Automatically inferred by https://github.com/jmcbroome/automate-lineages-prototype.
+Alias of B.1.1.529.5.2.6.0, defined by ORF1ab:A4257V, ORF1ab:L6961F, found in USA. Automatically inferred by https://github.com/jmcbroome/automate-lineages-prototype.
+Alias of B.1.1.529.5.2.28.0, defined by ORF3a:F43L, ORF8:A51V, found in USA and Denmark. Automatically inferred by https://github.com/jmcbroome/automate-lineages-prototype.
+Alias of B.1.1.529.5.2.20.0, defined by ORF1ab:G1068E, ORF7a:L17F, found in Germany, France, and Italy. Automatically inferred by https://github.com/jmcbroome/automate-lineages-prototype.
+Alias of B.1.1.529.5.2.22.0, defined by ORF1ab:E441V, ORF3a:D22Y, found in Sweden, Denmark, and England. Automatically inferred by https://github.com/jmcbroome/automate-lineages-prototype.
+Alias of B.1.1.529.5.2.33.0, defined by ORF3a:A143S, ORF8:P85S, ORF1ab:A385V, found in United Kingdom. Automatically inferred by https://github.com/jmcbroome/automate-lineages-prototype.
+Alias of B.1.1.529.5.2.27.0, defined by ORF3a:Y264H, ORF1ab:A2891V, found in Canada and USA. Automatically inferred by https://github.com/jmcbroome/automate-lineages-prototype.
+Alias of B.1.1.529.5.2.1.1.0, defined by ORF3a:V244I, ORF1ab:R4017K, ORF1ab:G1663D, found in Japan, USA, and Canada. Automatically inferred by https://github.com/jmcbroome/automate-lineages-prototype.
+Alias of B.1.1.529.2.75.3.1.1.0, defined by ORF1ab:T5451I, ORF1ab:S167G, found in Austria, India, and USA. Automatically inferred by https://github.com/jmcbroome/automate-lineages-prototype.
+Alias of B.1.1.529.5.2.30.0, defined by ORF1ab:E6129D, ORF7b:E39*, found in Denmark. Automatically inferred by https://github.com/jmcbroome/automate-lineages-prototype.
+Alias of B.1.1.529.5.2.29.0, defined by S:K1191N, ORF1ab:D5128N, found in Denmark. Automatically inferred by https://github.com/jmcbroome/automate-lineages-prototype.
+Alias of B.1.1.529.5.2.3.0, defined by ORF1ab:V28I, ORF1ab:T3750I, found in Sweden, Denmark, and USA. Automatically inferred by https://github.com/jmcbroome/automate-lineages-prototype.
+Alias of B.1.1.529.5.2.27.1.0, defined by S:H66R, ORF1ab:I2230T, found in USA. Automatically inferred by https://github.com/jmcbroome/automate-lineages-prototype.
+Alias of B.1.1.529.5.2.1.5.0, defined by ORF1ab:I2873V, ORF1ab:K3839R, found in Japan. Automatically inferred by https://github.com/jmcbroome/automate-lineages-prototype.
+Alias of XAW.0, defined by ORF1ab:V1143F, ORF1ab:S6713L, found in Russia. Automatically inferred by https://github.com/jmcbroome/automate-lineages-prototype.
+Alias of B.1.1.529.5.3.1.1.1.1.1.0, defined by ORF1ab:N5592S, ORF1ab:A540V, found in Ireland, France, and England. Automatically inferred by https://github.com/jmcbroome/automate-lineages-prototype.
+Alias of B.1.1.529.5.2.7.0, defined by ORF1ab:H3395Y, N:Q386H, found in USA, Germany, and Croatia. Automatically inferred by https://github.com/jmcbroome/automate-lineages-prototype.
+Alias of B.1.1.529.5.2.13.0, defined by ORF1ab:P971S, S:T791I, ORF1ab:D1532G, found in England and United Kingdom. Automatically inferred by https://github.com/jmcbroome/automate-lineages-prototype.
+Alias of B.1.1.529.5.2.1.21.0, defined by ORF1ab:T4161I, ORF1ab:H4831Y, found in USA. Automatically inferred by https://github.com/jmcbroome/automate-lineages-prototype.
+Alias of B.1.1.529.5.2.1.13.0, defined by ORF1ab:K6958R, ORF1ab:T5451I, found in Sweden, Belgium, and USA. Automatically inferred by https://github.com/jmcbroome/automate-lineages-prototype.
+Alias of B.1.1.529.5.2.25.0, defined by ORF3a:D27E, N:T332I, found in Guinea, USA, and Denmark. Automatically inferred by https://github.com/jmcbroome/automate-lineages-prototype.
+Alias of B.1.1.529.5.2.3.1.0, defined by ORF1ab:E5689D, ORF1ab:S17N, found in Denmark. Automatically inferred by https://github.com/jmcbroome/automate-lineages-prototype.
+Alias of B.1.1.529.5.3.1.1.1.1.1.1.0, defined by ORF1ab:P6714L, ORF1ab:V3855I, found in England, USA, and France. Automatically inferred by https://github.com/jmcbroome/automate-lineages-prototype.
+Alias of B.1.1.529.2.75.2.1.0, defined by ORF3a:G44R, M:L17F, found in USA. Automatically inferred by https://github.com/jmcbroome/automate-lineages-prototype.
+Alias of B.1.1.529.2.0, defined by ORF1ab:T842I, S:N417T, S:I68T, found in Turkey, Germany, and England. Automatically inferred by https://github.com/jmcbroome/automate-lineages-prototype.
+Alias of B.1.1.529.1.17.2.0, defined by S:F643L, ORF1ab:D1127E, ORF1ab:I2538V, ORF1ab:A354V, ORF10:R24C, found in Kiribati. Automatically inferred by https://github.com/jmcbroome/automate-lineages-prototype.
+Alias of B.1.1.529.2.10.0, defined by ORF8:Q27*, ORF1ab:T2007I, N:G18C, N:T135I, found in Japan. Automatically inferred by https://github.com/jmcbroome/automate-lineages-prototype.
+Alias of B.1.1.529.2.9.0, defined by ORF6:L61P, ORF1ab:H1113Y, ORF1ab:Q5794R, S:S730F, ORF1ab:A2909V, ORF1ab:R4387C, found in Venezuela, USA, and Spain. Automatically inferred by https://github.com/jmcbroome/automate-lineages-prototype.
+Alias of 22C (Omicron).0, defined by ORF8:Q18*, ORF1ab:F3753V, found in USA. Automatically inferred by https://github.com/jmcbroome/automate-lineages-prototype.
+Alias of B.1.1.529.2.12.1.0, defined by ORF8:Q18*, ORF1ab:F3753V, ORF7b:A15S, found in USA. Automatically inferred by https://github.com/jmcbroome/automate-lineages-prototype.
+Alias of B.1.1.529.2.74.0, defined by ORF1ab:T2859I, ORF3a:P240S, found in India, USA, and Denmark. Automatically inferred by https://github.com/jmcbroome/automate-lineages-prototype.
+Alias of XAS.0, defined by ORF1ab:T4174I, ORF1ab:K3353R, found in USA. Automatically inferred by https://github.com/jmcbroome/automate-lineages-prototype.
+Alias of 22A (Omicron).0, defined by S:N658S, ORF1ab:A967V, found in England, Scotland, and USA. Automatically inferred by https://github.com/jmcbroome/automate-lineages-prototype.
+Alias of B.1.1.529.4.0, defined by S:N658S, ORF1ab:H81N, ORF7a:R80I, S:R346S, found in USA, France, and Germany. Automatically inferred by https://github.com/jmcbroome/automate-lineages-prototype.
+Alias of B.1.1.529.4.1.0, defined by S:G3V, S:N658S, S:R346T, found in USA, England, and France. Automatically inferred by https://github.com/jmcbroome/automate-lineages-prototype.
+Alias of B.1.1.529.2.10.4.0, defined by S:G446S, ORF3a:G100C, ORF1ab:Q362L, found in England, United Kingdom, and France. Automatically inferred by https://github.com/jmcbroome/automate-lineages-prototype.
+Alias of B.1.1.529.2.3.20.0, defined by ORF1ab:S2103F, ORF1ab:T2087I, found in Denmark. Automatically inferred by https://github.com/jmcbroome/automate-lineages-prototype.
+Alias of B.1.1.529.4.1.1.0, defined by ORF3a:I37T, ORF1ab:T2247I, found in USA, Germany, and England. Automatically inferred by https://github.com/jmcbroome/automate-lineages-prototype.
+Alias of B.1.1.529.4.1.9.0, defined by ORF3a:V259L, S:K444R, found in USA. Automatically inferred by https://github.com/jmcbroome/automate-lineages-prototype.
+Alias of B.1.1.529.4.4.0, defined by ORF1ab:P2046S, S:A701V, found in USA. Automatically inferred by https://github.com/jmcbroome/automate-lineages-prototype.
+Alias of B.1.1.529.4.2.0, defined by ORF1ab:S4286G, ORF1ab:F2787S, found in USA and Germany. Automatically inferred by https://github.com/jmcbroome/automate-lineages-prototype.
+Alias of B.1.1.529.2.75_dropout.0, defined by S:I210V, S:G257S, S:W152R, found in India. Automatically inferred by https://github.com/jmcbroome/automate-lineages-prototype.
+Alias of B.1.1.529.4.7.0, defined by ORF1ab:Q5947H, ORF3a:A51V, found in England, Denmark, and Wales. Automatically inferred by https://github.com/jmcbroome/automate-lineages-prototype.
+Alias of B.1.1.529.4.5.0, defined by ORF1ab:L552F, ORF1ab:A3143V, found in Australia and NewZealand. Automatically inferred by https://github.com/jmcbroome/automate-lineages-prototype.
+Alias of B.1.1.529.4.6.0, defined by ORF1ab:T6175I, ORF1ab:T5912I, found in USA, Canada, and France. Automatically inferred by https://github.com/jmcbroome/automate-lineages-prototype.
+Alias of 22B (Omicron).0, defined by ORF1ab:A6044V, N:T49I, S:S255F, ORF1ab:M4993I, found in England, Japan, and Wales. Automatically inferred by https://github.com/jmcbroome/automate-lineages-prototype.
+Alias of B.1.1.529.5.0, defined by ORF1ab:A6044V, N:T49I, S:S255F, ORF1ab:M4993I, ORF1ab:V1915I, found in England, Scotland, and USA. Automatically inferred by https://github.com/jmcbroome/automate-lineages-prototype.
+Alias of B.1.1.529.4.1.8.0, defined by ORF1ab:I5817V, ORF1ab:R207C, found in USA. Automatically inferred by https://github.com/jmcbroome/automate-lineages-prototype.
+Alias of B.1.1.529.4.6.1.0, defined by ORF1ab:L4391F, ORF1ab:A1420V, found in England and Israel. Automatically inferred by https://github.com/jmcbroome/automate-lineages-prototype.
+Alias of XAZ.0, defined by ORF1ab:P1989S, ORF8:I74S, N:D377Y, found in Slovakia and Germany. Automatically inferred by https://github.com/jmcbroome/automate-lineages-prototype.
+Alias of B.1.1.529.5.5.0, defined by ORF1ab:A903V, ORF1ab:A1049V, found in USA, Denmark, and England. Automatically inferred by https://github.com/jmcbroome/automate-lineages-prototype.
+Alias of B.1.1.529.5.3.0, defined by ORF1ab:I5869V, S:S1170F, ORF3a:S253P, found in USA and Belgium. Automatically inferred by https://github.com/jmcbroome/automate-lineages-prototype.
+Alias of B.1.1.529.5.2_no28330.0, defined by ORF1ab:A2637T, ORF1ab:G519S, found in England, Germany, and Denmark. Automatically inferred by https://github.com/jmcbroome/automate-lineages-prototype.
+Alias of B.1.1.529.5.1_no27438.0, defined by N:G34V, ORF1ab:T4129I, found in Wales, Denmark, and England. Automatically inferred by https://github.com/jmcbroome/automate-lineages-prototype.
+Alias of B.1.1.529.5.3.2.0, defined by ORF1ab:P4853S, ORF1ab:L6981I, found in Germany and Denmark. Automatically inferred by https://github.com/jmcbroome/automate-lineages-prototype.
+Alias of B.1.1.529.5.3.3.0, defined by ORF1ab:K6958R, ORF1ab:F2193S, S:A829T, S:A67V, found in Israel and Germany. Automatically inferred by https://github.com/jmcbroome/automate-lineages-prototype.
+Alias of B.1.1.529.5.3.1.0, defined by ORF7a:T39P, ORF7a:K119R, found in Germany, Israel, and USA. Automatically inferred by https://github.com/jmcbroome/automate-lineages-prototype.
+Alias of B.1.1.529.5.1.0, defined by ORF3a:D155Y, ORF1ab:A6990T, found in Germany, USA, and England. Automatically inferred by https://github.com/jmcbroome/automate-lineages-prototype.
+Alias of B.1.1.529.5.2.0, defined by ORF1ab:T5451N, E:I9T, found in Japan, SouthKorea, and Thailand. Automatically inferred by https://github.com/jmcbroome/automate-lineages-prototype.
+Alias of 22D (Omicron).0, defined by ORF1ab:P5402S, S:K356T, ORF1ab:T4302N, found in Wales, USA, and India. Automatically inferred by https://github.com/jmcbroome/automate-lineages-prototype.
+Alias of B.1.1.529.2.75.0, defined by ORF1ab:P5402S, S:K356T, ORF1ab:T4302N, N:T24I, found in Wales. Automatically inferred by https://github.com/jmcbroome/automate-lineages-prototype.
+Alias of B.1.1.529.5.6.0, defined by ORF1ab:T6938I, ORF1ab:M6240I, ORF1ab:K734N, found in USA and Denmark. Automatically inferred by https://github.com/jmcbroome/automate-lineages-prototype.
+Alias of B.1.1.529.5.3.1.1.0, defined by ORF1ab:A1204T, ORF3a:V48F, ORF3a:G49C, found in England, USA, and Australia. Automatically inferred by https://github.com/jmcbroome/automate-lineages-prototype.
+Alias of B.1.1.529.5.1.17.0, defined by ORF1ab:I114T, ORF1ab:T4617I, ORF1ab:A5660T, found in France, Germany, and USA. Automatically inferred by https://github.com/jmcbroome/automate-lineages-prototype.
+Alias of B.1.1.529.5.1.24.0, defined by ORF6:E13G, ORF1ab:Y1039H, ORF7a:P84L, ORF1ab:I3576V, found in Denmark. Automatically inferred by https://github.com/jmcbroome/automate-lineages-prototype.
+Alias of B.1.1.529.5.1.22.0, defined by ORF1ab:T2106I, ORF1ab:D2136N, found in France, Germany, and USA. Automatically inferred by https://github.com/jmcbroome/automate-lineages-prototype.
+Alias of B.1.1.529.5.1.3.0, defined by ORF1ab:L1853F, ORF1ab:K3351N, ORF1ab:M6661T, found in Germany. Automatically inferred by https://github.com/jmcbroome/automate-lineages-prototype.
+Alias of B.1.1.529.5.1.11.0, defined by ORF1ab:I2368T, N:A211S, found in Denmark. Automatically inferred by https://github.com/jmcbroome/automate-lineages-prototype.
+Alias of B.1.1.529.5.1.2.0, defined by ORF1ab:T1682I, ORF7a:T14N, found in Germany. Automatically inferred by https://github.com/jmcbroome/automate-lineages-prototype.
+Alias of B.1.1.529.5.1.23.0, defined by ORF1ab:K1895N, ORF1ab:A4016S, found in USA, Germany, and Spain. Automatically inferred by https://github.com/jmcbroome/automate-lineages-prototype.
+Alias of B.1.1.529.5.2.1.0, defined by ORF6:P57L, ORF1ab:I616T, found in Japan, USA, and Germany. Automatically inferred by https://github.com/jmcbroome/automate-lineages-prototype.
+Alias of B.1.1.529.2.75.5.0, defined by ORF1ab:V2955M, ORF7a:T39I, ORF1ab:A3357T, found in Singapore. Automatically inferred by https://github.com/jmcbroome/automate-lineages-prototype.
+Alias of B.1.1.529.2.75.1.0, defined by ORF1ab:S376L, ORF1ab:V6772L, S:K356R, ORF7a:P99L, ORF1ab:R5479H, found in Germany, Croatia, and Luxembourg. Automatically inferred by https://github.com/jmcbroome/automate-lineages-prototype.
+Alias of B.1.1.529.5.5.2.0, defined by ORF1ab:M1014K, S:Q677H, found in USA and Canada. Automatically inferred by https://github.com/jmcbroome/automate-lineages-prototype.
+Alias of B.1.1.529.5.5.1.0, defined by ORF1ab:P7034S, ORF1ab:P2685T, found in USA. Automatically inferred by https://github.com/jmcbroome/automate-lineages-prototype.
+Alias of B.1.1.529.5.9.0, defined by ORF1ab:T3750I, ORF1ab:Y4913C, found in Germany, USA, and Denmark. Automatically inferred by https://github.com/jmcbroome/automate-lineages-prototype.
+Alias of B.1.1.529.5.1.5.0, defined by ORF10:F37L, N:P67S, N:S412I, found in Scotland, USA, and England. Automatically inferred by https://github.com/jmcbroome/automate-lineages-prototype.
+Alias of B.1.1.529.5.1.25.0, defined by ORF6:D6G, ORF8:V49L, N:P80S, found in USA. Automatically inferred by https://github.com/jmcbroome/automate-lineages-prototype.
+Alias of B.1.1.529.5.1.6.0, defined by S:R346T, ORF1ab:R43H, found in USA. Automatically inferred by https://github.com/jmcbroome/automate-lineages-prototype.
+Alias of B.1.1.529.5.1.10.0, defined by ORF1ab:G5942W, ORF1ab:P5371L, found in USA, England, and Ireland. Automatically inferred by https://github.com/jmcbroome/automate-lineages-prototype.
+Alias of B.1.1.529.5.1.1.0, defined by ORF3a:K21N, ORF1ab:G5063C, ORF1ab:I4127V, ORF1ab:P5828L, found in USA. Automatically inferred by https://github.com/jmcbroome/automate-lineages-prototype.
+Alias of B.1.1.529.5.2.1.8.0, defined by ORF3a:Y145F, ORF1ab:T4685I, found in USA. Automatically inferred by https://github.com/jmcbroome/automate-lineages-prototype.
+Alias of B.1.1.529.5.2.1.18.0, defined by ORF1ab:L3919F, ORF3a:V29L, found in Australia. Automatically inferred by https://github.com/jmcbroome/automate-lineages-prototype.
+Alias of B.1.1.529.5.2.1.6.0, defined by N:A152S, ORF1ab:P2055S, S:T732I, found in Germany. Automatically inferred by https://github.com/jmcbroome/automate-lineages-prototype.
+Alias of B.1.1.529.5.2.1.4.0, defined by ORF1ab:A2080V, N:D103N, found in England, USA, and Scotland. Automatically inferred by https://github.com/jmcbroome/automate-lineages-prototype.
+Alias of B.1.1.529.5.2.9.0, defined by ORF1ab:A2249V, ORF8:W45L, found in USA. Automatically inferred by https://github.com/jmcbroome/automate-lineages-prototype.
+Alias of B.1.1.529.5.2.4.0, defined by ORF1ab:V6474L, ORF1ab:L123I, found in Australia, France, and USA. Automatically inferred by https://github.com/jmcbroome/automate-lineages-prototype.
+Alias of XBB.1.0, defined by ORF8:G8*, ORF1ab:P309L, found in Singapore. Automatically inferred by https://github.com/jmcbroome/automate-lineages-prototype.
+Alias of B.1.1.529.5.8.0, defined by N:P46S, ORF1ab:F31Y, found in Sweden. Automatically inferred by https://github.com/jmcbroome/automate-lineages-prototype.
+Alias of B.1.1.529.5.3.1.3.0, defined by S:I231T, ORF3a:D238V, found in USA. Automatically inferred by https://github.com/jmcbroome/automate-lineages-prototype.
+Alias of B.1.1.529.5.3.1.2.0, defined by ORF3a:L52F, ORF1ab:P371S, ORF1ab:P5371L, found in USA. Automatically inferred by https://github.com/jmcbroome/automate-lineages-prototype.
+Alias of B.1.1.529.5.3.1.1.1.0, defined by ORF1ab:L3644F, ORF1ab:H110Y, ORF1ab:A6623V, ORF1ab:P3371S, found in Germany, Denmark, and Sweden. Automatically inferred by https://github.com/jmcbroome/automate-lineages-prototype.
+Alias of B.1.1.529.5.1.7.0, defined by N:P20L, ORF1ab:T2898A, found in Canada. Automatically inferred by https://github.com/jmcbroome/automate-lineages-prototype.
+Alias of B.1.1.529.5.1.10.1.0, defined by ORF1ab:V2998I, ORF1ab:G209D, found in USA. Automatically inferred by https://github.com/jmcbroome/automate-lineages-prototype.
+Alias of B.1.1.529.5.2.1.17.0, defined by ORF1ab:T4617A, ORF10:R24C, found in Australia. Automatically inferred by https://github.com/jmcbroome/automate-lineages-prototype.
+Alias of B.1.1.529.5.2.1.14.0, defined by ORF1ab:A1156T, M:A104V, found in Austria. Automatically inferred by https://github.com/jmcbroome/automate-lineages-prototype.
+Alias of B.1.1.529.5.2.1.28.0, defined by ORF1ab:V6772L, ORF1ab:V988F, ORF1ab:G137S, found in England, USA, and Denmark. Automatically inferred by https://github.com/jmcbroome/automate-lineages-prototype.
+Alias of B.1.1.529.5.2.1.26.0, defined by ORF1ab:A878V, ORF1ab:A6296V, ORF1ab:R119H, found in Sweden and Denmark. Automatically inferred by https://github.com/jmcbroome/automate-lineages-prototype.
+Alias of B.1.1.529.5.2.1.7.0, defined by ORF3a:E239D, ORF1ab:V1287L, ORF1ab:L1287V, found in Germany, Denmark, and Belgium. Automatically inferred by https://github.com/jmcbroome/automate-lineages-prototype.
+Alias of B.1.1.529.5.2.26.0, defined by ORF1ab:T2846I, ORF1ab:T2021I, found in Japan. Automatically inferred by https://github.com/jmcbroome/automate-lineages-prototype.
+Alias of B.1.1.529.5.2.2.0, defined by ORF1ab:S6713L, ORF1ab:T2153I, found in USA. Automatically inferred by https://github.com/jmcbroome/automate-lineages-prototype.
+Alias of B.1.1.529.2.75.1.3.0, defined by N:A211S, ORF1ab:P2568S, S:R346T, found in Singapore. Automatically inferred by https://github.com/jmcbroome/automate-lineages-prototype.
+Alias of B.1.1.529.5.6.1.0, defined by ORF1ab:M4116V, ORF3a:S166L, found in Peru, Canada, and USA. Automatically inferred by https://github.com/jmcbroome/automate-lineages-prototype.
+Alias of B.1.1.529.5.1.4.0, defined by ORF1ab:T2859I, ORF1ab:P5828S, ORF6:D61L, ORF6:D61L, ORF6:D61L, found in England. Automatically inferred by https://github.com/jmcbroome/automate-lineages-prototype.
+Alias of B.1.1.529.5.1.21.0, defined by ORF8:H17Y, ORF8:L95F, found in Denmark. Automatically inferred by https://github.com/jmcbroome/automate-lineages-prototype.
+Alias of B.1.1.529.5.2.1.11.0, defined by S:S1252F, ORF1ab:L624I, ORF1ab:A3615V, ORF1ab:V5493F, found in England and Scotland. Automatically inferred by https://github.com/jmcbroome/automate-lineages-prototype.
+Alias of B.1.1.529.5.2.1.10.0, defined by ORF1ab:G2207C, ORF1ab:C2207S, found in USA and Canada. Automatically inferred by https://github.com/jmcbroome/automate-lineages-prototype.
+Alias of B.1.1.529.5.2.1_no28330.0, defined by ORF1ab:T5805M, ORF3a:A33S, found in France, Australia, and Denmark. Automatically inferred by https://github.com/jmcbroome/automate-lineages-prototype.
+Alias of B.1.1.529.5.2.1.23.0, defined by ORF1ab:T3940I, ORF1ab:S4621N, found in CzechRepublic. Automatically inferred by https://github.com/jmcbroome/automate-lineages-prototype.
+Alias of B.1.1.529.5.2.1.3.0, defined by ORF1ab:H417Y, ORF8:H28Q, found in USA, Singapore, and India. Automatically inferred by https://github.com/jmcbroome/automate-lineages-prototype.
+Alias of B.1.1.529.5.2.1.27.0, defined by ORF1ab:E352K, ORF7a:I3V, found in USA. Automatically inferred by https://github.com/jmcbroome/automate-lineages-prototype.
+Alias of B.1.1.529.5.10.0, defined by ORF1ab:T6833I, ORF1ab:G993C, found in Canada and USA. Automatically inferred by https://github.com/jmcbroome/automate-lineages-prototype.
+Alias of B.1.1.529.2.75.5.1.0, defined by ORF3a:T229I, ORF1ab:M3627I, found in Singapore, England, and Denmark. Automatically inferred by https://github.com/jmcbroome/automate-lineages-prototype.
+Alias of B.1.1.529.5.6.3.0, defined by ORF1ab:S34T, S:H146Y, found in England. Automatically inferred by https://github.com/jmcbroome/automate-lineages-prototype.
+Alias of B.1.1.529.5.3.1.1.1.2.0, defined by ORF1ab:T2408I, ORF3a:V88L, found in Germany, England, and Denmark. Automatically inferred by https://github.com/jmcbroome/automate-lineages-prototype.
+Alias of B.1.1.529.5.3.1.1.1.1.0, defined by ORF1ab:A565V, N:L161F, found in England. Automatically inferred by https://github.com/jmcbroome/automate-lineages-prototype.
+Alias of B.1.1.529.5.3.1.1.3.0, defined by S:K147N, ORF1ab:V86D, found in Sweden and Denmark. Automatically inferred by https://github.com/jmcbroome/automate-lineages-prototype.
+Alias of B.1.1.529.5.2.21.0, defined by ORF1ab:P5624L, ORF1ab:L3644F, found in USA. Automatically inferred by https://github.com/jmcbroome/automate-lineages-prototype.
+Alias of B.1.1.529.5.2.16.0, defined by ORF3a:T89I, S:V445A, found in USA. Automatically inferred by https://github.com/jmcbroome/automate-lineages-prototype.
+Alias of B.1.1.529.5.2.12.0, defined by ORF7a:G42D, ORF1ab:G519S, found in Japan. Automatically inferred by https://github.com/jmcbroome/automate-lineages-prototype.
+Alias of B.1.1.529.5.2.18.0, defined by ORF1ab:N6101S, ORF3a:T269M, found in Sweden. Automatically inferred by https://github.com/jmcbroome/automate-lineages-prototype.
+Alias of B.1.1.529.5.2.31.0, defined by ORF1ab:S376L, ORF8:P36S, found in USA. Automatically inferred by https://github.com/jmcbroome/automate-lineages-prototype.
+Alias of B.1.1.529.5.2.19.0, defined by ORF1ab:D2026A, S:H1083Y, found in Japan. Automatically inferred by https://github.com/jmcbroome/automate-lineages-prototype.
+Alias of B.1.1.529.5.2.6.0, defined by ORF1ab:A4257V, ORF1ab:L6961F, found in USA. Automatically inferred by https://github.com/jmcbroome/automate-lineages-prototype.
+Alias of B.1.1.529.5.2.28.0, defined by ORF3a:F43L, ORF8:A51V, found in USA and Denmark. Automatically inferred by https://github.com/jmcbroome/automate-lineages-prototype.
+Alias of B.1.1.529.5.2.20.0, defined by ORF1ab:G1068E, ORF7a:L17F, found in Germany, France, and Italy. Automatically inferred by https://github.com/jmcbroome/automate-lineages-prototype.
+Alias of B.1.1.529.5.2.22.0, defined by ORF1ab:E441V, ORF3a:D22Y, found in Sweden, Denmark, and England. Automatically inferred by https://github.com/jmcbroome/automate-lineages-prototype.
+Alias of B.1.1.529.5.2.33.0, defined by ORF3a:A143S, ORF8:P85S, ORF1ab:A385V, found in United Kingdom. Automatically inferred by https://github.com/jmcbroome/automate-lineages-prototype.
+Alias of B.1.1.529.5.2.27.0, defined by ORF3a:Y264H, ORF1ab:A2891V, found in Canada and USA. Automatically inferred by https://github.com/jmcbroome/automate-lineages-prototype.
+Alias of B.1.1.529.5.2.1.1.0, defined by ORF3a:V244I, ORF1ab:R4017K, ORF1ab:G1663D, found in Japan, USA, and Canada. Automatically inferred by https://github.com/jmcbroome/automate-lineages-prototype.
+Alias of B.1.1.529.2.75.3.1.1.0, defined by ORF1ab:T5451I, ORF1ab:S167G, found in Austria, India, and USA. Automatically inferred by https://github.com/jmcbroome/automate-lineages-prototype.
+Alias of B.1.1.529.5.2.30.0, defined by ORF1ab:E6129D, ORF7b:E39*, found in Denmark. Automatically inferred by https://github.com/jmcbroome/automate-lineages-prototype.
+Alias of B.1.1.529.5.2.29.0, defined by S:K1191N, ORF1ab:D5128N, found in Denmark. Automatically inferred by https://github.com/jmcbroome/automate-lineages-prototype.
+Alias of B.1.1.529.5.2.3.0, defined by ORF1ab:V28I, ORF1ab:T3750I, found in Sweden, Denmark, and USA. Automatically inferred by https://github.com/jmcbroome/automate-lineages-prototype.
+Alias of B.1.1.529.5.2.27.1.0, defined by S:H66R, ORF1ab:I2230T, found in USA. Automatically inferred by https://github.com/jmcbroome/automate-lineages-prototype.
+Alias of B.1.1.529.5.2.1.5.0, defined by ORF1ab:I2873V, ORF1ab:K3839R, found in Japan. Automatically inferred by https://github.com/jmcbroome/automate-lineages-prototype.
+Alias of XAW.0, defined by ORF1ab:V1143F, ORF1ab:S6713L, found in Russia. Automatically inferred by https://github.com/jmcbroome/automate-lineages-prototype.
+Alias of B.1.1.529.5.3.1.1.1.1.1.0, defined by ORF1ab:N5592S, ORF1ab:A540V, found in Ireland, France, and England. Automatically inferred by https://github.com/jmcbroome/automate-lineages-prototype.
+Alias of B.1.1.529.5.2.7.0, defined by ORF1ab:H3395Y, N:Q386H, found in USA, Germany, and Croatia. Automatically inferred by https://github.com/jmcbroome/automate-lineages-prototype.
+Alias of B.1.1.529.5.2.13.0, defined by ORF1ab:P971S, S:T791I, ORF1ab:D1532G, found in England and United Kingdom. Automatically inferred by https://github.com/jmcbroome/automate-lineages-prototype.
+Alias of B.1.1.529.5.2.1.21.0, defined by ORF1ab:T4161I, ORF1ab:H4831Y, found in USA. Automatically inferred by https://github.com/jmcbroome/automate-lineages-prototype.
+Alias of B.1.1.529.5.2.1.13.0, defined by ORF1ab:K6958R, ORF1ab:T5451I, found in Sweden, Belgium, and USA. Automatically inferred by https://github.com/jmcbroome/automate-lineages-prototype.
+Alias of B.1.1.529.5.2.25.0, defined by ORF3a:D27E, N:T332I, found in Guinea, USA, and Denmark. Automatically inferred by https://github.com/jmcbroome/automate-lineages-prototype.
+Alias of B.1.1.529.5.2.3.1.0, defined by ORF1ab:E5689D, ORF1ab:S17N, found in Denmark. Automatically inferred by https://github.com/jmcbroome/automate-lineages-prototype.
+Alias of B.1.1.529.5.3.1.1.1.1.1.1.0, defined by ORF1ab:P6714L, ORF1ab:V3855I, found in England, USA, and France. Automatically inferred by https://github.com/jmcbroome/automate-lineages-prototype.
+Alias of B.1.1.529.2.75.2.1.0, defined by ORF3a:G44R, M:L17F, found in USA. Automatically inferred by https://github.com/jmcbroome/automate-lineages-prototype.
