@@ -2586,3 +2586,10 @@ XBJ	Recombinant lineage of BA.2.3.20 and BA.5.2, possibly Philippines, from pang
 *H.1	Withdrawn: Alias of B.1.1.67.1, South African lineage, split from B.1.1.10
 *I.1	Withdrawn: Alias of B.1.1.217.1, Latvian lineage, split from B.1.1.25
 *J.1	Withdrawn: Alias of B.1.1.250.1, Australian lineage
+auto.XBB.1.4.0	Alias of auto.XBB.1.4.0, defined by S:S673G, found in Denmark, Norway, and Sweden. Automatically inferred by https://github.com/jmcbroome/automate-lineages-prototype.
+auto.BN.1.3	Alias of auto.BN.1.3, defined by ORF1ab:F3753L, ORF1ab:H4831Y, found in Denmark. Automatically inferred by https://github.com/jmcbroome/automate-lineages-prototype.
+auto.BQ.1.2.3	Alias of auto.BQ.1.2.3, defined by N:H300N, ORF1ab:P5828S, found in Mongolia, Turkey, and USA. Automatically inferred by https://github.com/jmcbroome/automate-lineages-prototype.
+auto.BQ.1.13.2	Alias of auto.BQ.1.13.2, defined by S:F157L, found in USA, Netherlands, and England. Automatically inferred by https://github.com/jmcbroome/automate-lineages-prototype.
+auto.BQ.1.23.2	Alias of auto.BQ.1.23.2, defined by ORF1ab:D1939G, found in Australia. Automatically inferred by https://github.com/jmcbroome/automate-lineages-prototype.
+auto.BQ.1.1.4.3	Alias of auto.BQ.1.1.4.3, defined by ORF1ab:T1168A, found in Denmark, Croatia, and Australia. Automatically inferred by https://github.com/jmcbroome/automate-lineages-prototype.
+auto.BQ.1.1.20.1	Alias of auto.BQ.1.1.20.1, defined by S:A1070V, found in Denmark. Automatically inferred by https://github.com/jmcbroome/automate-lineages-prototype.
