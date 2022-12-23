@@ -2586,3 +2586,63 @@ XBJ	Recombinant lineage of BA.2.3.20 and BA.5.2, possibly Philippines, from pang
 *H.1	Withdrawn: Alias of B.1.1.67.1, South African lineage, split from B.1.1.10
 *I.1	Withdrawn: Alias of B.1.1.217.1, Latvian lineage, split from B.1.1.25
 *J.1	Withdrawn: Alias of B.1.1.250.1, Australian lineage
+auto.CH.1.1.1.1	Alias of auto.B.1.1.529.2.75.3.4.1.1.1.1.1.1, defined by ORF1ab:A427V, ORF1ab:K6541R, ORF3a:A110V, found in England and Wales. Automatically inferred by https://github.com/jmcbroome/automate-lineages-prototype.
+auto.DJ.1.3	Alias of auto.B.1.1.529.5.1.25.1.3, defined by ORF1ab:T3287I, S:N460K, ORF1ab:T6098A, found in Peru, Colombia, and USA. Automatically inferred by https://github.com/jmcbroome/automate-lineages-prototype.
+auto.BA.5.1.1.1	Alias of auto.B.1.1.529.5.1.1.1, defined by N:G25D, ORF1ab:V3024I, ORF1ab:M4390T, ORF1ab:S318L, found in Canada. Automatically inferred by https://github.com/jmcbroome/automate-lineages-prototype.
+auto.DJ.1.1.1	Alias of auto.B.1.1.529.5.1.25.1.1.1, defined by ORF8:W45S, found in Peru and USA. Automatically inferred by https://github.com/jmcbroome/automate-lineages-prototype.
+auto.BR.2.1.1	Alias of auto.B.1.1.529.2.75.4.2.1.1, defined by ORF1ab:R184C, found in Australia. Automatically inferred by https://github.com/jmcbroome/automate-lineages-prototype.
+auto.BW.1.2	Alias of auto.B.1.1.529.5.6.2.1.2, defined by ORF3a:F207L, ORF1ab:T4685I, found in Mexico and USA. Automatically inferred by https://github.com/jmcbroome/automate-lineages-prototype.
+auto.XBB.1.4.1.1	Alias of auto.XBB.1.4.1.1, defined by ORF1ab:T4159I, found in Sweden and Denmark. Automatically inferred by https://github.com/jmcbroome/automate-lineages-prototype.
+auto.BF.7.10.1	Alias of auto.B.1.1.529.5.2.1.7.10.1, defined by ORF1ab:S3601P, ORF1ab:Q607H, found in Iceland and Germany. Automatically inferred by https://github.com/jmcbroome/automate-lineages-prototype.
+auto.XBB.2.1	Alias of auto.XBB.2.1, defined by ORF3a:D155Y, found in Indonesia, England, and Australia. Automatically inferred by https://github.com/jmcbroome/automate-lineages-prototype.
+auto.BE.10.1	Alias of auto.B.1.1.529.5.3.1.10.1, defined by ORF1ab:T4161I, ORF7a:P84L, found in Brazil, USA, and Chile. Automatically inferred by https://github.com/jmcbroome/automate-lineages-prototype.
+auto.BQ.1.1.23.1	Alias of auto.B.1.1.529.5.3.1.1.1.1.1.1.23.1, defined by ORF3a:W193R, found in Switzerland, England, and Denmark. Automatically inferred by https://github.com/jmcbroome/automate-lineages-prototype.
+auto.BQ.1.1.26.1	Alias of auto.B.1.1.529.5.3.1.1.1.1.1.1.26.1, defined by ORF3a:Y107C, S:N185T, found in Denmark, Germany, and Austria. Automatically inferred by https://github.com/jmcbroome/automate-lineages-prototype.
+auto.BR.2.2	Alias of auto.B.1.1.529.2.75.4.2.2, defined by ORF7b:V21D, found in Australia. Automatically inferred by https://github.com/jmcbroome/automate-lineages-prototype.
+auto.CH.1.1.2.1	Alias of auto.B.1.1.529.2.75.3.4.1.1.1.1.2.1, defined by ORF1ab:S1102G, found in England, Australia, and Wales. Automatically inferred by https://github.com/jmcbroome/automate-lineages-prototype.
+auto.BN.1.3.1.1	Alias of auto.B.1.1.529.2.75.5.1.3.1.1, defined by ORF3a:G254V, found in Denmark. Automatically inferred by https://github.com/jmcbroome/automate-lineages-prototype.
+auto.BA.5.2.43.1	Alias of auto.B.1.1.529.5.2.43.1, defined by ORF1ab:A1679V, S:K147Q, found in SouthKorea and Japan. Automatically inferred by https://github.com/jmcbroome/automate-lineages-prototype.
+auto.XBB.1.7	Alias of auto.XBB.1.7, defined by S:I19T, ORF8:G8*, ORF1ab:R24C, S:T19I, ORF1ab:C24R, ORF1ab:A540V, found in USA. Automatically inferred by https://github.com/jmcbroome/automate-lineages-prototype.
+auto.BQ.1.20.1	Alias of auto.B.1.1.529.5.3.1.1.1.1.1.20.1, defined by ORF1ab:T891I, ORF3a:E226G, found in Scotland, England, and Denmark. Automatically inferred by https://github.com/jmcbroome/automate-lineages-prototype.
+auto.BF.16.1	Alias of auto.B.1.1.529.5.2.1.16.1, defined by ORF1ab:T170I, S:T747I, found in USA. Automatically inferred by https://github.com/jmcbroome/automate-lineages-prototype.
+auto.XBB.1.1.1	Alias of auto.XBB.1.1.1, defined by ORF1ab:T6566M, found in Singapore, USA, and Netherlands. Automatically inferred by https://github.com/jmcbroome/automate-lineages-prototype.
+auto.CH.1.1.1.1	Alias of auto.B.1.1.529.2.75.3.4.1.1.1.1.1.1, defined by ORF1ab:A427V, ORF1ab:K6541R, ORF3a:A110V, found in England and Wales. Automatically inferred by https://github.com/jmcbroome/automate-lineages-prototype.
+auto.DJ.1.3	Alias of auto.B.1.1.529.5.1.25.1.3, defined by ORF1ab:T3287I, S:N460K, ORF1ab:T6098A, found in Peru, Colombia, and USA. Automatically inferred by https://github.com/jmcbroome/automate-lineages-prototype.
+auto.BA.5.1.1.1	Alias of auto.B.1.1.529.5.1.1.1, defined by N:G25D, ORF1ab:V3024I, ORF1ab:M4390T, ORF1ab:S318L, found in Canada. Automatically inferred by https://github.com/jmcbroome/automate-lineages-prototype.
+auto.DJ.1.1.1	Alias of auto.B.1.1.529.5.1.25.1.1.1, defined by ORF8:W45S, found in Peru and USA. Automatically inferred by https://github.com/jmcbroome/automate-lineages-prototype.
+auto.BR.2.1.1	Alias of auto.B.1.1.529.2.75.4.2.1.1, defined by ORF1ab:R184C, found in Australia. Automatically inferred by https://github.com/jmcbroome/automate-lineages-prototype.
+auto.BW.1.2	Alias of auto.B.1.1.529.5.6.2.1.2, defined by ORF3a:F207L, ORF1ab:T4685I, found in Mexico and USA. Automatically inferred by https://github.com/jmcbroome/automate-lineages-prototype.
+auto.BF.7.10.1	Alias of auto.B.1.1.529.5.2.1.7.10.1, defined by ORF1ab:S3601P, ORF1ab:Q607H, found in Iceland and Germany. Automatically inferred by https://github.com/jmcbroome/automate-lineages-prototype.
+auto.XBB.1.4.1.1	Alias of auto.XBB.1.4.1.1, defined by ORF1ab:T4159I, found in Sweden and Denmark. Automatically inferred by https://github.com/jmcbroome/automate-lineages-prototype.
+auto.BQ.1.1.23.1	Alias of auto.B.1.1.529.5.3.1.1.1.1.1.1.23.1, defined by ORF3a:W193R, found in Switzerland, England, and Denmark. Automatically inferred by https://github.com/jmcbroome/automate-lineages-prototype.
+auto.XBB.2.1	Alias of auto.XBB.2.1, defined by ORF3a:D155Y, found in Indonesia, England, and Australia. Automatically inferred by https://github.com/jmcbroome/automate-lineages-prototype.
+auto.BE.10.1	Alias of auto.B.1.1.529.5.3.1.10.1, defined by ORF1ab:T4161I, ORF7a:P84L, found in Brazil, USA, and Chile. Automatically inferred by https://github.com/jmcbroome/automate-lineages-prototype.
+auto.BQ.1.1.26.1	Alias of auto.B.1.1.529.5.3.1.1.1.1.1.1.26.1, defined by ORF3a:Y107C, S:N185T, found in Denmark, Germany, and Austria. Automatically inferred by https://github.com/jmcbroome/automate-lineages-prototype.
+auto.CH.1.1.2.1	Alias of auto.B.1.1.529.2.75.3.4.1.1.1.1.2.1, defined by ORF1ab:S1102G, found in England, Australia, and Wales. Automatically inferred by https://github.com/jmcbroome/automate-lineages-prototype.
+auto.BR.2.2	Alias of auto.B.1.1.529.2.75.4.2.2, defined by ORF7b:V21D, found in Australia. Automatically inferred by https://github.com/jmcbroome/automate-lineages-prototype.
+auto.BN.1.3.1.1	Alias of auto.B.1.1.529.2.75.5.1.3.1.1, defined by ORF3a:G254V, found in Denmark. Automatically inferred by https://github.com/jmcbroome/automate-lineages-prototype.
+auto.BA.5.2.43.1	Alias of auto.B.1.1.529.5.2.43.1, defined by ORF1ab:A1679V, S:K147Q, found in SouthKorea and Japan. Automatically inferred by https://github.com/jmcbroome/automate-lineages-prototype.
+auto.XBB.1.7	Alias of auto.XBB.1.7, defined by S:I19T, ORF8:G8*, ORF1ab:R24C, S:T19I, ORF1ab:C24R, ORF1ab:A540V, found in USA. Automatically inferred by https://github.com/jmcbroome/automate-lineages-prototype.
+auto.BQ.1.20.1	Alias of auto.B.1.1.529.5.3.1.1.1.1.1.20.1, defined by ORF1ab:T891I, ORF3a:E226G, found in Scotland, England, and Denmark. Automatically inferred by https://github.com/jmcbroome/automate-lineages-prototype.
+auto.XBB.1.1.1	Alias of auto.XBB.1.1.1, defined by ORF1ab:T6566M, found in Singapore, USA, and Netherlands. Automatically inferred by https://github.com/jmcbroome/automate-lineages-prototype.
+auto.BF.16.1	Alias of auto.B.1.1.529.5.2.1.16.1, defined by ORF1ab:T170I, S:T747I, found in USA. Automatically inferred by https://github.com/jmcbroome/automate-lineages-prototype.
+auto.DJ.1.3	Alias of auto.B.1.1.529.5.1.25.1.3, defined by ORF1ab:T3287I, S:N460K, ORF1ab:T6098A, found in Peru, Colombia, and USA. Automatically inferred by https://github.com/jmcbroome/automate-lineages-prototype.
+auto.CH.1.1.1.1	Alias of auto.B.1.1.529.2.75.3.4.1.1.1.1.1.1, defined by ORF1ab:A427V, ORF1ab:K6541R, ORF3a:A110V, found in England and Wales. Automatically inferred by https://github.com/jmcbroome/automate-lineages-prototype.
+auto.BA.5.1.1.1	Alias of auto.B.1.1.529.5.1.1.1, defined by N:G25D, ORF1ab:V3024I, ORF1ab:M4390T, ORF1ab:S318L, found in Canada. Automatically inferred by https://github.com/jmcbroome/automate-lineages-prototype.
+auto.DJ.1.1.1	Alias of auto.B.1.1.529.5.1.25.1.1.1, defined by ORF8:W45S, found in Peru and USA. Automatically inferred by https://github.com/jmcbroome/automate-lineages-prototype.
+auto.BR.2.1.1	Alias of auto.B.1.1.529.2.75.4.2.1.1, defined by ORF1ab:R184C, found in Australia. Automatically inferred by https://github.com/jmcbroome/automate-lineages-prototype.
+auto.BW.1.2	Alias of auto.B.1.1.529.5.6.2.1.2, defined by ORF3a:F207L, ORF1ab:T4685I, found in Mexico and USA. Automatically inferred by https://github.com/jmcbroome/automate-lineages-prototype.
+auto.XBB.1.4.1.1	Alias of auto.XBB.1.4.1.1, defined by ORF1ab:T4159I, found in Sweden and Denmark. Automatically inferred by https://github.com/jmcbroome/automate-lineages-prototype.
+auto.BF.7.10.1	Alias of auto.B.1.1.529.5.2.1.7.10.1, defined by ORF1ab:S3601P, ORF1ab:Q607H, found in Iceland and Germany. Automatically inferred by https://github.com/jmcbroome/automate-lineages-prototype.
+auto.BQ.1.1.26.1	Alias of auto.B.1.1.529.5.3.1.1.1.1.1.1.26.1, defined by ORF3a:Y107C, S:N185T, found in Denmark, Germany, and Austria. Automatically inferred by https://github.com/jmcbroome/automate-lineages-prototype.
+auto.BQ.1.1.23.1	Alias of auto.B.1.1.529.5.3.1.1.1.1.1.1.23.1, defined by ORF3a:W193R, found in Switzerland, England, and Denmark. Automatically inferred by https://github.com/jmcbroome/automate-lineages-prototype.
+auto.XBB.2.1	Alias of auto.XBB.2.1, defined by ORF3a:D155Y, found in Indonesia, England, and Australia. Automatically inferred by https://github.com/jmcbroome/automate-lineages-prototype.
+auto.BE.10.1	Alias of auto.B.1.1.529.5.3.1.10.1, defined by ORF1ab:T4161I, ORF7a:P84L, found in Brazil, USA, and Chile. Automatically inferred by https://github.com/jmcbroome/automate-lineages-prototype.
+auto.BR.2.2	Alias of auto.B.1.1.529.2.75.4.2.2, defined by ORF7b:V21D, found in Australia. Automatically inferred by https://github.com/jmcbroome/automate-lineages-prototype.
+auto.CH.1.1.2.1	Alias of auto.B.1.1.529.2.75.3.4.1.1.1.1.2.1, defined by ORF1ab:S1102G, found in England, Australia, and Wales. Automatically inferred by https://github.com/jmcbroome/automate-lineages-prototype.
+auto.BN.1.3.1.1	Alias of auto.B.1.1.529.2.75.5.1.3.1.1, defined by ORF3a:G254V, found in Denmark. Automatically inferred by https://github.com/jmcbroome/automate-lineages-prototype.
+auto.BA.5.2.43.1	Alias of auto.B.1.1.529.5.2.43.1, defined by ORF1ab:A1679V, S:K147Q, found in SouthKorea and Japan. Automatically inferred by https://github.com/jmcbroome/automate-lineages-prototype.
+auto.XBB.1.7	Alias of auto.XBB.1.7, defined by S:I19T, ORF8:G8*, ORF1ab:R24C, S:T19I, ORF1ab:C24R, ORF1ab:A540V, found in USA. Automatically inferred by https://github.com/jmcbroome/automate-lineages-prototype.
+auto.BQ.1.20.1	Alias of auto.B.1.1.529.5.3.1.1.1.1.1.20.1, defined by ORF1ab:T891I, ORF3a:E226G, found in Scotland, England, and Denmark. Automatically inferred by https://github.com/jmcbroome/automate-lineages-prototype.
+auto.BF.16.1	Alias of auto.B.1.1.529.5.2.1.16.1, defined by ORF1ab:T170I, S:T747I, found in USA. Automatically inferred by https://github.com/jmcbroome/automate-lineages-prototype.
+auto.XBB.1.1.1	Alias of auto.XBB.1.1.1, defined by ORF1ab:T6566M, found in Singapore, USA, and Netherlands. Automatically inferred by https://github.com/jmcbroome/automate-lineages-prototype.
