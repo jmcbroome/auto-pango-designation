@@ -2836,3 +2836,83 @@ XBP	Recombinant lineage of BA.2.75* and BQ.1*, predominantly in England and Cana
 *I.1	Withdrawn: Alias of B.1.1.217.1, Latvian lineage, split from B.1.1.25
 *J.1	Withdrawn: Alias of B.1.1.250.1, Australian lineage
 *BQ.1.1.33	Withdrawn: Alias of B.1.1.529.5.3.1.1.1.1.1.1.33, US lineage, child of BQ.1.1.3
+auto.DV.1	Alias of auto.B.1.1.529.2.75.3.4.1.1.1.1.1.1, defined by ORF3a:A110V, ORF1ab:K6541R, ORF1ab:A427V, found in England, Wales, and Denmark. Automatically inferred by https://github.com/jmcbroome/autolin.
+auto.ED.1	Alias of auto.B.1.1.529.5.3.1.1.1.1.1.1.18.1, defined by ORF1ab:C433S, ORF3a:L108F, found in Japan. Automatically inferred by https://github.com/jmcbroome/autolin.
+auto.XBB.1.12	Alias of auto.XBB.1.12, defined by ORF1ab:A540V, ORF8:G8*, found in USA, Guatemala, and Mexico. Automatically inferred by https://github.com/jmcbroome/autolin.
+auto.DY.1	Alias of auto.B.1.1.529.5.2.48.1, defined by N:Q241K, found in China, Japan, and SouthKorea. Automatically inferred by https://github.com/jmcbroome/autolin.
+auto.DN.1	Alias of auto.B.1.1.529.5.3.1.1.1.1.1.1.5.1, defined by ORF1ab:D6752N, ORF1ab:V3855I, found in USA. Automatically inferred by https://github.com/jmcbroome/autolin.
+auto.BQ.1.1.33	Alias of auto.B.1.1.529.5.3.1.1.1.1.1.1.33, defined by ORF1ab:S6428L, found in USA, England, and Canada. Automatically inferred by https://github.com/jmcbroome/autolin.
+auto.CP.1	Alias of auto.B.1.1.529.5.2.6.1, defined by ORF1ab:A555V, E:I9T, found in Japan. Automatically inferred by https://github.com/jmcbroome/autolin.
+auto.BQ.1.29	Alias of auto.B.1.1.529.5.3.1.1.1.1.1.29, defined by N:Q39L, M:A104V, found in USA, Germany, and Japan. Automatically inferred by https://github.com/jmcbroome/autolin.
+auto.BF.7.16	Alias of auto.B.1.1.529.5.2.1.7.16, defined by ORF8:T87I, ORF7a:R118S, found in Japan. Automatically inferred by https://github.com/jmcbroome/autolin.
+auto.BQ.1.1.20.1	Alias of auto.B.1.1.529.5.3.1.1.1.1.1.1.20.1, defined by S:A1070V, found in Denmark. Automatically inferred by https://github.com/jmcbroome/autolin.
+auto.BA.5.1.13	Alias of auto.B.1.1.529.5.1.13, defined by ORF1ab:P626L, S:P1162S, found in Denmark. Automatically inferred by https://github.com/jmcbroome/autolin.
+auto.BQ.1.2.2	Alias of auto.B.1.1.529.5.3.1.1.1.1.1.2.2, defined by E:V24L, found in Canada and USA. Automatically inferred by https://github.com/jmcbroome/autolin.
+auto.BF.7.15.1	Alias of auto.B.1.1.529.5.2.1.7.15.1, defined by ORF8:V62M, ORF1ab:I431M, ORF1ab:A3969T, found in Japan. Automatically inferred by https://github.com/jmcbroome/autolin.
+auto.XBB.1.5.4	Alias of auto.XBB.1.5.4, defined by ORF1ab:V4649F, found in England, USA, and Canada. Automatically inferred by https://github.com/jmcbroome/autolin.
+auto.BN.1.3.6	Alias of auto.B.1.1.529.2.75.5.1.3.6, defined by M:R174Q, ORF1ab:H110Y, ORF1ab:M3627I, found in Japan, USA, and SouthKorea. Automatically inferred by https://github.com/jmcbroome/autolin.
+auto.BF.5.4	Alias of auto.B.1.1.529.5.2.1.5.4, defined by ORF1ab:I2873V, found in Japan. Automatically inferred by https://github.com/jmcbroome/autolin.
+auto.CH.1.1.10	Alias of auto.B.1.1.529.2.75.3.4.1.1.1.1.10, defined by ORF1ab:A1176T, found in England, Ireland, and Germany. Automatically inferred by https://github.com/jmcbroome/autolin.
+auto.BN.1.5.2	Alias of auto.B.1.1.529.2.75.5.1.5.2, defined by ORF1ab:G6837D, found in England, Wales, and USA. Automatically inferred by https://github.com/jmcbroome/autolin.
+auto.BN.1.4.2	Alias of auto.B.1.1.529.2.75.5.1.4.2, defined by ORF1ab:F1028L, ORF1ab:V5550L, ORF1ab:V6124M, found in Denmark. Automatically inferred by https://github.com/jmcbroome/autolin.
+auto.EF.1	Alias of auto.B.1.1.529.5.3.1.1.1.1.1.1.13.1, defined by ORF1ab:V4520I, found in England and Scotland. Automatically inferred by https://github.com/jmcbroome/autolin.
+auto.DV.1	Alias of auto.B.1.1.529.2.75.3.4.1.1.1.1.1.1, defined by ORF3a:A110V, ORF1ab:K6541R, ORF1ab:A427V, found in England, Wales, and Denmark. Automatically inferred by https://github.com/jmcbroome/autolin.
+auto.ED.1	Alias of auto.B.1.1.529.5.3.1.1.1.1.1.1.18.1, defined by ORF1ab:C433S, ORF3a:L108F, found in Japan. Automatically inferred by https://github.com/jmcbroome/autolin.
+auto.XBB.1.12	Alias of auto.XBB.1.12, defined by ORF1ab:A540V, ORF8:G8*, found in USA, Guatemala, and Mexico. Automatically inferred by https://github.com/jmcbroome/autolin.
+auto.DY.1	Alias of auto.B.1.1.529.5.2.48.1, defined by N:Q241K, found in China, Japan, and SouthKorea. Automatically inferred by https://github.com/jmcbroome/autolin.
+auto.DN.1	Alias of auto.B.1.1.529.5.3.1.1.1.1.1.1.5.1, defined by ORF1ab:D6752N, ORF1ab:V3855I, found in USA. Automatically inferred by https://github.com/jmcbroome/autolin.
+auto.BQ.1.1.33	Alias of auto.B.1.1.529.5.3.1.1.1.1.1.1.33, defined by ORF1ab:S6428L, found in USA, England, and Canada. Automatically inferred by https://github.com/jmcbroome/autolin.
+auto.CP.1	Alias of auto.B.1.1.529.5.2.6.1, defined by ORF1ab:A555V, E:I9T, found in Japan. Automatically inferred by https://github.com/jmcbroome/autolin.
+auto.BQ.1.29	Alias of auto.B.1.1.529.5.3.1.1.1.1.1.29, defined by N:Q39L, M:A104V, found in USA, Germany, and Japan. Automatically inferred by https://github.com/jmcbroome/autolin.
+auto.BF.7.16	Alias of auto.B.1.1.529.5.2.1.7.16, defined by ORF8:T87I, ORF7a:R118S, found in Japan. Automatically inferred by https://github.com/jmcbroome/autolin.
+auto.BQ.1.1.20.1	Alias of auto.B.1.1.529.5.3.1.1.1.1.1.1.20.1, defined by S:A1070V, found in Denmark. Automatically inferred by https://github.com/jmcbroome/autolin.
+auto.DV.1	Alias of auto.B.1.1.529.2.75.3.4.1.1.1.1.1.1, defined by ORF3a:A110V, ORF1ab:K6541R, ORF1ab:A427V, found in England, Wales, and Denmark. Automatically inferred by https://github.com/jmcbroome/autolin.
+auto.ED.1	Alias of auto.B.1.1.529.5.3.1.1.1.1.1.1.18.1, defined by ORF1ab:C433S, ORF3a:L108F, found in Japan. Automatically inferred by https://github.com/jmcbroome/autolin.
+auto.XBB.1.12	Alias of auto.XBB.1.12, defined by ORF1ab:A540V, ORF8:G8*, found in USA, Guatemala, and Mexico. Automatically inferred by https://github.com/jmcbroome/autolin.
+auto.DY.1	Alias of auto.B.1.1.529.5.2.48.1, defined by N:Q241K, found in China, Japan, and SouthKorea. Automatically inferred by https://github.com/jmcbroome/autolin.
+auto.DN.1	Alias of auto.B.1.1.529.5.3.1.1.1.1.1.1.5.1, defined by ORF1ab:D6752N, ORF1ab:V3855I, found in USA. Automatically inferred by https://github.com/jmcbroome/autolin.
+auto.BQ.1.1.33	Alias of auto.B.1.1.529.5.3.1.1.1.1.1.1.33, defined by ORF1ab:S6428L, found in USA, England, and Canada. Automatically inferred by https://github.com/jmcbroome/autolin.
+auto.CP.1	Alias of auto.B.1.1.529.5.2.6.1, defined by ORF1ab:A555V, E:I9T, found in Japan. Automatically inferred by https://github.com/jmcbroome/autolin.
+auto.BQ.1.29	Alias of auto.B.1.1.529.5.3.1.1.1.1.1.29, defined by N:Q39L, M:A104V, found in USA, Germany, and Japan. Automatically inferred by https://github.com/jmcbroome/autolin.
+auto.BF.7.16	Alias of auto.B.1.1.529.5.2.1.7.16, defined by ORF8:T87I, ORF7a:R118S, found in Japan. Automatically inferred by https://github.com/jmcbroome/autolin.
+auto.BQ.1.1.20.1	Alias of auto.B.1.1.529.5.3.1.1.1.1.1.1.20.1, defined by S:A1070V, found in Denmark. Automatically inferred by https://github.com/jmcbroome/autolin.
+auto.DV.1	Alias of auto.B.1.1.529.2.75.3.4.1.1.1.1.1.1, defined by ORF3a:A110V, ORF1ab:K6541R, ORF1ab:A427V, found in England, Wales, and Denmark. Automatically inferred by https://github.com/jmcbroome/autolin.
+auto.ED.1	Alias of auto.B.1.1.529.5.3.1.1.1.1.1.1.18.1, defined by ORF1ab:C433S, ORF3a:L108F, found in Japan. Automatically inferred by https://github.com/jmcbroome/autolin.
+auto.XBB.1.12	Alias of auto.XBB.1.12, defined by ORF1ab:A540V, ORF8:G8*, found in USA, Guatemala, and Mexico. Automatically inferred by https://github.com/jmcbroome/autolin.
+auto.DY.1	Alias of auto.B.1.1.529.5.2.48.1, defined by N:Q241K, found in China, Japan, and SouthKorea. Automatically inferred by https://github.com/jmcbroome/autolin.
+auto.DN.1	Alias of auto.B.1.1.529.5.3.1.1.1.1.1.1.5.1, defined by ORF1ab:D6752N, ORF1ab:V3855I, found in USA. Automatically inferred by https://github.com/jmcbroome/autolin.
+auto.BQ.1.1.33	Alias of auto.B.1.1.529.5.3.1.1.1.1.1.1.33, defined by ORF1ab:S6428L, found in USA, England, and Canada. Automatically inferred by https://github.com/jmcbroome/autolin.
+auto.CP.1	Alias of auto.B.1.1.529.5.2.6.1, defined by ORF1ab:A555V, E:I9T, found in Japan. Automatically inferred by https://github.com/jmcbroome/autolin.
+auto.BQ.1.29	Alias of auto.B.1.1.529.5.3.1.1.1.1.1.29, defined by N:Q39L, M:A104V, found in USA, Germany, and Japan. Automatically inferred by https://github.com/jmcbroome/autolin.
+auto.BF.7.16	Alias of auto.B.1.1.529.5.2.1.7.16, defined by ORF8:T87I, ORF7a:R118S, found in Japan. Automatically inferred by https://github.com/jmcbroome/autolin.
+auto.BQ.1.1.20.1	Alias of auto.B.1.1.529.5.3.1.1.1.1.1.1.20.1, defined by S:A1070V, found in Denmark. Automatically inferred by https://github.com/jmcbroome/autolin.
+auto.BA.5.1.13	Alias of auto.B.1.1.529.5.1.13, defined by ORF1ab:P626L, S:P1162S, found in Denmark. Automatically inferred by https://github.com/jmcbroome/autolin.
+auto.BQ.1.2.2	Alias of auto.B.1.1.529.5.3.1.1.1.1.1.2.2, defined by E:V24L, found in Canada and USA. Automatically inferred by https://github.com/jmcbroome/autolin.
+auto.BF.7.15.1	Alias of auto.B.1.1.529.5.2.1.7.15.1, defined by ORF8:V62M, ORF1ab:I431M, ORF1ab:A3969T, found in Japan. Automatically inferred by https://github.com/jmcbroome/autolin.
+auto.XBB.1.5.4	Alias of auto.XBB.1.5.4, defined by ORF1ab:V4649F, found in England, USA, and Canada. Automatically inferred by https://github.com/jmcbroome/autolin.
+auto.BN.1.3.6	Alias of auto.B.1.1.529.2.75.5.1.3.6, defined by M:R174Q, ORF1ab:H110Y, ORF1ab:M3627I, found in Japan, USA, and SouthKorea. Automatically inferred by https://github.com/jmcbroome/autolin.
+auto.BF.5.4	Alias of auto.B.1.1.529.5.2.1.5.4, defined by ORF1ab:I2873V, found in Japan. Automatically inferred by https://github.com/jmcbroome/autolin.
+auto.CH.1.1.10	Alias of auto.B.1.1.529.2.75.3.4.1.1.1.1.10, defined by ORF1ab:A1176T, found in England, Ireland, and Germany. Automatically inferred by https://github.com/jmcbroome/autolin.
+auto.BN.1.5.2	Alias of auto.B.1.1.529.2.75.5.1.5.2, defined by ORF1ab:G6837D, found in England, Wales, and USA. Automatically inferred by https://github.com/jmcbroome/autolin.
+auto.BN.1.4.2	Alias of auto.B.1.1.529.2.75.5.1.4.2, defined by ORF1ab:F1028L, ORF1ab:V5550L, ORF1ab:V6124M, found in Denmark. Automatically inferred by https://github.com/jmcbroome/autolin.
+auto.EF.1	Alias of auto.B.1.1.529.5.3.1.1.1.1.1.1.13.1, defined by ORF1ab:V4520I, found in England and Scotland. Automatically inferred by https://github.com/jmcbroome/autolin.
+auto.DV.1	Alias of auto.B.1.1.529.2.75.3.4.1.1.1.1.1.1, defined by ORF3a:A110V, ORF1ab:K6541R, ORF1ab:A427V, found in England, Wales, and Denmark. Automatically inferred by https://github.com/jmcbroome/autolin.
+auto.ED.1	Alias of auto.B.1.1.529.5.3.1.1.1.1.1.1.18.1, defined by ORF1ab:C433S, ORF3a:L108F, found in Japan. Automatically inferred by https://github.com/jmcbroome/autolin.
+auto.XBB.1.12	Alias of auto.XBB.1.12, defined by ORF1ab:A540V, ORF8:G8*, found in USA, Guatemala, and Mexico. Automatically inferred by https://github.com/jmcbroome/autolin.
+auto.DY.1	Alias of auto.B.1.1.529.5.2.48.1, defined by N:Q241K, found in China, Japan, and SouthKorea. Automatically inferred by https://github.com/jmcbroome/autolin.
+auto.DN.1	Alias of auto.B.1.1.529.5.3.1.1.1.1.1.1.5.1, defined by ORF1ab:D6752N, ORF1ab:V3855I, found in USA. Automatically inferred by https://github.com/jmcbroome/autolin.
+auto.BQ.1.1.33	Alias of auto.B.1.1.529.5.3.1.1.1.1.1.1.33, defined by ORF1ab:S6428L, found in USA, England, and Canada. Automatically inferred by https://github.com/jmcbroome/autolin.
+auto.CP.1	Alias of auto.B.1.1.529.5.2.6.1, defined by ORF1ab:A555V, E:I9T, found in Japan. Automatically inferred by https://github.com/jmcbroome/autolin.
+auto.BQ.1.29	Alias of auto.B.1.1.529.5.3.1.1.1.1.1.29, defined by N:Q39L, M:A104V, found in USA, Germany, and Japan. Automatically inferred by https://github.com/jmcbroome/autolin.
+auto.BF.7.16	Alias of auto.B.1.1.529.5.2.1.7.16, defined by ORF8:T87I, ORF7a:R118S, found in Japan. Automatically inferred by https://github.com/jmcbroome/autolin.
+auto.BQ.1.1.20.1	Alias of auto.B.1.1.529.5.3.1.1.1.1.1.1.20.1, defined by S:A1070V, found in Denmark. Automatically inferred by https://github.com/jmcbroome/autolin.
+auto.BA.5.1.13	Alias of auto.B.1.1.529.5.1.13, defined by ORF1ab:P626L, S:P1162S, found in Denmark. Automatically inferred by https://github.com/jmcbroome/autolin.
+auto.BQ.1.2.2	Alias of auto.B.1.1.529.5.3.1.1.1.1.1.2.2, defined by E:V24L, found in Canada and USA. Automatically inferred by https://github.com/jmcbroome/autolin.
+auto.BF.7.15.1	Alias of auto.B.1.1.529.5.2.1.7.15.1, defined by ORF8:V62M, ORF1ab:I431M, ORF1ab:A3969T, found in Japan. Automatically inferred by https://github.com/jmcbroome/autolin.
+auto.XBB.1.5.4	Alias of auto.XBB.1.5.4, defined by ORF1ab:V4649F, found in England, USA, and Canada. Automatically inferred by https://github.com/jmcbroome/autolin.
+auto.BN.1.3.6	Alias of auto.B.1.1.529.2.75.5.1.3.6, defined by M:R174Q, ORF1ab:H110Y, ORF1ab:M3627I, found in Japan, USA, and SouthKorea. Automatically inferred by https://github.com/jmcbroome/autolin.
+auto.BF.5.4	Alias of auto.B.1.1.529.5.2.1.5.4, defined by ORF1ab:I2873V, found in Japan. Automatically inferred by https://github.com/jmcbroome/autolin.
+auto.CH.1.1.10	Alias of auto.B.1.1.529.2.75.3.4.1.1.1.1.10, defined by ORF1ab:A1176T, found in England, Ireland, and Germany. Automatically inferred by https://github.com/jmcbroome/autolin.
+auto.BN.1.5.2	Alias of auto.B.1.1.529.2.75.5.1.5.2, defined by ORF1ab:G6837D, found in England, Wales, and USA. Automatically inferred by https://github.com/jmcbroome/autolin.
+auto.BN.1.4.2	Alias of auto.B.1.1.529.2.75.5.1.4.2, defined by ORF1ab:F1028L, ORF1ab:V5550L, ORF1ab:V6124M, found in Denmark. Automatically inferred by https://github.com/jmcbroome/autolin.
+auto.EF.1	Alias of auto.B.1.1.529.5.3.1.1.1.1.1.1.13.1, defined by ORF1ab:V4520I, found in England and Scotland. Automatically inferred by https://github.com/jmcbroome/autolin.
