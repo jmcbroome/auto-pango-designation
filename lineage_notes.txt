@@ -2836,3 +2836,55 @@ XBP	Recombinant lineage of BA.2.75* and BQ.1*, predominantly in England and Cana
 *I.1	Withdrawn: Alias of B.1.1.217.1, Latvian lineage, split from B.1.1.25
 *J.1	Withdrawn: Alias of B.1.1.250.1, Australian lineage
 *BQ.1.1.33	Withdrawn: Alias of B.1.1.529.5.3.1.1.1.1.1.1.33, US lineage, child of BQ.1.1.3
+XBB.1.9.2.1	Alias of XBB.1.9.2.1, defined by S:Q613H, N:L219F, found in Austria, Australia, and Germany. Automatically inferred by https://github.com/jmcbroome/autolin.
+XAY.2.3	Alias of XAY.2.3, defined by ORF1ab:A131V, S:R158G, found in Denmark. Automatically inferred by https://github.com/jmcbroome/autolin.
+XBK.1	Alias of XBK.1, defined by S:P1162S, found in Slovenia, Germany, and Italy. Automatically inferred by https://github.com/jmcbroome/autolin.
+XBB.1.15	Alias of XBB.1.15, defined by ORF1ab:A540V, ORF8:G8*, found in USA, Guatemala, and Mexico. Automatically inferred by https://github.com/jmcbroome/autolin.
+XBB.1.9.1.1	Alias of XBB.1.9.1.1, defined by ORF1ab:V5493F, found in Germany, USA, and France. Automatically inferred by https://github.com/jmcbroome/autolin.
+XBL.1	Alias of XBL.1, defined by ORF1ab:A4591T, found in Singapore. Automatically inferred by https://github.com/jmcbroome/autolin.
+XBB.1.15	Alias of XBB.1.15, defined by ORF1ab:A540V, ORF8:G8*, found in USA, Guatemala, and Mexico. Automatically inferred by https://github.com/jmcbroome/autolin.
+XBB.1.9.2.1	Alias of XBB.1.9.2.1, defined by S:Q613H, N:L219F, found in Austria, Australia, and Germany. Automatically inferred by https://github.com/jmcbroome/autolin.
+XBK.1	Alias of XBK.1, defined by S:P1162S, found in Slovenia, Germany, and Italy. Automatically inferred by https://github.com/jmcbroome/autolin.
+XAY.2.3	Alias of XAY.2.3, defined by ORF1ab:A131V, S:R158G, found in Denmark. Automatically inferred by https://github.com/jmcbroome/autolin.
+XBB.1.9.1.1	Alias of XBB.1.9.1.1, defined by ORF1ab:V5493F, found in Germany, USA, and France. Automatically inferred by https://github.com/jmcbroome/autolin.
+XBL.1	Alias of XBL.1, defined by ORF1ab:A4591T, found in Singapore. Automatically inferred by https://github.com/jmcbroome/autolin.
+XBB.1.9.2.1	Alias of XBB.1.9.2.1, defined by S:Q613H, N:L219F, found in Austria, Australia, and Germany. Automatically inferred by https://github.com/jmcbroome/autolin.
+XBB.1.5.2.1	Alias of XBB.1.5.2.1, defined by S:K147I, found in USA. Automatically inferred by https://github.com/jmcbroome/autolin.
+XBB.3.1.1	Alias of XBB.3.1.1, defined by ORF1ab:S2926F, ORF1ab:A3333V, found in Denmark and Netherlands. Automatically inferred by https://github.com/jmcbroome/autolin.
+XBM.1	Alias of XBM.1, defined by ORF1ab:T4090I, found in Canada. Automatically inferred by https://github.com/jmcbroome/autolin.
+XBF.3.1	Alias of XBF.3.1, defined by ORF1ab:P193S, found in Netherlands, Australia, and England. Automatically inferred by https://github.com/jmcbroome/autolin.
+XAY.2.3	Alias of XAY.2.3, defined by ORF1ab:A131V, S:R158G, found in Denmark. Automatically inferred by https://github.com/jmcbroome/autolin.
+XBK.1	Alias of XBK.1, defined by S:P1162S, found in Slovenia, Germany, and Italy. Automatically inferred by https://github.com/jmcbroome/autolin.
+XBB.1.4.2	Alias of XBB.1.4.2, defined by ORF1ab:G295C, found in Italy, Thailand, and Austria. Automatically inferred by https://github.com/jmcbroome/autolin.
+XBB.1.5.11	Alias of XBB.1.5.11, defined by S:V252G, found in USA, England, and Canada. Automatically inferred by https://github.com/jmcbroome/autolin.
+XBB.1.9.3	Alias of XBB.1.9.3, defined by ORF1ab:G5969C, ORF1ab:G6406S, found in Netherlands, Spain, and England. Automatically inferred by https://github.com/jmcbroome/autolin.
+XBB.6.1.1	Alias of XBB.6.1.1, defined by ORF1ab:A6544V, found in USA. Automatically inferred by https://github.com/jmcbroome/autolin.
+XBB.1.15	Alias of XBB.1.15, defined by ORF1ab:A540V, ORF8:G8*, found in USA, Guatemala, and Mexico. Automatically inferred by https://github.com/jmcbroome/autolin.
+XBB.1.5.7.1	Alias of XBB.1.5.7.1, defined by ORF1ab:F4649V, S:N417K, found in USA, Germany, and Mexico. Automatically inferred by https://github.com/jmcbroome/autolin.
+XBC.1.3.1	Alias of XBC.1.3.1, defined by ORF1ab:S5160N, found in Australia. Automatically inferred by https://github.com/jmcbroome/autolin.
+XBB.1.4.1.1	Alias of XBB.1.4.1.1, defined by ORF1ab:T4159I, found in Sweden and Denmark. Automatically inferred by https://github.com/jmcbroome/autolin.
+XBB.2.2.1	Alias of XBB.2.2.1, defined by ORF7b:E39*, found in Spain, Germany, and England. Automatically inferred by https://github.com/jmcbroome/autolin.
+XBF.4	Alias of XBF.4, defined by ORF1ab:H417Y, ORF1ab:K120N, found in England, Luxembourg, and Iceland. Automatically inferred by https://github.com/jmcbroome/autolin.
+XBB.2.5	Alias of XBB.2.5, defined by S:Q613H, found in USA, England, and India. Automatically inferred by https://github.com/jmcbroome/autolin.
+miscBA.5.2CJ.1.1	Alias of miscBA.5.2CJ.1.1, defined by ORF1ab:M4855I, found in Japan and England. Automatically inferred by https://github.com/jmcbroome/autolin.
+XBC.1.1.2	Alias of XBC.1.1.2, defined by ORF3a:P262L, S:L244F, found in Australia. Automatically inferred by https://github.com/jmcbroome/autolin.
+XBB.1.9.2.1	Alias of XBB.1.9.2.1, defined by S:Q613H, N:L219F, found in Austria, Australia, and Germany. Automatically inferred by https://github.com/jmcbroome/autolin.
+XBB.1.5.2.1	Alias of XBB.1.5.2.1, defined by S:K147I, found in USA. Automatically inferred by https://github.com/jmcbroome/autolin.
+XBB.3.1.1	Alias of XBB.3.1.1, defined by ORF1ab:S2926F, ORF1ab:A3333V, found in Denmark and Netherlands. Automatically inferred by https://github.com/jmcbroome/autolin.
+XBM.1	Alias of XBM.1, defined by ORF1ab:T4090I, found in Canada. Automatically inferred by https://github.com/jmcbroome/autolin.
+XBK.1	Alias of XBK.1, defined by S:P1162S, found in Slovenia, Germany, and Italy. Automatically inferred by https://github.com/jmcbroome/autolin.
+XAY.2.3	Alias of XAY.2.3, defined by ORF1ab:A131V, S:R158G, found in Denmark. Automatically inferred by https://github.com/jmcbroome/autolin.
+XBF.3.1	Alias of XBF.3.1, defined by ORF1ab:P193S, found in Netherlands, Australia, and England. Automatically inferred by https://github.com/jmcbroome/autolin.
+XBB.1.4.2	Alias of XBB.1.4.2, defined by ORF1ab:G295C, found in Italy, Thailand, and Austria. Automatically inferred by https://github.com/jmcbroome/autolin.
+XBB.1.5.11	Alias of XBB.1.5.11, defined by S:V252G, found in USA, England, and Canada. Automatically inferred by https://github.com/jmcbroome/autolin.
+XBB.1.9.3	Alias of XBB.1.9.3, defined by ORF1ab:G5969C, ORF1ab:G6406S, found in Netherlands, Spain, and England. Automatically inferred by https://github.com/jmcbroome/autolin.
+XBB.6.1.1	Alias of XBB.6.1.1, defined by ORF1ab:A6544V, found in USA. Automatically inferred by https://github.com/jmcbroome/autolin.
+XBB.1.15	Alias of XBB.1.15, defined by ORF1ab:A540V, ORF8:G8*, found in USA, Guatemala, and Mexico. Automatically inferred by https://github.com/jmcbroome/autolin.
+XBB.1.5.7.1	Alias of XBB.1.5.7.1, defined by ORF1ab:F4649V, S:N417K, found in USA, Germany, and Mexico. Automatically inferred by https://github.com/jmcbroome/autolin.
+XBC.1.3.1	Alias of XBC.1.3.1, defined by ORF1ab:S5160N, found in Australia. Automatically inferred by https://github.com/jmcbroome/autolin.
+XBB.1.4.1.1	Alias of XBB.1.4.1.1, defined by ORF1ab:T4159I, found in Sweden and Denmark. Automatically inferred by https://github.com/jmcbroome/autolin.
+XBB.2.2.1	Alias of XBB.2.2.1, defined by ORF7b:E39*, found in Spain, Germany, and England. Automatically inferred by https://github.com/jmcbroome/autolin.
+XBF.4	Alias of XBF.4, defined by ORF1ab:H417Y, ORF1ab:K120N, found in England, Luxembourg, and Iceland. Automatically inferred by https://github.com/jmcbroome/autolin.
+XBB.2.5	Alias of XBB.2.5, defined by S:Q613H, found in USA, England, and India. Automatically inferred by https://github.com/jmcbroome/autolin.
+miscBA.5.2CJ.1.1	Alias of miscBA.5.2CJ.1.1, defined by ORF1ab:M4855I, found in Japan and England. Automatically inferred by https://github.com/jmcbroome/autolin.
+XBB.1.9.1.1	Alias of XBB.1.9.1.1, defined by ORF1ab:V5493F, found in Germany, USA, and France. Automatically inferred by https://github.com/jmcbroome/autolin.
