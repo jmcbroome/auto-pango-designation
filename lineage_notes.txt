@@ -151,9 +151,9 @@ B.1.1.31	Russian lineage
 B.1.1.33	Brazilian
 N.1	Alias of B.1.1.33.1, US
 N.2	Alias of B.1.1.33.2, European lineage
-N.3	Alias of B.1.1.33.3, Argentinian 
+N.3	Alias of B.1.1.33.3, Argentinian
 N.4	Alias of B.1.1.33.4, Chilean
-N.5	Alias of B.1.1.33.5, Argentinian 
+N.5	Alias of B.1.1.33.5, Argentinian
 N.6	Alias of B.1.1.33.6, Chilean
 N.7	Alias of B.1.1.33.7, Uruguay
 N.8	Alias of B.1.1.33.8, Kenyan
@@ -188,7 +188,7 @@ B.1.1.61	USA lineage
 B.1.1.62	South African lineage
 B.1.1.63	Hong Kong lineage
 B.1.1.67	England and South Africa
-B.1.1.70	European Lineage 
+B.1.1.70	European Lineage
 AP.1	Alias of B.1.1.70.1, Wales lineage
 B.1.1.71	Dutch, Central Europe
 B.1.1.72	US lineage
@@ -230,7 +230,7 @@ B.1.1.122	Netherlands
 B.1.1.123	UK lineage
 B.1.1.125	UK lineage
 B.1.1.127	Russian lineage
-B.1.1.128	US lineage 
+B.1.1.128	US lineage
 B.1.1.129	Russian lineage
 B.1.1.130	England
 B.1.1.132	US Lineage
@@ -274,7 +274,7 @@ B.1.1.177	Texas
 B.1.1.178	England
 B.1.1.180	USA lineage
 B.1.1.181	Used to be just Turkey, now lots of Canadian
-B.1.1.182	USA 
+B.1.1.182	USA
 B.1.1.184	Russia, some B.1.1.129
 B.1.1.185	Netherlands lineage
 B.1.1.186	Southern USA
@@ -296,7 +296,7 @@ B.1.1.203	England and Ecuador
 B.1.1.204	UK lineage
 B.1.1.205	USA lineage
 B.1.1.207	USA
-B.1.1.208	UK 
+B.1.1.208	UK
 B.1.1.209	Netherlands
 B.1.1.210	USA (TX)
 B.1.1.213	England
@@ -312,7 +312,7 @@ B.1.1.218	European lineage
 B.1.1.219	Northern Europe (UK, Denmark, Norway, Sweden)
 B.1.1.220	UK lineage
 B.1.1.221	Belgian lineage
-B.1.1.222	USA/Mexico 
+B.1.1.222	USA/Mexico
 B.1.1.224	Denmark (some German)
 B.1.1.225	USA
 B.1.1.226	USA lineage
@@ -453,7 +453,7 @@ B.1.1.345	USA lineage
 B.1.1.346	Denmark lineage
 B.1.1.347	Central Europe
 B.1.1.348	South America & USA
-B.1.1.349	Russia, one "Congo" 
+B.1.1.349	Russia, one "Congo"
 B.1.1.350	Latvian lineage
 B.1.1.351	USA, England, Finland, Denmark
 B.1.1.352	USA lineage
@@ -563,8 +563,8 @@ B.1.1.459	South African lineage (some were part of Belgian lineage B.1.1.75
 B.1.1.461	US TX lineage
 B.1.1.462	United Arab Emirates
 B.1.1.463	US CA lineage
-B.1.1.464	US lineage 
-AW.1	Alias of B.1.1.464.1, Canadian lineage 
+B.1.1.464	US lineage
+AW.1	Alias of B.1.1.464.1, Canadian lineage
 B.1.1.465	Japanese lineage
 B.1.1.466	Gambian lineage
 B.1.1.467	US lineage (NY)
@@ -809,13 +809,13 @@ BA.2.74	Alias of B.1.1.529.2.74, mainly found in India, from pango-designation i
 BA.2.75	Alias of B.1.1.529.2.75, mainly found in India, from pango-designation issue #773
 BA.2.75.1	Alias of B.1.1.529.2.75.1, mainly found in India from pango-designation issue #856
 BL.1	Alias of B.1.1.529.2.75.1.1, mainly found in India from pango-designation issue #944, S:R346T on polytomy
-BL.1.1	Alias of B.1.1.529.2.75.1.1.1, from pango-designation issue #1079, defined by S:G614S 
+BL.1.1	Alias of B.1.1.529.2.75.1.1.1, from pango-designation issue #1079, defined by S:G614S
 BL.1.2	Alias of B.1.1.529.2.75.1.1.2, mainly Austria, issue #1066, defined by S:G261D, S:V308L
 BL.1.3	Alias of B.1.1.529.2.75.1.1.3, Switzerland, Israel, Canada, issue #1124, defined by S:F490L
 BL.1.4	Alias of B.1.1.529.2.75.1.1.4, India/England/New Zealand, defined by S:F490V
-BL.2	Alias of B.1.1.529.2.75.1.2, mainly found in India, defined by S:R346T on A26612T branch 
+BL.2	Alias of B.1.1.529.2.75.1.2, mainly found in India, defined by S:R346T on A26612T branch
 BL.2.1	Alias of B.1.1.529.2.75.1.2.1, Australia/Belgium, defined by S:K182E
-BL.3	Alias of B.1.1.529.2.75.1.3, mainly found in India, defined by ORF1a:P2685S on A26612T branch 
+BL.3	Alias of B.1.1.529.2.75.1.3, mainly found in India, defined by ORF1a:P2685S on A26612T branch
 BL.4	Alias of B.1.1.529.2.75.1.4, mainly found in India, defined by ORF7a:P45L with 11224T and 22720G branch
 BL.5	Alias of B.1.1.529.2.75.1.5, mainly found in Denmark, from pango-designation issue #1105
 BL.6	Alias of B.1.1.529.2.75.1.6, mainly South Korea, S:R346T, S:V445A, from issue #1531
@@ -910,7 +910,7 @@ BN.6	Alias of B.1.1.529.2.75.5.6, India, defined by ORF1a:T3959A
 BA.2.75.6	Alias of B.1.1.529.2.75.6, mainly found in India, defined by S:R346T on the BA.2.75 polytomy
 BY.1	Alias of B.1.1.529.2.75.6.1, mainly found in India, defined by S:F486S on BA.2.75.6
 BY.1.1	Alias of B.1.1.529.2.75.6.1.1, S:L452R
-BY.1.1.1	Alias of B.1.1.529.2.75.6.1.1.1, Europe, S:N185D, S:H207R, 
+BY.1.1.1	Alias of B.1.1.529.2.75.6.1.1.1, Europe, S:N185D, S:H207R,
 BY.1.2	Alias of B.1.1.529.2.75.6.1.2, Europe, 26828T
 BY.1.2.1	Alias of B.1.1.529.2.75.6.1.2.1, Austria/England, S:S494P
 BA.2.75.7	Alias of B.1.1.529.2.75.7, mainly found in India, defined by S:F486S on the BA.2.75 polytomy
@@ -1036,7 +1036,7 @@ BF.7.2	Alias of B.1.1.529.5.2.1.7.2, Denmark, S:H1101Y and S:V486I, issue #1216
 BF.7.3	Alias of B.1.1.529.5.2.1.7.3, France/Czechia, S:K182E
 BF.7.4	Alias of B.1.1.529.5.2.1.7.4, Europe, ORF8:H17Y
 BF.7.4.1	Alias of B.1.1.529.5.2.1.7.4.1, found mainly in USA and Netherlands, from pango-designation issue #1253
-BF.7.4.2	Alias of B.1.1.529.5.2.1.7.4.2, Europe 
+BF.7.4.2	Alias of B.1.1.529.5.2.1.7.4.2, Europe
 BF.7.5	Alias of B.1.1.529.5.2.1.7.5, Europe, ORF1b:P1427L
 BF.7.5.1	Alias of B.1.1.529.5.2.1.7.5.1, found mainly in Germany and Denmark, from pango-designation issue #1317
 BF.7.6	Alias of B.1.1.529.5.2.1.7.6, Europe, ORF3a:E239D
@@ -1045,8 +1045,8 @@ BF.7.8	Alias of B.1.1.529.5.2.1.7.8, Europe, S:T883I
 BF.7.9	Alias of B.1.1.529.5.2.1.7.9, Europe, S:Q677H
 BF.7.10	Alias of B.1.1.529.5.2.1.7.10, Europe, S:Q1201K
 BF.7.11	Alias of B.1.1.529.5.2.1.7.11, Europe, S:D1260Y
-BF.7.12	Alias of B.1.1.529.5.2.1.7.12, Europe, S:A942S 
-BF.7.13	Alias of B.1.1.529.5.2.1.7.13, Belgium, ORF1a:H388Y, ORF1a:H1160Y, 
+BF.7.12	Alias of B.1.1.529.5.2.1.7.12, Europe, S:A942S
+BF.7.13	Alias of B.1.1.529.5.2.1.7.13, Belgium, ORF1a:H388Y, ORF1a:H1160Y,
 BF.7.13.1	Alias of B.1.1.529.5.2.1.7.13.1, Europe, S:T430I, S:P681Y
 BF.7.13.2	Alias of B.1.1.529.5.2.1.7.13.2, Poland, S:A653V
 BF.7.14	Alias of B.1.1.529.5.2.1.7.14, China, S:C1243F, from issue #1470
@@ -1455,11 +1455,11 @@ B.1.36.26	Canada/USA
 B.1.36.28	UK
 B.1.36.27	Hong Kong lineage, initially associated with travellers from Nepal. Epidemiologically and phylogenetically supported.
 B.1.36.29	India
-B.1.36.31	UK/Global 
+B.1.36.31	UK/Global
 B.1.36.33	Denmark
 B.1.36.34	UK
 B.1.36.35	European/Switzerland
-B.1.36.36	Canada 
+B.1.36.36	Canada
 B.1.36.37	Canada
 B.1.36.38	Canada/UK
 B.1.36.39	UK
@@ -1513,7 +1513,7 @@ B.1.142	Wales lineage
 B.1.143	Indian lineage
 B.1.145	Indian lineage
 B.1.146	Swiss lineage
-B.1.147	Canadian lineage 
+B.1.147	Canadian lineage
 B.1.149	DRC lineage
 B.1.151	UK lineage
 B.1.153	English lineage with some Australian, New Zealand and European sequences
@@ -1588,15 +1588,15 @@ B.1.177.18	England, some Wales, parent is mainland Europe
 B.1.177.19	England, some Wales
 B.1.177.20	England
 B.1.177.21	Denmark
-B.1.177.23	Swiss lineage 
+B.1.177.23	Swiss lineage
 B.1.177.24	Danish lineage, contains some previous B.1.177.1
 B.1.177.25	Gibraltar lineage
 B.1.177.26	UK lineage
 B.1.177.27	Danish
-B.1.177.28	Swiss lineage 
+B.1.177.28	Swiss lineage
 B.1.177.29	Spain
-B.1.177.30	England 
-B.1.177.31	Swiss lineage 
+B.1.177.30	England
+B.1.177.31	Swiss lineage
 B.1.177.32	Swiss and Portuguese mostly
 B.1.177.33	Mostly italian, some swiss, some english
 B.1.177.34	Dutch
@@ -1647,7 +1647,7 @@ B.1.177.67	Irish lineage
 B.1.177.68	Irish lineage
 B.1.177.69	UK lineage
 B.1.177.70	Danish lineage
-B.1.177.71	Swiss lineage 
+B.1.177.71	Swiss lineage
 B.1.177.72	Portuguese lineage
 B.1.177.73	Netherlands lineage
 B.1.177.74	Netherlands, Spain, UK
@@ -1693,7 +1693,7 @@ B.1.214	DRC/ Congo lineage
 B.1.214.1	Congo/ France lineage
 B.1.214.2	Lineage from Belgium with a number of key spike mutations and a 9bp spike insertion.
 B.1.214.3	France, Belgium and Mayotte lineage.
-B.1.214.4	Danish lineage. 
+B.1.214.4	Danish lineage.
 B.1.215	Scottish lineage
 B.1.218	Swiss lineage
 B.1.219	Suriname lineage
@@ -1765,12 +1765,12 @@ B.1.264.1	Russia, Germany, Switzerland, Austria. Was B.1.412
 B.1.265	USA lineage
 B.1.267	USA (CA)
 B.1.268	USA
-B.1.270	Canadian lineage 
+B.1.270	Canadian lineage
 B.1.273	French lineage
 B.1.274	Utah lineage
 B.1.276	USA lineage
 B.1.277	European lineage
-B.1.279	Canadian lineage 
+B.1.279	Canadian lineage
 B.1.280	USA
 B.1.281	Bahrain lineage
 B.1.282	UK lineage
@@ -1848,7 +1848,7 @@ B.1.369.1	Canada lineage
 B.1.370	USA lineage, cleaned up a lot in release 2021-01-20
 B.1.371	Danish/ USA lineage, previously part of B.1.21
 B.1.372	Danish lineage
-B.1.375	USA lineage (circulating in Connecticut with the 69-70del, which leads to SGTF. However, they express 484E and 501N in their spike proteins.) 
+B.1.375	USA lineage (circulating in Connecticut with the 69-70del, which leads to SGTF. However, they express 484E and 501N in their spike proteins.)
 B.1.377	USA and England
 B.1.378	USA
 B.1.379	UK
@@ -1928,18 +1928,18 @@ B.1.452	USA (CA)
 B.1.453	USA (CA and TX)
 B.1.456	SE Asian (reassigned)
 B.1.458	India
-B.1.459	Indonesia 
+B.1.459	Indonesia
 B.1.460	UK lineage
 B.1.462	UK/Nigeria
-B.1.463	Finland 
+B.1.463	Finland
 B.1.465	UK, contains B.1.466 which is reassigned (see below)
 B.1.466	Global lineage containing two new sublineages (see below)
-B.1.466.1	USA/UAE 
+B.1.466.1	USA/UAE
 B.1.466.2	Indonesia
 AU.1	Alias of B.1.466.2.1, predominantly Papua New Guinea with some Australia sequences
 AU.2	Alias of B.1.466.2.2, Malaysia lineage
 AU.3	Alias of B.1.466.2.3, predominantly Australia with some Papua New Guinea and Singapore sequences
-B.1.467	Nigeria/Switzerland 
+B.1.467	Nigeria/Switzerland
 B.1.468	Indonesia/Singapore. Seq names misassigned in original file
 B.1.469	European (Turkey, Denmark, UK)
 B.1.470	Indonesia/Singapore
@@ -1958,7 +1958,7 @@ B.1.486	USA (MA)
 B.1.487	USA - TX
 B.1.488	Denmark and Sweden
 B.1.489	Wales and Norway
-B.1.490	Finland.  
+B.1.490	Finland.
 B.1.491	England
 B.1.492	USA - Colorado
 B.1.493	USA (FL)
@@ -2041,7 +2041,7 @@ B.1.571	USA lineage, split out from B.1.369
 B.1.572	USA, split from B.1.325
 B.1.573	Canada (BC)
 B.1.574	USA lineage, split out from B.1.363
-B.1.575	USA and Aruba lineage with spike mutations "S:P681H","S:S494P" and "S:T716I". 
+B.1.575	USA and Aruba lineage with spike mutations "S:P681H","S:S494P" and "S:T716I".
 B.1.575.1	Spanish sub lineage of B.1.575 with spike mutations "S:P681H","S:S494P" and "S:T716I".
 B.1.575.2	Spain lineage, from pango-designation issue #116
 B.1.576	USA lineage, formally part of B.1.363
@@ -2064,7 +2064,7 @@ B.1.593	USA lineage
 B.1.594	USA lineage
 B.1.595	USA (was B.1.2)
 B.1.595.1	USA (FL into Louisiana)
-B.1.595.2	USA (AZ) 
+B.1.595.2	USA (AZ)
 B.1.595.3	USA (up the east coast)
 B.1.595.4	USA (MN)
 B.1.596	USA lineage
@@ -2369,7 +2369,7 @@ B.1.9	European wide lineage with active sublineages
 B.1.9.1	Scottish Lineage
 B.1.9.2	USA
 B.1.9.3	Belgium
-B.1.9.4	European wide lineage with active cases with activity in Switzerland 
+B.1.9.4	European wide lineage with active cases with activity in Switzerland
 B.1.9.5	European sublineage highly represented in Turkey
 B.3	A European lineage - Germany & UK predominantly
 B.3.1	Welsh lineage
@@ -2389,7 +2389,7 @@ B.6.3	Singapore lineage
 B.6.4	Singapore lineage
 B.6.5	Australian lineage
 B.6.6	Singapore lineage
-B.6.8	Papua New Guinea 
+B.6.8	Papua New Guinea
 B.10	Northern Irish lineage
 B.11	European lineage with sequences from the Netherlands, UK, Austria, Slovakia
 B.12	Japanese lineage
@@ -2501,7 +2501,7 @@ XBB.1.5.3	USA, S:A411S
 XBB.1.5.4	USA, S:T883I directly on XBB.1.5 polytomy
 XBB.1.5.5	USA, S:K1181I
 XBB.1.5.6	USA, S:V952I
-XBB.1.5.7	USA, ORF1b:V248F 
+XBB.1.5.7	USA, ORF1b:V248F
 XBB.1.5.8	USA, N:R10Q
 XBB.1.5.9	USA, N:S327L
 XBB.1.5.10	USA-NC, S:F456L, from #1614
@@ -2842,24 +2842,14 @@ XBK.1	Alias of XBK.1, defined by S:P1162S, found in Slovenia, Germany, and Italy
 XBB.1.15	Alias of XBB.1.15, defined by ORF1ab:A540V, ORF8:G8*, found in USA, Guatemala, and Mexico. Automatically inferred by https://github.com/jmcbroome/autolin.
 XBB.1.9.1.1	Alias of XBB.1.9.1.1, defined by ORF1ab:V5493F, found in Germany, USA, and France. Automatically inferred by https://github.com/jmcbroome/autolin.
 XBL.1	Alias of XBL.1, defined by ORF1ab:A4591T, found in Singapore. Automatically inferred by https://github.com/jmcbroome/autolin.
-XBB.1.15	Alias of XBB.1.15, defined by ORF1ab:A540V, ORF8:G8*, found in USA, Guatemala, and Mexico. Automatically inferred by https://github.com/jmcbroome/autolin.
-XBB.1.9.2.1	Alias of XBB.1.9.2.1, defined by S:Q613H, N:L219F, found in Austria, Australia, and Germany. Automatically inferred by https://github.com/jmcbroome/autolin.
-XBK.1	Alias of XBK.1, defined by S:P1162S, found in Slovenia, Germany, and Italy. Automatically inferred by https://github.com/jmcbroome/autolin.
-XAY.2.3	Alias of XAY.2.3, defined by ORF1ab:A131V, S:R158G, found in Denmark. Automatically inferred by https://github.com/jmcbroome/autolin.
-XBB.1.9.1.1	Alias of XBB.1.9.1.1, defined by ORF1ab:V5493F, found in Germany, USA, and France. Automatically inferred by https://github.com/jmcbroome/autolin.
-XBL.1	Alias of XBL.1, defined by ORF1ab:A4591T, found in Singapore. Automatically inferred by https://github.com/jmcbroome/autolin.
-XBB.1.9.2.1	Alias of XBB.1.9.2.1, defined by S:Q613H, N:L219F, found in Austria, Australia, and Germany. Automatically inferred by https://github.com/jmcbroome/autolin.
 XBB.1.5.2.1	Alias of XBB.1.5.2.1, defined by S:K147I, found in USA. Automatically inferred by https://github.com/jmcbroome/autolin.
 XBB.3.1.1	Alias of XBB.3.1.1, defined by ORF1ab:S2926F, ORF1ab:A3333V, found in Denmark and Netherlands. Automatically inferred by https://github.com/jmcbroome/autolin.
 XBM.1	Alias of XBM.1, defined by ORF1ab:T4090I, found in Canada. Automatically inferred by https://github.com/jmcbroome/autolin.
 XBF.3.1	Alias of XBF.3.1, defined by ORF1ab:P193S, found in Netherlands, Australia, and England. Automatically inferred by https://github.com/jmcbroome/autolin.
-XAY.2.3	Alias of XAY.2.3, defined by ORF1ab:A131V, S:R158G, found in Denmark. Automatically inferred by https://github.com/jmcbroome/autolin.
-XBK.1	Alias of XBK.1, defined by S:P1162S, found in Slovenia, Germany, and Italy. Automatically inferred by https://github.com/jmcbroome/autolin.
 XBB.1.4.2	Alias of XBB.1.4.2, defined by ORF1ab:G295C, found in Italy, Thailand, and Austria. Automatically inferred by https://github.com/jmcbroome/autolin.
 XBB.1.5.11	Alias of XBB.1.5.11, defined by S:V252G, found in USA, England, and Canada. Automatically inferred by https://github.com/jmcbroome/autolin.
 XBB.1.9.3	Alias of XBB.1.9.3, defined by ORF1ab:G5969C, ORF1ab:G6406S, found in Netherlands, Spain, and England. Automatically inferred by https://github.com/jmcbroome/autolin.
 XBB.6.1.1	Alias of XBB.6.1.1, defined by ORF1ab:A6544V, found in USA. Automatically inferred by https://github.com/jmcbroome/autolin.
-XBB.1.15	Alias of XBB.1.15, defined by ORF1ab:A540V, ORF8:G8*, found in USA, Guatemala, and Mexico. Automatically inferred by https://github.com/jmcbroome/autolin.
 XBB.1.5.7.1	Alias of XBB.1.5.7.1, defined by ORF1ab:F4649V, S:N417K, found in USA, Germany, and Mexico. Automatically inferred by https://github.com/jmcbroome/autolin.
 XBC.1.3.1	Alias of XBC.1.3.1, defined by ORF1ab:S5160N, found in Australia. Automatically inferred by https://github.com/jmcbroome/autolin.
 XBB.1.4.1.1	Alias of XBB.1.4.1.1, defined by ORF1ab:T4159I, found in Sweden and Denmark. Automatically inferred by https://github.com/jmcbroome/autolin.
@@ -2868,23 +2858,3 @@ XBF.4	Alias of XBF.4, defined by ORF1ab:H417Y, ORF1ab:K120N, found in England, L
 XBB.2.5	Alias of XBB.2.5, defined by S:Q613H, found in USA, England, and India. Automatically inferred by https://github.com/jmcbroome/autolin.
 miscBA.5.2CJ.1.1	Alias of miscBA.5.2CJ.1.1, defined by ORF1ab:M4855I, found in Japan and England. Automatically inferred by https://github.com/jmcbroome/autolin.
 XBC.1.1.2	Alias of XBC.1.1.2, defined by ORF3a:P262L, S:L244F, found in Australia. Automatically inferred by https://github.com/jmcbroome/autolin.
-XBB.1.9.2.1	Alias of XBB.1.9.2.1, defined by S:Q613H, N:L219F, found in Austria, Australia, and Germany. Automatically inferred by https://github.com/jmcbroome/autolin.
-XBB.1.5.2.1	Alias of XBB.1.5.2.1, defined by S:K147I, found in USA. Automatically inferred by https://github.com/jmcbroome/autolin.
-XBB.3.1.1	Alias of XBB.3.1.1, defined by ORF1ab:S2926F, ORF1ab:A3333V, found in Denmark and Netherlands. Automatically inferred by https://github.com/jmcbroome/autolin.
-XBM.1	Alias of XBM.1, defined by ORF1ab:T4090I, found in Canada. Automatically inferred by https://github.com/jmcbroome/autolin.
-XBK.1	Alias of XBK.1, defined by S:P1162S, found in Slovenia, Germany, and Italy. Automatically inferred by https://github.com/jmcbroome/autolin.
-XAY.2.3	Alias of XAY.2.3, defined by ORF1ab:A131V, S:R158G, found in Denmark. Automatically inferred by https://github.com/jmcbroome/autolin.
-XBF.3.1	Alias of XBF.3.1, defined by ORF1ab:P193S, found in Netherlands, Australia, and England. Automatically inferred by https://github.com/jmcbroome/autolin.
-XBB.1.4.2	Alias of XBB.1.4.2, defined by ORF1ab:G295C, found in Italy, Thailand, and Austria. Automatically inferred by https://github.com/jmcbroome/autolin.
-XBB.1.5.11	Alias of XBB.1.5.11, defined by S:V252G, found in USA, England, and Canada. Automatically inferred by https://github.com/jmcbroome/autolin.
-XBB.1.9.3	Alias of XBB.1.9.3, defined by ORF1ab:G5969C, ORF1ab:G6406S, found in Netherlands, Spain, and England. Automatically inferred by https://github.com/jmcbroome/autolin.
-XBB.6.1.1	Alias of XBB.6.1.1, defined by ORF1ab:A6544V, found in USA. Automatically inferred by https://github.com/jmcbroome/autolin.
-XBB.1.15	Alias of XBB.1.15, defined by ORF1ab:A540V, ORF8:G8*, found in USA, Guatemala, and Mexico. Automatically inferred by https://github.com/jmcbroome/autolin.
-XBB.1.5.7.1	Alias of XBB.1.5.7.1, defined by ORF1ab:F4649V, S:N417K, found in USA, Germany, and Mexico. Automatically inferred by https://github.com/jmcbroome/autolin.
-XBC.1.3.1	Alias of XBC.1.3.1, defined by ORF1ab:S5160N, found in Australia. Automatically inferred by https://github.com/jmcbroome/autolin.
-XBB.1.4.1.1	Alias of XBB.1.4.1.1, defined by ORF1ab:T4159I, found in Sweden and Denmark. Automatically inferred by https://github.com/jmcbroome/autolin.
-XBB.2.2.1	Alias of XBB.2.2.1, defined by ORF7b:E39*, found in Spain, Germany, and England. Automatically inferred by https://github.com/jmcbroome/autolin.
-XBF.4	Alias of XBF.4, defined by ORF1ab:H417Y, ORF1ab:K120N, found in England, Luxembourg, and Iceland. Automatically inferred by https://github.com/jmcbroome/autolin.
-XBB.2.5	Alias of XBB.2.5, defined by S:Q613H, found in USA, England, and India. Automatically inferred by https://github.com/jmcbroome/autolin.
-miscBA.5.2CJ.1.1	Alias of miscBA.5.2CJ.1.1, defined by ORF1ab:M4855I, found in Japan and England. Automatically inferred by https://github.com/jmcbroome/autolin.
-XBB.1.9.1.1	Alias of XBB.1.9.1.1, defined by ORF1ab:V5493F, found in Germany, USA, and France. Automatically inferred by https://github.com/jmcbroome/autolin.
